@@ -33,6 +33,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
+
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
@@ -58,10 +59,23 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
-
+  assets:
+     - assets/images/Knck.png
+     - assets/images/Rouge.png
+     - assets/images/SA2bg.png
+     - assets/images/SA2bg2.png
+     - assets/images/SA2bg3.png
+     - assets/images/knucklesLevels/wild_canyon_beta.png
+     - assets/images/knucklesLevels/pumpkin_hill_beta.jpeg
+     - assets/images/knucklesLevels/aquatic_mine_beta.jpg
+     - assets/images/knucklesLevels/death_chamber_beta.jpg
+     - assets/images/knucklesLevels/meteor_head_beta.jpg
+     - assets/images/rougeLevels/dry_lagoon_beta.png
+     - assets/images/rougeLevels/egg_quarters_beta.png
+     - assets/images/rougeLevels/security_hall_beta.png
+     - assets/images/rougeLevels/mad_space_beta.png
+     - assets/images/KnucklesBg.png
+     - assets/images/RougeBg.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
@@ -73,7 +87,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
+  fonts:
+    - family: sonicFonts
+      fonts:
+        - asset: assets/fonts/NiseSegaSonic.ttf
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
