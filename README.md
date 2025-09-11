@@ -19,6 +19,8 @@ La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos d
 - La app debe reproducir sonidos característicos de los personajes al seleccionarlo
 - La app debe permitir al usuario poner canciones del juegos si es que lo prefiere
 
+## Screen_Navegation
+
 ```mermaid
 stateDiagram-v2
     [*] --> Character_Select
