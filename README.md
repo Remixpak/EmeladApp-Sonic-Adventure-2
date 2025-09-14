@@ -1,16 +1,38 @@
-# emerald_app_sonic_adventure_2
 
-A new Flutter project.
+# Emerald App
 
-## Getting Started
+La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos de esmeraldas para los niveles de Knuckles y Rouge en Sonic Adventure 2 a travéz de las pistas que entrega el juego excluyendo la versión de dreamcast ya que usa pistas distintas.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@Remixpak](https://github.com/Remixpak)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+
+- La app debe permitir al usuario el personaje con el cual jugará.
+- La app debe permitir al usuario el nivel que jugará.
+- La app debe entregar una solución con al menos una pista (puede ser más de ua solución si no se especifican las otras pistas).
+- La app debe permitir al usuario ingresar o tomar una foto del lugar en el que encontró el fragmento de esmeralda.
+- La app debe contar con una pantalla de información que detalle las versiones del juego que son compatibles.
+- La app debe reproducir sonidos característicos de los personajes al seleccionarlo
+- La app debe permitir al usuario poner canciones del juegos si es que lo prefiere
+
+## Screen_Navegation
+
+```mermaid
+stateDiagram-v2
+    [*] --> Character_Select
+    Character_Select --> Level_Select
+    Character_Select --> Settings
+    Settings --> Character_Select
+    Character_Select --> About
+    About --> Character_Select
+    Level_Select --> Hint_Screen
+    Level_Select --> Character_Select
+    Hint_Screen --> Resolution_Screen 
+    Hint_Screen --> Level_Select
+    Resolution_Screen --> Hint_Screen
+    Resolution_Screen --> [*]
+```
