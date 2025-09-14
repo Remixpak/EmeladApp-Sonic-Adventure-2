@@ -1,3 +1,4 @@
+import 'package:emerald_app_sonic_adventure_2/pages/HintScreen.dart';
 import 'package:flutter/material.dart';
 
 class RougelevelsScreen extends StatelessWidget {
@@ -14,7 +15,11 @@ class RougelevelsScreen extends StatelessWidget {
             padding: const EdgeInsets.all(12.0),
             child: InkWell(
               onTap: () {
-                // Acción al presionar
+                toHintScreen(
+                  context,
+                  level['name'] as String,
+                  level['image'] as Image,
+                );
                 print(level['name']);
               },
               borderRadius: BorderRadius.circular(12),
@@ -36,6 +41,16 @@ class RougelevelsScreen extends StatelessWidget {
             ),
           );
         },
+      ),
+    );
+  }
+
+  void toHintScreen(BuildContext context, String levelName, Image imageLevel) {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) =>
+            HintScreen(levelName: levelName, imageLevel: imageLevel),
       ),
     );
   }
