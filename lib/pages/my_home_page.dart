@@ -1,5 +1,7 @@
 import 'package:emerald_app_sonic_adventure_2/pages/knucklesLevels.dart';
 import 'package:emerald_app_sonic_adventure_2/pages/rougeLevels.dart';
+import 'package:emerald_app_sonic_adventure_2/pages/Settings.dart';
+import 'package:emerald_app_sonic_adventure_2/pages/About.dart';
 import 'package:flutter/material.dart';
 
 //import 'package:soundpool/soundpool.dart';
@@ -7,15 +9,6 @@ import 'package:flutter/material.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
-
-  // This widget is the home page of your application. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-
-  // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
-  // used by the build method of the State. Fields in a Widget subclass are
-  // always marked "final".
 
   final String title;
 
@@ -45,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       255,
                       175,
                       2,
-                    ), // contorno
+                    ), //contorno de las letras
                 ),
               ),
               Text(
@@ -53,18 +46,55 @@ class _MyHomePageState extends State<MyHomePage> {
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
-                  color: Color.fromARGB(255, 0, 94, 170), // color de relleno
+                  color: Color.fromARGB(
+                    255,
+                    0,
+                    94,
+                    170,
+                  ), //relleno de las letras
                 ),
               ),
             ],
           ),
         ),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.settings),
+            onPressed: () {
+              to_SettingsScreen();
+              print("Botón Settings presionado");
+            },
+          ),
+          IconButton(
+            icon: const Icon(Icons.info_outline),
+            onPressed: () {
+              to_AboutScreen();
+              print("Botón Info presionado");
+              /*showDialog(
+                context: context,
+                builder: (context) => AlertDialog(
+                  title: const Text("Información"),
+                  content: const Text(
+                    "Emerald App - Sonic Adventure 2\nVersión 1.0",
+                  ),
+                  actions: [
+                    TextButton(
+                      onPressed: () => Navigator.pop(context),
+                      child: const Text("Cerrar"),
+                    ),
+                  ],
+                ),
+              );*/
+            },
+          ),
+        ],
       ),
+
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/SA2bg3.png'), // tu imagen de fondo
-            fit: BoxFit.cover, // cubre toda la pantalla
+            image: AssetImage('assets/images/SA2bg3.png'),
+            fit: BoxFit.cover,
           ),
         ),
         child: Center(
@@ -72,18 +102,13 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(
-                padding: const EdgeInsets.only(bottom: 40.0), //subir el texto
+                padding: const EdgeInsets.only(bottom: 40.0),
                 child: Text(
                   'Select your character',
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
-                    color: const Color.fromARGB(
-                      255,
-                      255,
-                      255,
-                      255,
-                    ), // recomendable si tu fondo es oscuro
+                    color: const Color.fromARGB(255, 255, 255, 255),
                   ),
                 ),
               ),
@@ -97,7 +122,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       height: 200,
                       child: Center(
                         child: IconButton(
-                          iconSize: 80, // Tamaño del área clickeable
+                          iconSize: 80, //Tamaño del área clickeable
                           icon: Image.asset(
                             'assets/images/Knck.png',
                             width: 80,
@@ -105,7 +130,6 @@ class _MyHomePageState extends State<MyHomePage> {
                             fit: BoxFit.contain,
                           ),
                           onPressed: () {
-                            // Acción cuando se presiona
                             print("Botón Knuckles presionado");
                             to_KnucklesLevels();
                           },
@@ -155,6 +179,20 @@ class _MyHomePageState extends State<MyHomePage> {
     Navigator.push(
       context,
       MaterialPageRoute(builder: (context) => RougelevelsScreen()),
+    );
+  }
+
+  void to_SettingsScreen() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => SettingsScreen()),
+    );
+  }
+
+  void to_AboutScreen() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => AboutScreen()),
     );
   }
 }
