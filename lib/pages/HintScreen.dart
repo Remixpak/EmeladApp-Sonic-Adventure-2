@@ -4,51 +4,21 @@ import 'package:flutter/material.dart';
 class HintScreen extends StatefulWidget {
   final String levelName;
   final Image imageLevel;
+
   HintScreen({required this.levelName, required this.imageLevel});
-  /*
- 
- Es necesario pasar el nombre de la etapa por que con eso voy a cachar a que nivel consultar en la base de datos despues 
- y la foto es solo para confirmar que es nivel correcto
- 
- 
- 
- */
+
   @override
-  /*Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Hints for $levelName', style: TextStyle(fontSize: 15)),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(levelName, style: const TextStyle(fontSize: 24)),
-            const SizedBox(height: 20),
-            SizedBox(width: 300, height: 200, child: imageLevel),
-          ],
-        ),
-      ),
-    );
-  }*/
-  //IGNORAR!!!!
   _HintScreenState createState() => _HintScreenState();
 }
 
 class _HintScreenState extends State<HintScreen> {
-  //cntroladores para capturar el texto
   final TextEditingController hint1Controller = TextEditingController();
   final TextEditingController hint2Controller = TextEditingController();
   final TextEditingController hint3Controller = TextEditingController();
 
   @override
   void dispose() {
-    /*
-    aqui se liberan los controladores para evitar fugas de memoria 
-    como usamos un navigator.push y asi esto queda dando vueltas, quiza se me pasaron otro de este
-    tipo de detalles
-
-     */
+    //en teoria por lo que entendi esto flutter lo llama automaticamente cuando se destruye la pantalla
     hint1Controller.dispose();
     hint2Controller.dispose();
     hint3Controller.dispose();
@@ -56,14 +26,9 @@ class _HintScreenState extends State<HintScreen> {
   }
 
   void guardarHints() {
-    //guardar los textos en variables locales o usarlas como quieras
-    String Hint1 = hint1Controller.text;
-    String Hint2 = hint2Controller.text;
-    String Hint3 = hint3Controller.text;
-
-    print('Hint 1: $Hint1');
-    print('Hint 2: $Hint2');
-    print('Hint 3: $Hint3');
+    print('Hint 1: ${hint1Controller.text}');
+    print('Hint 2: ${hint2Controller.text}');
+    print('Hint 3: ${hint3Controller.text}');
   }
 
   void toResultScreen(
@@ -95,11 +60,19 @@ class _HintScreenState extends State<HintScreen> {
           style: const TextStyle(fontSize: 15),
         ),
       ),
-      body: Padding(
+      body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
+          //esto soluciona lo del overflow cuando se abre el teclado ya que por defecto todo lo de la pantalla y el teclado no caben
           children: [
-            widget.imageLevel,
+            SizedBox(
+              width: 300,
+              height: 200,
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(12),
+                child: FittedBox(fit: BoxFit.cover, child: widget.imageLevel),
+              ),
+            ),
             const SizedBox(height: 20),
 
             TextField(
@@ -128,6 +101,7 @@ class _HintScreenState extends State<HintScreen> {
               ),
             ),
             const SizedBox(height: 20),
+
             ElevatedButton(
               onPressed: () {
                 toResultScreen(
