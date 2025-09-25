@@ -10,12 +10,11 @@ class SplashScreen extends StatelessWidget {
         41,
         146,
         233,
-      ), // Fondo azul completo
+      ), //no se uso el app bar aqui para simular una mejor splash screen
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Ícono de la app en el centro
             Image.asset('assets/images/App_ico.png', height: 220),
             const SizedBox(height: 20),
           ],
@@ -23,7 +22,8 @@ class SplashScreen extends StatelessWidget {
       ),
       persistentFooterButtons: [
         SizedBox(
-          width: double.infinity, // hace que el botón ocupe todo el ancho
+          width: double
+              .infinity, //como es un solo boton mejor que ocupe todo el ancho creo yo 
           child: ElevatedButton(
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.white,

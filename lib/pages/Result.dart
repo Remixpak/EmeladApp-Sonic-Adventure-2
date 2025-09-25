@@ -32,6 +32,11 @@ class _ResultScreenState extends State<ResulScreen> {
             Text('Hint 1: ${widget.hint1}'),
             Text('Hint 2: ${widget.hint2}'),
             Text('Hint 3: ${widget.hint3}'),
+            /*
+            
+            despues mostramos el resultado que encuentre en la base de datos
+            
+            */
           ],
         ),
       ),

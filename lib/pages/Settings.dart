@@ -6,9 +6,10 @@ class SettingsScreen extends StatefulWidget {
 }
 
 class _SettingsScreenState extends State<SettingsScreen> {
-  double _volume = 0.5; // volumen inicial
-  String _selectedSong = "Cancion 1"; // canción por defecto
-  bool _isDarkMode = false; // modo oscuro
+  double _volume = 0.5; //volumen inicial
+  String _selectedSong = "Cancion 1"; //cancion por defecto
+  bool _isDarkMode =
+      false; //modo oscuro aunque por ahora solo funciona en esta pantalla porque no se como hacerlo global pero si me da tiempo lo cambio
 
   @override
   Widget build(BuildContext context) {
@@ -23,7 +24,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            // CONTROL DE VOLUMEN
+            //CONTROL DE VOLUMEN
             Text(
               "Volumen",
               style: TextStyle(
@@ -32,6 +33,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               ),
             ),
             Slider(
+              //con este widget se puede seleccionar el volumen deslizando
               value: _volume,
               min: 0,
               max: 1,
@@ -45,7 +47,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             ),
             SizedBox(height: 30),
 
-            // SELECCIÓN DE CANCIÓN
+            //SELECCION DE CANCION
             Text(
               "Cancion de fondo",
               style: TextStyle(
@@ -54,6 +56,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               ),
             ),
             DropdownButton<String>(
+              //como un contenedor que despliega una lista de las canciones
               value: _selectedSong,
               dropdownColor: _isDarkMode ? Colors.grey[800] : Colors.white,
               items: ["Cancion 1", "Cancion 2", "Cancion 3"]
@@ -77,7 +80,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             ),
             SizedBox(height: 30),
 
-            // MODO OSCURO
+            //MODO OSCURO
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [

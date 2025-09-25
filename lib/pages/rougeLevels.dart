@@ -3,6 +3,15 @@ import 'package:flutter/material.dart';
 
 class RougelevelsScreen extends StatelessWidget {
   @override
+  /*
+  
+  ES LO MISMO QUE EN KNUCKLESLEVELS SOLO CAMBIAN LAS IMAGENES Y NOMBRES DE LOS NIVELES
+  
+  
+  
+  
+  
+   */
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Rouge Levels')),

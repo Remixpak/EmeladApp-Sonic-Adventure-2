@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
             onPressed: () {
               to_AboutScreen();
               print("Botón Info presionado");
-              /*showDialog(
+              /*showDialog( no me termina de convencer asi que lo quite por ahora
                 context: context,
                 builder: (context) => AlertDialog(
                   title: const Text("Información"),
@@ -122,7 +122,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       height: 200,
                       child: Center(
                         child: IconButton(
-                          iconSize: 80, //Tamaño del área clickeable
+                          iconSize: 80, //Tamaño del area clickeable
                           icon: Image.asset(
                             'assets/images/Knck.png',
                             width: 80,

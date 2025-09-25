@@ -14,6 +14,7 @@ class KnuckleslevelsScreen extends StatelessWidget {
           return Padding(
             padding: const EdgeInsets.all(12.0),
             child: InkWell(
+              //el InkWell es para hacer que el contenedor sea clickeable asi no son botones y tiene más perso la app en mi opinion
               onTap: () {
                 toHintScreen(
                   context,
@@ -57,6 +58,7 @@ class KnuckleslevelsScreen extends StatelessWidget {
 }
 
 final List<Map<String, Object>> levels = [
+  //los map son como los diccionarios para guardar pares clave valor para identificar cada nivel y la imagen asociada
   {
     'name': 'Wild Canyon',
     'image': Image.asset(

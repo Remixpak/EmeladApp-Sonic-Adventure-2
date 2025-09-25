@@ -5,7 +5,14 @@ class HintScreen extends StatefulWidget {
   final String levelName;
   final Image imageLevel;
   HintScreen({required this.levelName, required this.imageLevel});
-
+  /*
+ 
+ Es necesario pasar el nombre de la etapa por que con eso voy a cachar a que nivel consultar en la base de datos despues 
+ y la foto es solo para confirmar que es nivel correcto
+ 
+ 
+ 
+ */
   @override
   /*Widget build(BuildContext context) {
     return Scaffold(
@@ -24,18 +31,24 @@ class HintScreen extends StatefulWidget {
       ),
     );
   }*/
+  //IGNORAR!!!!
   _HintScreenState createState() => _HintScreenState();
 }
 
 class _HintScreenState extends State<HintScreen> {
-  // 👇 Controladores para capturar el texto
+  //cntroladores para capturar el texto
   final TextEditingController hint1Controller = TextEditingController();
   final TextEditingController hint2Controller = TextEditingController();
   final TextEditingController hint3Controller = TextEditingController();
 
   @override
   void dispose() {
-    //Liberar controladores al destruir el widget
+    /*
+    aqui se liberan los controladores para evitar fugas de memoria 
+    como usamos un navigator.push y asi esto queda dando vueltas, quiza se me pasaron otro de este
+    tipo de detalles
+
+     */
     hint1Controller.dispose();
     hint2Controller.dispose();
     hint3Controller.dispose();
@@ -43,7 +56,7 @@ class _HintScreenState extends State<HintScreen> {
   }
 
   void guardarHints() {
-    // Guardar los textos en variables locales o usarlas como quieras
+    //guardar los textos en variables locales o usarlas como quieras
     String Hint1 = hint1Controller.text;
     String Hint2 = hint2Controller.text;
     String Hint3 = hint3Controller.text;
