@@ -36,6 +36,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   flutter_launcher_icons: ^0.14.4
+  audioplayers: ^6.5.1
 
 dev_dependencies:
   flutter_test:
@@ -75,6 +76,9 @@ flutter:
      - assets/images/KnucklesBg.png
      - assets/images/RougeBg.png
      - assets/images/App_ico.png
+     - assets/sounds/main_theme.mp3
+     - assets/sounds/knuckles_theme.mp3
+     - assets/sounds/rouge_theme.mp3
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 

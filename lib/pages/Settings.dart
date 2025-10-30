@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:audioplayers/audioplayers.dart';
 
 class SettingsScreen extends StatefulWidget {
   @override
@@ -7,10 +8,14 @@ class SettingsScreen extends StatefulWidget {
 
 class _SettingsScreenState extends State<SettingsScreen> {
   double _volume = 0.5; //volumen inicial
-  String _selectedSong = "Cancion 1"; //cancion por defecto
-  bool _isDarkMode =
-      false; //modo oscuro aunque por ahora solo funciona en esta pantalla porque no se como hacerlo global pero si me da tiempo lo cambio
-
+  String _selectedSong = "main_theme"; //cancion por defecto
+  bool _isDarkMode = false; //modo oscuro aunque por ahora solo funciona en esta pantalla porque no se como hacerlo global pero si me da tiempo lo cambio
+  final AudioPlayer _audioPlayer = AudioPlayer();
+  @override
+  void dispose() {
+    ///_audioPlayer.dispose();
+    super.dispose();
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -59,7 +64,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               //como un contenedor que despliega una lista de las canciones
               value: _selectedSong,
               dropdownColor: _isDarkMode ? Colors.grey[800] : Colors.white,
-              items: ["Cancion 1", "Cancion 2", "Cancion 3"]
+              items: ["main_theme", "knuckles_theme", "rouge_theme"]
                   .map(
                     (song) => DropdownMenuItem(
                       value: song,
@@ -84,6 +89,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
+                IconButton(
+                  icon: Icon(Icons.play_arrow),
+                  onPressed: () {
+                    _audioPlayer.play(
+                      AssetSource('sounds/$_selectedSong.mp3'),
+                      volume: _volume,
+                    );
+                  },
+                ),
                 Text(
                   "Modo oscuro",
                   style: TextStyle(
