@@ -11,14 +11,15 @@ class SharedPreferencesService {
     return prefs.getDouble('volume') ?? 0.5; // Valor por defecto 0.5
   }*/
 
-  static Future<void> saveSelectedSong(String song) async {
+  Future<void> saveSelectedSong(String song) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('selectedSong', song);
   }
 
-  static Future<String> getSelectedSong() async {
+  Future<String> getSelectedSong() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getString('selectedSong') ?? 'main_theme';//valor por defecto 'main_theme'
+    return prefs.getString('selectedSong') ??
+        'main_theme'; //valor por defecto 'main_theme'
   }
 
   /*static Future<void> saveDarkMode(bool isDarkMode) async {
