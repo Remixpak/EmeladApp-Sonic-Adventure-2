@@ -7,7 +7,7 @@ class AppData extends ChangeNotifier {
   final AudioPlayer _audioPlayer = AudioPlayer();
 
   String _selectedSong = "main_theme";
-  bool _isDarkMode = false;
+  //bool _isDarkMode = false;
   bool _isSoundEnabled = true;
   bool _loopSingleSong = false;
   bool _loopAllSongs = false;
@@ -21,7 +21,7 @@ class AppData extends ChangeNotifier {
 
   // --- Getters ---
   String get selectedSong => _selectedSong;
-  bool get isDarkMode => _isDarkMode;
+  //bool get isDarkMode => _isDarkMode;
   bool get isSoundEnabled => _isSoundEnabled;
   bool get loopSingleSong => _loopSingleSong;
   bool get loopAllSongs => _loopAllSongs;
@@ -29,6 +29,9 @@ class AppData extends ChangeNotifier {
   // --- Load saved preferences ---
   Future<void> loadData() async {
     _selectedSong = await _prefsService.getSelectedSong();
+    _isSoundEnabled = await _prefsService.getSoundEnabled();
+    _loopSingleSong = await _prefsService.getLoopSingleSong();
+    _loopAllSongs = await _prefsService.getLoopAllSongs();
     notifyListeners();
   }
 
@@ -76,18 +79,20 @@ class AppData extends ChangeNotifier {
     notifyListeners();
   }
 
-  void setDarkMode(bool value) {
+  /*void setDarkMode(bool value) {
     _isDarkMode = value;
     notifyListeners();
-  }
+  }*/
 
-  void setSoundEnabled(bool value) {
+  Future<void> setSoundEnabled(bool value) async {
     _isSoundEnabled = value;
     if (!value) stopMusic();
+    await _prefsService.saveSoundEnabled(value);
     notifyListeners();
   }
+  
 
-  void setLoopSingleSong(bool value) {
+  Future<void> setLoopSingleSong(bool value) async {
     _loopSingleSong = value;
     if (value) {
       _loopAllSongs = false;
@@ -95,10 +100,11 @@ class AppData extends ChangeNotifier {
     } else {
       _audioPlayer.setReleaseMode(ReleaseMode.stop);
     }
+    await _prefsService.saveLoopSingleSong(value);
     notifyListeners();
   }
 
-  void setLoopAllSongs(bool value) {
+  Future<void> setLoopAllSongs(bool value) async {
     _loopAllSongs = value;
     if (value) {
       _loopSingleSong = false;
@@ -106,6 +112,7 @@ class AppData extends ChangeNotifier {
     } else {
       _audioPlayer.setReleaseMode(ReleaseMode.stop);
     }
+    await _prefsService.saveLoopAllSongs(value);
     notifyListeners();
   }
 }

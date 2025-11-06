@@ -1,15 +1,6 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SharedPreferencesService {
-  /*static Future<void> saveVolume(double volume) async {
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setDouble('volume', volume);
-  }
-
-  static Future<double> getVolume() async {
-    final prefs = await SharedPreferences.getInstance();
-    return prefs.getDouble('volume') ?? 0.5; // Valor por defecto 0.5
-  }*/
 
   Future<void> saveSelectedSong(String song) async {
     final prefs = await SharedPreferences.getInstance();
@@ -19,9 +10,36 @@ class SharedPreferencesService {
   Future<String> getSelectedSong() async {
     final prefs = await SharedPreferences.getInstance();
     return prefs.getString('selectedSong') ??
-        'main_theme'; //valor por defecto 'main_theme'
+        'main_theme'; 
   }
 
+  Future<void> saveSoundEnabled(bool isEnabled) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('soundEnabled', isEnabled);
+  }
+
+  Future<bool> getSoundEnabled() async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getBool('soundEnabled') ?? true;
+  }
+
+  Future<void> saveLoopSingleSong(bool loopSingle) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('loopSingleSong', loopSingle);
+  }
+  Future<bool> getLoopSingleSong() async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getBool('loopSingleSong') ?? false;
+  }
+
+  Future<void> saveLoopAllSongs(bool loopAll) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('loopAllSongs', loopAll);
+  }
+  Future<bool> getLoopAllSongs() async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getBool('loopAllSongs') ?? false;
+  }
   /*static Future<void> saveDarkMode(bool isDarkMode) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('isDarkMode', isDarkMode);
