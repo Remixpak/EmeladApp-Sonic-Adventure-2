@@ -1,11 +1,11 @@
 import 'package:emerald_app_sonic_adventure_2/pages/Result.dart';
 import 'package:flutter/material.dart';
+import '../models/levels.dart';
 
 class HintScreen extends StatefulWidget {
-  final String levelName;
-  final Image imageLevel;
+  final Level level;
 
-  HintScreen({required this.levelName, required this.imageLevel});
+  HintScreen({required this.level});
 
   @override
   _HintScreenState createState() => _HintScreenState();
@@ -31,22 +31,13 @@ class _HintScreenState extends State<HintScreen> {
     print('Hint 3: ${hint3Controller.text}');
   }
 
-  void toResultScreen(
-    String hint1,
-    String hint2,
-    String hint3,
-    String levelName,
-  ) {
+  void toResultScreen(String hint1, String hint2, String hint3, Level level) {
     guardarHints();
     Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (context) => ResulScreen(
-          hint1: hint1,
-          hint2: hint2,
-          hint3: hint3,
-          levelName: levelName,
-        ),
+        builder: (context) =>
+            ResulScreen(hint1: hint1, hint2: hint2, hint3: hint3, level: level),
       ),
     );
   }
@@ -56,7 +47,7 @@ class _HintScreenState extends State<HintScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Hints for ${widget.levelName}',
+          'Hints for ${widget.level.name}',
           style: const TextStyle(fontSize: 15),
         ),
       ),
@@ -70,7 +61,7 @@ class _HintScreenState extends State<HintScreen> {
               height: 200,
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(12),
-                child: FittedBox(fit: BoxFit.cover, child: widget.imageLevel),
+                child: FittedBox(fit: BoxFit.cover, child: widget.level.image),
               ),
             ),
             const SizedBox(height: 20),
@@ -108,7 +99,7 @@ class _HintScreenState extends State<HintScreen> {
                   hint1Controller.text,
                   hint2Controller.text,
                   hint3Controller.text,
-                  widget.levelName,
+                  widget.level,
                 );
               },
               child: const Text('Result'),

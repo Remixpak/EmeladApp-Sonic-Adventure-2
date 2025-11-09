@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Nombre del usuario",
+      "type": "text",
+      "required": true
+    },
+    {
+      "id": 2,
+      "text": "¿Que tan facil fue usar la aplicacion?",
+      "type": "multiple_choice",
+      "options": [
+        "Muy dificil",
+        "Dificil",
+        "Neutral",
+        "Facil",
+        "Muy facil"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Que te parecio la informacion y las pistas de los niveles?",
+      "type": "multiple_choice",
+      "options": [
+        "Muy utiles",
+        "Utiles",
+        "Regulares",
+        "Poco utiles"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿La app funciono correctamente (sin errores o demoras)?",
+      "type": "multiple_choice",
+      "options": [
+        "Si",
+        "A veces fallo",
+        "No"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¿Que es lo que mas te gusto o que mejorarias?",
+      "type": "text",
+      "required": false
+    }
+  ]
+}
