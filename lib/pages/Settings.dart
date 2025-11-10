@@ -52,15 +52,14 @@ class SettingsScreen extends StatelessWidget {
             const SizedBox(height: 30),
 
             // Botón de reproducir
-            Center(
+            /*Center(
               child: IconButton(
                 icon: const Icon(Icons.play_arrow),
                 iconSize: 40,
                 color: Colors.blue,
                 onPressed: appData.playMusic,
               ),
-            ),
-
+            ),*/
             const SizedBox(height: 30),
 
             // Repetir una canción

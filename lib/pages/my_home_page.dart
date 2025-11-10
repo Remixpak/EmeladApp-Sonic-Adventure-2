@@ -2,7 +2,9 @@ import 'package:emerald_app_sonic_adventure_2/pages/knucklesLevels.dart';
 import 'package:emerald_app_sonic_adventure_2/pages/rougeLevels.dart';
 import 'package:emerald_app_sonic_adventure_2/pages/Settings.dart';
 import 'package:emerald_app_sonic_adventure_2/pages/About.dart';
+import 'package:emerald_app_sonic_adventure_2/providers/appData.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 //import 'package:soundpool/soundpool.dart';
 //import 'package:flutter/services.dart';
@@ -19,6 +21,8 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
+    final appData = Provider.of<AppData>(context);
+    appData.playMusic();
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,

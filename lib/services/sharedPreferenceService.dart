@@ -1,7 +1,6 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SharedPreferencesService {
-
   Future<void> saveSelectedSong(String song) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString('selectedSong', song);
@@ -9,8 +8,7 @@ class SharedPreferencesService {
 
   Future<String> getSelectedSong() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getString('selectedSong') ??
-        'main_theme'; 
+    return prefs.getString('selectedSong') ?? 'main_theme';
   }
 
   Future<void> saveSoundEnabled(bool isEnabled) async {
@@ -27,15 +25,17 @@ class SharedPreferencesService {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('loopSingleSong', loopSingle);
   }
+
   Future<bool> getLoopSingleSong() async {
     final prefs = await SharedPreferences.getInstance();
-    return prefs.getBool('loopSingleSong') ?? false;
+    return prefs.getBool('loopSingleSong') ?? true;
   }
 
   Future<void> saveLoopAllSongs(bool loopAll) async {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setBool('loopAllSongs', loopAll);
   }
+
   Future<bool> getLoopAllSongs() async {
     final prefs = await SharedPreferences.getInstance();
     return prefs.getBool('loopAllSongs') ?? false;

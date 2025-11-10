@@ -60,12 +60,12 @@ class _ResultScreenState extends State<ResulScreen> {
         });
       } else {
         setState(() {
-          errorMessage = 'No se encontró una coincidencia para estas pistas.';
+          errorMessage = 'No match was found for these hints.';
         });
       }
     } catch (e) {
       setState(() {
-        errorMessage = 'Archivo aún no disponible';
+        errorMessage = 'File not yet available for this level.';
       });
     }
   }

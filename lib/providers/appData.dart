@@ -90,7 +90,6 @@ class AppData extends ChangeNotifier {
     await _prefsService.saveSoundEnabled(value);
     notifyListeners();
   }
-  
 
   Future<void> setLoopSingleSong(bool value) async {
     _loopSingleSong = value;

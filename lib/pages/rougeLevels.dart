@@ -101,10 +101,8 @@ class _RougelevelsScreenState extends State<RougelevelsScreen> {
                                   mainAxisAlignment:
                                       MainAxisAlignment.spaceBetween,
                                   children: [
-                                    Text("Total hints: ${level.totalHints}"),
-                                    Text(
-                                      "Total results: ${level.totalResults}",
-                                    ),
+                                    Text("hints: ${level.totalHints}"),
+                                    Text("results: ${level.totalResults}"),
                                   ],
                                 ),
                               ],
