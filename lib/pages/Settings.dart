@@ -9,7 +9,7 @@ class SettingsScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Configuracion'),
+        title: const Text('Settings'),
         backgroundColor: Colors.blue,
       ),
       body: Container(
@@ -19,7 +19,7 @@ class SettingsScreen extends StatelessWidget {
           children: [
             // Sonido activado
             _buildSwitchRow(
-              label: "Sonido activado",
+              label: "Sound Enabled",
               value: appData.isSoundEnabled,
               onChanged: appData.setSoundEnabled,
             ),
@@ -28,7 +28,7 @@ class SettingsScreen extends StatelessWidget {
 
             // Canción de fondo
             const Text(
-              "Cancion de fondo",
+              "Select Background Song:",
               style: TextStyle(fontSize: 18, color: Colors.black),
             ),
             DropdownButton<String>(
@@ -65,14 +65,14 @@ class SettingsScreen extends StatelessWidget {
 
             // Repetir una canción
             _buildSwitchRow(
-              label: "Repetir solo esta cancion",
+              label: "Repeat only this song",
               value: appData.loopSingleSong,
               onChanged: appData.setLoopSingleSong,
             ),
 
             // Repetir todas las canciones
             _buildSwitchRow(
-              label: "Repetir las 3 canciones",
+              label: "Repeat all songs",
               value: appData.loopAllSongs,
               onChanged: appData.setLoopAllSongs,
             ),

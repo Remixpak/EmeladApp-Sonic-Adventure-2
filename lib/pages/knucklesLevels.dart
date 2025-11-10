@@ -85,8 +85,10 @@ class _KnuckleslevelsScreenState extends State<KnuckleslevelsScreen> {
                                   mainAxisAlignment:
                                       MainAxisAlignment.spaceBetween,
                                   children: [
-                                    Text("Pistas: ${level.totalHints}"),
-                                    Text("Resultados: ${level.totalResults}"),
+                                    Text("Total hints: ${level.totalHints}"),
+                                    Text(
+                                      "Total results: ${level.totalResults}",
+                                    ),
                                   ],
                                 ),
                               ],

@@ -56,7 +56,7 @@ class _AboutScreenState extends State<AboutScreen> {
                   style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(height: 6),
-                Text('Versión 1.0.0', style: TextStyle(fontSize: 14)),
+                Text('Version 1.0.0', style: TextStyle(fontSize: 14)),
                 SizedBox(height: 10),
               ],
             ),
@@ -66,57 +66,57 @@ class _AboutScreenState extends State<AboutScreen> {
           // 🔹 Información
           ExpansionTile(
             leading: const Icon(Icons.info_outline),
-            title: const Text('Informacion'),
+            title: const Text('Important info'),
             childrenPadding: const EdgeInsets.symmetric(
               horizontal: 16.0,
               vertical: 8.0,
             ),
             children: const [
               Text(
-                '⚠️ Esta aplicacion es valida solo para las versiones de:\n'
+                '⚠️ The application is only compatible with the following versions:\n'
                 '- GameCube\n'
                 '- PlayStation 3\n'
                 '- Xbox 360\n'
                 '- PC\n\n'
-                '⚠️ Las pistas deben ser introducidas en ingles.\n\n'
-                '❌ No es compatible con la version de Dreamcast.\n\n',
+                '⚠️ Hints have to be entered in english.\n\n'
+                '❌ Isn´t compatible with Dreamcast version!!!.\n\n',
               ),
             ],
           ),
 
           ExpansionTile(
             leading: const Icon(Icons.people_outline),
-            title: const Text('Creditos'),
+            title: const Text('Credits'),
             childrenPadding: const EdgeInsets.symmetric(
               horizontal: 16.0,
               vertical: 8.0,
             ),
             children: const [
               Text(
-                'Desarrollador: xXREMIXPACKXx\n'
-                'Basado en: SA2B Hunting Locations (Google Sheet)\n',
+                'Developed by: xXREMIXPACKXx\n'
+                'Based on: SA2B Hunting Locations (Google Sheet)\n',
               ),
             ],
           ),
 
           ExpansionTile(
             leading: const Icon(Icons.devices_other),
-            title: const Text('Compatibilidad / Notas'),
+            title: const Text('Compatibility / Notes'),
             childrenPadding: const EdgeInsets.symmetric(
               horizontal: 16.0,
               vertical: 8.0,
             ),
             children: const [
               Text(
-                '- Solo funciona correctamente con las versiones indicadas arriba.\n'
-                '- Introducir nombres en ingles para las pistas.\n',
+                '- Only works correctly with verisons mencioned.\n'
+                '- Enter the hints in english.\n',
               ),
             ],
           ),
 
           ExpansionTile(
             leading: const Icon(Icons.link),
-            title: const Text('Fuente / Enlace'),
+            title: const Text('Link'),
             childrenPadding: const EdgeInsets.symmetric(
               horizontal: 16.0,
               vertical: 8.0,
@@ -142,7 +142,7 @@ class _AboutScreenState extends State<AboutScreen> {
                       );
                     },
                     icon: const Icon(Icons.copy),
-                    label: const Text('Copiar enlace'),
+                    label: const Text('Copy'),
                   ),
                 ],
               ),
@@ -152,7 +152,7 @@ class _AboutScreenState extends State<AboutScreen> {
           // 🔹 Valoración (interactiva)
           ExpansionTile(
             leading: const Icon(Icons.star_border),
-            title: const Text('Valoracion'),
+            title: const Text('Rate this app'),
             childrenPadding: const EdgeInsets.symmetric(
               horizontal: 16.0,
               vertical: 8.0,
@@ -161,7 +161,7 @@ class _AboutScreenState extends State<AboutScreen> {
               if (isLoading)
                 const Center(child: CircularProgressIndicator())
               else if (questions.isEmpty)
-                const Text("No se pudieron cargar las preguntas.")
+                const Text("Cant load the questions.")
               else
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -212,7 +212,7 @@ class _AboutScreenState extends State<AboutScreen> {
                           TextField(
                             decoration: const InputDecoration(
                               border: OutlineInputBorder(),
-                              hintText: 'Escribe tu respuesta...',
+                              hintText: 'Write your aswer...',
                             ),
                             onChanged: (value) {
                               answers[qId] = value;
@@ -269,7 +269,7 @@ class _AboutScreenState extends State<AboutScreen> {
                     }
                   },
                   icon: const Icon(Icons.send),
-                  label: const Text("Enviar valoracion"),
+                  label: const Text("Send this rate"),
                 ),
               ),
             ],

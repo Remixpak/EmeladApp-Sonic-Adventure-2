@@ -136,7 +136,7 @@ class _ResultScreenState extends State<ResulScreen> {
 
                 if (locationType != null)
                   Text(
-                    'Tipo de ubicacion: $locationType',
+                    'Location type: $locationType',
                     style: const TextStyle(fontSize: 13),
                   ),
 
@@ -144,7 +144,7 @@ class _ResultScreenState extends State<ResulScreen> {
                   Padding(
                     padding: const EdgeInsets.symmetric(vertical: 8.0),
                     child: Text(
-                      'Descripcion: $description',
+                      'Description: $description',
                       textAlign: TextAlign.center,
                     ),
                   ),
@@ -164,7 +164,7 @@ class _ResultScreenState extends State<ResulScreen> {
                 ElevatedButton.icon(
                   onPressed: _takePhoto,
                   icon: const Icon(Icons.camera_alt),
-                  label: const Text('Tomar foto de ubicacion'),
+                  label: const Text('Take location photo'),
                 ),
               ],
             ),
