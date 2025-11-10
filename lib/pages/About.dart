@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
-
 import 'package:url_launcher/url_launcher.dart';
+import 'package:flutter_email_sender/flutter_email_sender.dart';
 
 class AboutScreen extends StatefulWidget {
   @override
@@ -229,36 +229,43 @@ class _AboutScreenState extends State<AboutScreen> {
                 child: ElevatedButton.icon(
                   onPressed: () async {
                     final buffer = StringBuffer();
-                    buffer.writeln('Respuestas de la valoracion:\n');
+                    buffer.writeln('Respuestas de la valoración:\n');
                     for (var q in questions) {
                       final id = q['id'];
                       final text = q['text'];
                       final ans = answers[id] ?? 'sin respuesta';
-                      buffer.writeln('Pregunta: $text\n Respuesta: $ans\n');
+                      buffer.writeln('Pregunta: $text\nRespuesta: $ans\n');
                     }
+
                     final email = 'xxremixpakxx@gmail.com';
                     final subject = Uri.encodeComponent(
-                      'Valoracion Emerald App',
+                      'Valoración Emerald App',
                     );
                     final body = Uri.encodeComponent(buffer.toString());
 
                     final Uri emailUri = Uri.parse(
                       "mailto:$email?subject=$subject&body=$body",
                     );
-                    print(emailUri.toString());
-                    if (await canLaunchUrl(emailUri)) {
-                      await launchUrl(
-                        emailUri,
-                        mode: LaunchMode.externalApplication,
-                      );
-                    } else {
-                      ScaffoldMessenger.of(context).showSnackBar(
-                        const SnackBar(
-                          content: Text(
-                            'No se puedo abrir el cliente de correo',
+
+                    try {
+                      if (await canLaunchUrl(emailUri)) {
+                        await launchUrl(
+                          emailUri,
+                          mode: LaunchMode.externalApplication,
+                        );
+                      } else {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text(
+                              'No se pudo abrir el cliente de correo.',
+                            ),
                           ),
-                        ),
-                      );
+                        );
+                      }
+                    } catch (e) {
+                      ScaffoldMessenger.of(
+                        context,
+                      ).showSnackBar(SnackBar(content: Text('Error: $e')));
                     }
                   },
                   icon: const Icon(Icons.send),

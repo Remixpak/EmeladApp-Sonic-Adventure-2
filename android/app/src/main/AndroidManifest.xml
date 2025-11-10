@@ -2,6 +2,17 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
     />
+    <queries>
+    <!-- Permite verificar clientes de correo (Gmail, Outlook, etc.) -->
+    <intent>
+        <action android:name="android.intent.action.SENDTO" />
+        <data android:scheme="mailto" />
+    </intent>
+
+    <!-- (Opcional) Gmail específicamente -->
+    <package android:name="com.google.android.gm" />
+</queries>
+
     <application
         android:label="emerald_app_sonic_adventure_2"
         android:name="${applicationName}"
