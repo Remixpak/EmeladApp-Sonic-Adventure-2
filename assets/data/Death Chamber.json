@@ -1,0 +1,920 @@
+[
+  {
+    "SM's piece ID": 0,
+    "Hint 1": "above the small flame",
+    "Hint 2": "cube-shaped small room",
+    "Hint 3": "small room with a hole near the red room",
+    "Piece #": 0,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 1,
+    "Hint 1": "above the small flame",
+    "Hint 2": "cube-shaped small room",
+    "Hint 3": "dead end of the blue path",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Near the blue room, in the small blue room with the magnetic shield and the diggable wall painting that leads to the corridor to the red room. The key is above the torch on the right wall."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "bat's nest",
+    "Hint 2": "shadow of the green flame",
+    "Hint 3": "on the bird statue in the green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green room, on top of the the statue above the door (there are bats there)."
+  },
+  {
+    "SM's piece ID": 4,
+    "Hint 1": "between the legs",
+    "Hint 2": "pale long legs",
+    "Hint 3": "underwater area of the blue room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue room, just slightly underwater."
+  },
+  {
+    "SM's piece ID": 5,
+    "Hint 1": "black and yellow stripes",
+    "Hint 2": "machine's path",
+    "Hint 3": "on the curved path to the red room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Between the red and green rooms; at the machine path closer to the red room, in the air. (More specific?)"
+  },
+  {
+    "SM's piece ID": 6,
+    "Hint 1": "bug's defense",
+    "Hint 2": "the room with nine flames",
+    "Hint 3": "near the ceiling of the green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green room, on the wall near the ceiling that's two tiers up. (More specific?)"
+  },
+  {
+    "SM's piece ID": 7,
+    "Hint 1": "bug's food",
+    "Hint 2": "six bugs lined up on the wall",
+    "Hint 3": "near the ceiling of the blue room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue room, on the wall near the ceiling that's one tier up. (More specific?)"
+  },
+  {
+    "SM's piece ID": 36,
+    "Hint 1": "burning mad..",
+    "Hint 2": "in front of the map monitor",
+    "Hint 3": "robot between the red room and the green room",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Between the red and green rooms, in the disco room with two hint monitors; in the fire orbinaut."
+  },
+  {
+    "SM's piece ID": 8,
+    "Hint 1": "cowering beetle",
+    "Hint 2": "near the blue light",
+    "Hint 3": "at the corner of a path to the center of the blue room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 9,
+    "Hint 1": "e - 01",
+    "Hint 2": "machine's path",
+    "Hint 3": "path to the green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 10,
+    "Hint 1": "e - 01",
+    "Hint 2": "the Pyramid Core",
+    "Hint 3": "wall of the big machine in the center",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 11,
+    "Hint 1": "embarrassing place",
+    "Hint 2": "the Pyramid Core",
+    "Hint 3": "behind the Eggman stone statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 12,
+    "Hint 1": "eyes bugged out...?",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 13,
+    "Hint 1": "fly higher than a bird!",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "on the bird statue in the green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 14,
+    "Hint 1": "four square pillars",
+    "Hint 2": "blue path",
+    "Hint 3": "center of the vertical path to the blue room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 15,
+    "Hint 1": "golden goddess",
+    "Hint 2": "blue path",
+    "Hint 3": "small room on the path to the center of the blue room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 16,
+    "Hint 1": "golden goddess",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "the box in the green room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 17,
+    "Hint 1": "in the middle of red eyes",
+    "Hint 2": "in the container",
+    "Hint 3": "blue room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 18,
+    "Hint 1": "it will appear when you get closer..",
+    "Hint 2": "on the black iron..",
+    "Hint 3": "path to the green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 19,
+    "Hint 1": "junk storage",
+    "Hint 2": "green treasure chest",
+    "Hint 3": "next to the green room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 20,
+    "Hint 1": "long vertical white line",
+    "Hint 2": "blue lines on both sides",
+    "Hint 3": "long vertical path to the blue room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 21,
+    "Hint 1": "patterned shorts",
+    "Hint 2": "blue stripes on the side",
+    "Hint 3": "behind the stone statue at the Pyramid Core",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 22,
+    "Hint 1": "scorpion tattoo",
+    "Hint 2": "on the big back",
+    "Hint 3": "in the stone statue in the Pyramid Core",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 23,
+    "Hint 1": "shoe box",
+    "Hint 2": "big feet",
+    "Hint 3": "by the foot of the stone statue in the Pyramid Core",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 24,
+    "Hint 1": "snakes looking at each other",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "on the U-shaped ledge on the path that looks like stairs",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 25,
+    "Hint 1": "stink Bug..",
+    "Hint 2": "in front of a big flame",
+    "Hint 3": "green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 26,
+    "Hint 1": "the bat and the hourglass",
+    "Hint 2": "small room with green walls",
+    "Hint 3": "path to the core to the green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 27,
+    "Hint 1": "three container brothers",
+    "Hint 2": "red path",
+    "Hint 3": "in the corner of the path that looks like stairs",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 28,
+    "Hint 1": "treasure chest storage",
+    "Hint 2": "green room",
+    "Hint 3": "on the U-shaped ledge on the path that looks like stairs",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 29,
+    "Hint 1": "two mouths",
+    "Hint 2": "red path",
+    "Hint 3": "on the U-shaped ledge on the path that looks like stairs",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 30,
+    "Hint 1": "water bug",
+    "Hint 2": "near the big stone statue",
+    "Hint 3": "underwater area of the blue room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 31,
+    "Hint 1": "white dot indicates blue",
+    "Hint 2": "buried in the ancient wall painting",
+    "Hint 3": "on the map monitor in the blue room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 32,
+    "Hint 1": "yellow and black stripes",
+    "Hint 2": "between the red pillars",
+    "Hint 3": "the room between the red room and green room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 41,
+    "Hint 1": "a bat and a scorpion",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "wall of the switch room on the machine's path",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 42,
+    "Hint 1": "beauty and the beast",
+    "Hint 2": "the golden box",
+    "Hint 3": "small room on the ceiling of the red room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Red room, in the ceiling alcove which is one tier up."
+  },
+  {
+    "SM's piece ID": 43,
+    "Hint 1": "bug's baby",
+    "Hint 2": "buried in a wall",
+    "Hint 3": "near the ceiling of the red room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red room, on the wall near the ceiling that's two tiers up. (More specific?)"
+  },
+  {
+    "SM's piece ID": 44,
+    "Hint 1": "bugs chatting",
+    "Hint 2": "large room",
+    "Hint 3": "near the ceiling of the red room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red room, on the wall near the ceiling that's two tiers up. (More specific?)"
+  },
+  {
+    "SM's piece ID": 45,
+    "Hint 1": "bugs don't like it",
+    "Hint 2": "golden box",
+    "Hint 3": "small room on the ceiling of the green room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Green room, in the ceiling alcove which is two tiers up; it's in the golden box."
+  },
+  {
+    "SM's piece ID": 46,
+    "Hint 1": "corner light",
+    "Hint 2": "entrance on the right and left side",
+    "Hint 3": "in the corner of a path to the red room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 47,
+    "Hint 1": "four leaves",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "small step in the green room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 48,
+    "Hint 1": "ghost protects the goddess",
+    "Hint 2": "the room with no entrance",
+    "Hint 3": "secret room between the red room and blue room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 49,
+    "Hint 1": "golden goddess",
+    "Hint 2": "follow the bug..",
+    "Hint 3": "small room on the ceiling of the blue room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 50,
+    "Hint 1": "gorilla's hideout",
+    "Hint 2": "near the ceiling",
+    "Hint 3": "dead end room on the path to the green room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 51,
+    "Hint 1": "huge black wall",
+    "Hint 2": "machine's path",
+    "Hint 3": "in the cage between the red room and the blue room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 52,
+    "Hint 1": "huge bug",
+    "Hint 2": "green wall",
+    "Hint 3": "buried above the huge wall decoration by the green room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 53,
+    "Hint 1": "in the treasure chest",
+    "Hint 2": "small room with four pillars",
+    "Hint 3": "secret room that you can enter from the area next to the blue room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 54,
+    "Hint 1": "on the red ball",
+    "Hint 2": "glowing ancient characters",
+    "Hint 3": "the room between the red room and the blue room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 55,
+    "Hint 1": "peek-a-boo Eggman",
+    "Hint 2": "in the ground",
+    "Hint 3": "eggman in the green room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 56,
+    "Hint 1": "roasted keys..",
+    "Hint 2": "above the big flame",
+    "Hint 3": "red room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 57,
+    "Hint 1": "scorpions who don't get along",
+    "Hint 2": "path with four pillars",
+    "Hint 3": "wall by the U-shaped ledge on the blue path",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 58,
+    "Hint 1": "the nape of the neck",
+    "Hint 2": "shadow of the nine flames",
+    "Hint 3": "behind the lion statue in the red room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 59,
+    "Hint 1": "the only one who is looking the other way..",
+    "Hint 2": "six bugs lined up on the wall",
+    "Hint 3": "wall near the ceiling shaped like stairs in the blue room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 60,
+    "Hint 1": "the place where the bug used to be",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "near the ceiling of the red room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 61,
+    "Hint 1": "the treasure that you can't open",
+    "Hint 2": "the light never reaches there",
+    "Hint 3": "small underwater room in the blue room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 62,
+    "Hint 1": "three tails",
+    "Hint 2": "two red flames",
+    "Hint 3": "dig into the three scorpion plates on the path near the red room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 63,
+    "Hint 1": "tilted picture",
+    "Hint 2": "the room with nine flames",
+    "Hint 3": "wall of the red room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 64,
+    "Hint 1": "treasure chest protected by a scorpion",
+    "Hint 2": "small room",
+    "Hint 3": "small room on the ceiling of the red room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 65,
+    "Hint 1": "triangle flame",
+    "Hint 2": "where the water is",
+    "Hint 3": "between three lights in the blue room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 66,
+    "Hint 1": "two beautiful women on the flame",
+    "Hint 2": "in the wall",
+    "Hint 3": "the vertical long path to the blue room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 67,
+    "Hint 1": "two containers",
+    "Hint 2": "the pillar that you can't climb",
+    "Hint 3": "the container on the pillar in the Pyramid Core",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 68,
+    "Hint 1": "two gatekeepers",
+    "Hint 2": "bird's head and human body",
+    "Hint 3": "wall by the entrance to the green room from the Pyramid Core",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 69,
+    "Hint 1": "where the light used to be shinning",
+    "Hint 2": "you came here once before, right?",
+    "Hint 3": "where the Hammer Gloves used to be",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 70,
+    "Hint 1": "you can see it far away, but you can't see it when you get closer..",
+    "Hint 2": "round path",
+    "Hint 3": "under the trap of the Pyramid Core",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 71,
+    "Hint 1": "above Omochao",
+    "Hint 2": "machine's path",
+    "Hint 3": "watch out for the trap on the path to the green room",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Between the red and green rooms; at the machine path closer to the green room. (More specific?)"
+  },
+  {
+    "SM's piece ID": 72,
+    "Hint 1": "angel's ring",
+    "Hint 2": "under the glowing ancient characters",
+    "Hint 3": "stone statue at the Pyramid Core",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Core, circling the head of an Eggman statue (the statue between the blue room path and the Mystic Melody door on the floor)."
+  },
+  {
+    "SM's piece ID": 73,
+    "Hint 1": "between four pillars",
+    "Hint 2": "the room with two flames",
+    "Hint 3": "secret room that you can enter from the area next to the blue room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Secret room next to the blue room (hit the hourglass, get past the door, and dig into the painting). Dig in the middle of the floor, between the four short corner pillars."
+  },
+  {
+    "SM's piece ID": 74,
+    "Hint 1": "bug tree",
+    "Hint 2": "at the base of the tree",
+    "Hint 3": "green path with four pillars",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Straight corridor before the green room, dig in the ground below the bug on the pillar. (More specific, which pillar is it?)"
+  },
+  {
+    "SM's piece ID": 75,
+    "Hint 1": "bugs on patrol",
+    "Hint 2": "five horizontal bugs",
+    "Hint 3": "near the ceiling of the red room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Red room, near the ceiling that's one tier up. (More specific?)"
+  },
+  {
+    "SM's piece ID": 76,
+    "Hint 1": "connect the dots",
+    "Hint 2": "near the green room",
+    "Hint 3": "dig in the area following the scorpion's direction..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Dead-end room near the green room, with the ghosts and gorillas; dig in the ground in front of the near-left scorpion."
+  },
+  {
+    "SM's piece ID": 77,
+    "Hint 1": "dig in the area in front of the scorpion!",
+    "Hint 2": "the bug will show you where the scorpion is",
+    "Hint 3": "under the scorpion plate on the wall of the core area",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 78,
+    "Hint 1": "eggman's eye level",
+    "Hint 2": "altitude of 50 feet",
+    "Hint 3": "glide to the Eggman statue from the pillar in the center..",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 79,
+    "Hint 1": "find the red scorpion hiding in a hole!",
+    "Hint 2": "the room with no entrance",
+    "Hint 3": "secret room between the red room and green room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 80,
+    "Hint 1": "flat Eggman",
+    "Hint 2": "room with four pillars",
+    "Hint 3": "dig into the eye of the Eggman mark on the blue path!",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 81,
+    "Hint 1": "flat scorpion",
+    "Hint 2": "in the ground",
+    "Hint 3": "dig into the scorpion under the trap set on the core!",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 82,
+    "Hint 1": "flying fish swimming in the sand",
+    "Hint 2": "the room with a treasure chest",
+    "Hint 3": "secret room that you can enter from the area next to the blue room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 83,
+    "Hint 1": "four suns looking at each other",
+    "Hint 2": "in the ground",
+    "Hint 3": "center of the four Eggman symbols on the red path",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 84,
+    "Hint 1": "go up, then go right and left by the wind power",
+    "Hint 2": "glowing ancient characters",
+    "Hint 3": "machine's path to the red room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 85,
+    "Hint 1": "gorilla's chase",
+    "Hint 2": "in the ground",
+    "Hint 3": "dead end room on the path to the green room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 86,
+    "Hint 1": "iron protects the safe",
+    "Hint 2": "the room with no entrance",
+    "Hint 3": "secret room between the red room and the green room",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 87,
+    "Hint 1": "it's floating between the flames..",
+    "Hint 2": "bird food",
+    "Hint 3": "center of the green room",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 88,
+    "Hint 1": "merry-go-round",
+    "Hint 2": "around eight pillars",
+    "Hint 3": "suspended circle over the Pyramid Core",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 89,
+    "Hint 1": "on the square cliff",
+    "Hint 2": "in front of the hourglass",
+    "Hint 3": "under the moving trap on the machine's path",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 90,
+    "Hint 1": "rescue Chao who is hunted by a scorpion!",
+    "Hint 2": "in the ground",
+    "Hint 3": "the entrance to the red room coming from the Pyramid Core",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 91,
+    "Hint 1": "scorpion hiding in a box",
+    "Hint 2": "in the ground",
+    "Hint 3": "at the corner of the red path that looks like stairs",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 92,
+    "Hint 1": "the area that four scorpions are looking at",
+    "Hint 2": "the room with four pillars",
+    "Hint 3": "dig in the center area of the blue room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 93,
+    "Hint 1": "the Eggman with a red nose",
+    "Hint 2": "under the square hole",
+    "Hint 3": "secret room between the red room and green room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 94,
+    "Hint 1": "the only one who is looking down",
+    "Hint 2": "small room with four pillars",
+    "Hint 3": "secret room that you can enter from the area next to the blue room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 95,
+    "Hint 1": "there is a flame, but no light can reach there",
+    "Hint 2": "under the square shadow",
+    "Hint 3": "wall near the ceiling that is shaped like stairs in the blue path",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 96,
+    "Hint 1": "two bugs who gather in two trees",
+    "Hint 2": "room where Omochao is",
+    "Hint 3": "next to the red room",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 97,
+    "Hint 1": "two Eggmans facing each other",
+    "Hint 2": "a ring is buried on one side and a key is buried on the other side",
+    "Hint 3": "machine's path to the blue room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 98,
+    "Hint 1": "two guys far away from each other",
+    "Hint 2": "two scorpion plates",
+    "Hint 3": "in the middle of the narrow path to the center of the green room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 99,
+    "Hint 1": "under the red jewel",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "in the ground near the blue room. Look for the bug on the ceiling",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 100,
+    "Hint 1": "under the red light",
+    "Hint 2": "in the dark ground",
+    "Hint 3": "center of the moving trap on the machine's path",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 101,
+    "Hint 1": "wandering ghost",
+    "Hint 2": "room with four pillars",
+    "Hint 3": "path to the center of the green room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 102,
+    "Hint 1": "where the scorpion used to be",
+    "Hint 2": "small room with four pillars",
+    "Hint 3": "secret room between the red room and blue room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 33,
+    "Hint 1": "angry guy",
+    "Hint 2": "on the steel grate",
+    "Hint 3": "path connected to the red room and the blue room",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Long straight corridor between red and blue rooms, on the red side; in a black orbinaut enemy."
+  },
+  {
+    "SM's piece ID": 34,
+    "Hint 1": "angry man",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "robot on the path to the center of the blue room",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Straight corridor before the blue room, in the black orbinaut enemy."
+  },
+  {
+    "SM's piece ID": 35,
+    "Hint 1": "big marshmallow",
+    "Hint 2": "wandering between the pillars",
+    "Hint 3": "huge ghost in the Pyramid Core",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Core, in the large ghost enemy."
+  },
+  {
+    "SM's piece ID": 37,
+    "Hint 1": "fire dance",
+    "Hint 2": "room with the glowing floor",
+    "Hint 3": "path connected to the red room and blue room",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 38,
+    "Hint 1": "red body",
+    "Hint 2": "on the steel grate",
+    "Hint 3": "center of the moving trap on the machine's path",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 39,
+    "Hint 1": "sniper",
+    "Hint 2": "blue path",
+    "Hint 3": "on the U-shaped ledge on the path that looks like stairs",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 40,
+    "Hint 1": "white family",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "huge ghost on a path to the center of the green room",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  }
+]

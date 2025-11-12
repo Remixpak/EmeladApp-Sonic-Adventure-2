@@ -1,0 +1,893 @@
+[
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a brick room that's always underwater",
+    "Hint 2": "switch No.3",
+    "Hint 3": "a hole behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room. Swim all the way down the first brick room to find the piece sitting at the bottom."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a brick room that's always underwater",
+    "Hint 2": "switch No.3",
+    "Hint 3": "a hole behind the caution sign that warns about the ghosts",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room. Swim all the way down the first brick room. The piece is at the beginning of the dash plate passage."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a container on the shelf",
+    "Hint 2": "water-powered lift hall",
+    "Hint 3": "a container on the pulley in the upper area of the hall",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Main room, top level, back right. On the pulley near the ceiling, there's a wooden box; the piece is inside."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a place where the fourth person of the group is buried",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "how do you make a square out skulls that form a triangle?",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Turn left from the entrance to find three small skulls on the ground. Dig in the fourth corner of the incomplete square of skulls, as indicated by the 3rd hint."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a wooden box on the steel beam",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). There are steel beams near the ceiling of the room, with two wooden boxes on them. The piece is in the box you'll see if you turn 90 degrees left from the room entrance.\n(You can tell it's this piece if the radar is yellow before entering the room.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a wooden box on the steel beam",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). There are steel beams near the ceiling of the room, with two wooden boxes on them. The piece is in the box in the back-left corner of the room.\nYou might as well climb up the back wall to get to this piece, because the camera makes it difficult to navigate the steel beams."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "above a pair of skulls wearing ties",
+    "Hint 2": "the largest room",
+    "Hint 3": "try digging into the wooden frame that looks like a window",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "above the skull",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Look forward from the entrance and you'll see a fire-breathing skull; the piece is above that skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "above the vertical line of skulls",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging above the top skull",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). To the right of the ghost room entrance is a vertical line of skulls. Dig in the wall above the top skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "at the bottom of the main pillar",
+    "Hint 2": "down below",
+    "Hint 3": "center of the bottom of the \"Water-Powered Lift\" hall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main room, bottom. The piece is next to the central pillar, at the corner that's facing the path to the brick room."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "at the bottom of the skull fence",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "near a steel box containing a floating platform at the bottom of the hall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main room, bottom. The piece is next to the fence containing the path to the brick rooms. (The piece is on the left side, same side as the furnace.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "behind a falling tree",
+    "Hint 2": "high up",
+    "Hint 3": "next to the lumber in the \"Lantern Room",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "behind a square tree",
+    "Hint 2": "high up",
+    "Hint 3": "try digging next to the lumber in the \"Lantern Room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Top room (from main room, use the pulley at water level 1). Behind the Mystic Melody shrine is a stack of rectangular pieces of wood. Get into the corner behind this wood, and dig in the ground."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "behind two heads",
+    "Hint 2": "down below",
+    "Hint 3": "the corner at the bottom of the \"Water-Powered Lift\" hall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main room, bottom level. In one of the corners of the room (near-right from the start) there are two skulls. The piece is behind them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "behind two heads",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). At the back-left corner of the room, there are two fire-breathing skulls. The piece is behind the skulls.\n(This is a tricky hint because it's ambiguous, and doesn't pick up on the radar when you get near the ghost room chute.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between the skulls facing each other",
+    "Hint 2": "on the narrow path, switch No.2 or No.3",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Get to the end of the narrow path (enter from mid-level at water level 3, or enter from bottom at water level 2). At the top of the slope, dig in the ground between the two small skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "broken mine cart",
+    "Hint 2": "switch No.1",
+    "Hint 3": "inside of the mine cart in the highest room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Top room (from main room, use the pulley at water level 1). To the right of the level 3 switch, there is a flattened mine cart. The piece is in the metal barrel next to it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "chase the skull!",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). To the right of the ghost room entrance is a vertical line of skulls. The piece is in plain sight between the top two skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dangerous place",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging under the moving weight",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Dig in the ground at the corner behind the moving weight."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dented ceiling",
+    "Hint 2": "narrow path, enter from the bottom",
+    "Hint 3": "press switch No.2 and jump on the floating platform. Try Spiral Upper!",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Enter the narrow path from the main room's bottom level. Do as the 3rd hint says. This is one of the few pieces that requires water level 2, not 3 (barring out of bounds tricks).\nFor this bottom Dented ceiling piece, the radar is green only on the southwest half of the starting platform; and the radar is inactive at the mid-level entrtance to the narrow path."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dented ceiling",
+    "Hint 2": "narrow path, enter from the top",
+    "Hint 3": "press switch No.2 and jump on the floating platform. Try Spiral Upper!",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Enter the narrow path from the main room's middle level (follow the minecart track). Do as the 3rd hint says. This is one of the few pieces that requires water level 2, not 3 (barring out of bounds tricks).\nFor this top Dented ceiling piece, the radar is green anywhere on the starting platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dig at the bottom of the slope!",
+    "Hint 2": "on the narrow path, switch No.3",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Enter the narrow path from the main room's middle level, at water level 3. Near the end of the path, there's a slope; dig in front of the skull just before the slope."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dig on the slope",
+    "Hint 2": "on the narrow path, switch No.3",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Enter the narrow path from the main room's middle level, at water level 3. Near the end of the path, there's a slope; dig on the middle of the slope."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dig under the triangle skull!",
+    "Hint 2": "narrow path",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "At water level 3, enter the narrow path from the middle level of the main room, and get to the path's end where there is a triangle of skulls on the wall. Dig under the skulls (at the point which completes a diamond with the skulls)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "down below",
+    "Hint 2": "underwater",
+    "Hint 3": "very narrow path",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room. Swim down and then find the piece at the end of the dash-plate passage."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "entrance to the abyss",
+    "Hint 2": "switch No.3",
+    "Hint 3": "under the floating platform at the back of the narrow path",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Enter the narrow path at water level 1 or 3 (3 preferred for speed), and get to the end. The piece is in the center of the passage below the triangle skull, just above where the platform would be at level 3."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "entrance to the mine cart dumping area",
+    "Hint 2": "switch No.3 on the narrow path",
+    "Hint 3": "in a mine cart on the narrow path with a floating platform",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Enter the narrow path from the main room's bottom level. The piece is in one of the metal barrels before the mine cart dumping area.\n(The radar will be green at the start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "floating with ghosts",
+    "Hint 2": "under a lot of pillars",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). The piece is moving in a circle at ground level at the center of the room."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ghost path",
+    "Hint 2": "small place",
+    "Hint 3": "wander behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). The piece is moving back and forth between the room's entrance and the top of the passage before it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ghost pulley",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "on the pulley on the wall in the \"Water-Powered Lift\" hall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "At the back-center of the main room, there is a pulley between the top and middle levels. The piece is sitting on top of the left side. (At the start, the radar will be green.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ghost window",
+    "Hint 2": "the largest room",
+    "Hint 3": "try digging inside of the wooden window on the roof",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Main hall, top level. From the start, go to the farthest window on the right wall. Dig in the center of this window. (A ghost will pop out of the window when you're close.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "go back and forth on the tracks",
+    "Hint 2": "the largest room",
+    "Hint 3": "on the tracks in the middle area of the \"Water-Powered Lift\" hall",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Main room, middle level. At the back of the room, on the right side, there is a track on the ground. The piece is moving back and forth along this track."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "guardian of the switch",
+    "Hint 2": "high up",
+    "Hint 3": "the GUN's machine near the switch in the \"Lantern Room",
+    "Piece #": "1, 2",
+    "Location type": "Enemy",
+    "Description": "Top room (from main room, use the pulley at water level 1). The piece is in the GUN beetle that appears near the level 3 switch."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "how do you make a \"X\" with skulls?",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "try digging between four skulls",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Main hall, bottom. There are four small skulls on the ground; dig in the center of them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in an oven",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "punch the lid of the oven in the lower area of the hall",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Main hall, bottom, in the furnace directly below the starting platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in an oven",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "punch the lid of the oven in the lower area of the hall",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Main hall, mid-height, in the furnace to the right of the start platform. (The radar will be green at the start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in an oven",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "punch the lid of the oven in the lower area of the hall",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Main hall, bottom, in the furnace at the back of the room, right side."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of a family skulls",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "try digging in front of the skull with a mini-skull at the bottom of the hall",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Main room, bottom, dig in front of the large skull that has a small skull on top."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of a mysterious door",
+    "Hint 2": "high up",
+    "Hint 3": "try digging in front of the door of the \"Lantern Room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Top room (from main room, use the pulley at water level 1). Dig in the ground in front of the Mystic Melody door; not directly next to the door, but around the middle of the minecart track."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of a mysterious door",
+    "Hint 2": "high up",
+    "Hint 3": "try digging in front of the door of the \"Lantern Room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Top room (from main room, use the pulley at water level 1). Dig in the ground right next to the Mystic Melody door."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of sign No.2",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "front of the water level sign in the middle of the\"Water-Powered Lift",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main hall, mid-height, on the right side of the room from the start. The piece is in front of the sign with the number 2.\n(The radar will be green when you start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of the bathing mini-skull",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging in in front of the first skull you saw in the room",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). In front of the entrance is a small skull on the ground, facing the entrance. Dig on the ground directly in front of this skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in the skull fence",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "in the steel box containing a floating platform by the wall in a hall",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room (this leads to the brick rooms). The piece is at the bottom of this chute; not quite centered, but closer to the bars that don't have the spring next to them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in the skull fence",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "in the steel box containing a floating platform by the wall in a hall",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in the triangle skull",
+    "Hint 2": "on the narrow path, switch No.2 or No.3",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "At water level 3, enter the narrow path from the middle level of the main room, and get to the path's end where there is a triangle of skulls on the wall. Dig in between the skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in three metal barrels",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). At the back-right corner of the room, there are three metal barrels. The piece is in the barrel in the corner."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "inside of the overturned mine cart",
+    "Hint 2": "switch No.1",
+    "Hint 3": "inside the mine cart n the highest room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Top room (from main room, use the pulley at water level 1). The piece is in the minecart that's in front of the Mystic Melody door."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "it's moving and it's surrounded by blue lights",
+    "Hint 2": "high up",
+    "Hint 3": "the \"Lantern Room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Top room (from main room, use the pulley at water level 1). The piece is moving back and forth along two sides of the room (the sides close to the Mystic Melody door)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "jail window",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "try digging inside the wooden frame that looks like a window with a fence",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Main room, top level. On the right wall there are three windows, and one of them has a fence over it. Wall-climb behind the fence and dig in the window to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "left eye on the jumbo face",
+    "Hint 2": "the largest room",
+    "Hint 3": "try digging inside the ring that is over the room with two switches",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Just behind the start, there are two hexagons on the wall near the ceiling. Dig into the hexagon on the right."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "metal barrel in the luggage area",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "in a metal barrel in the corner of the \"Water-Powered Lift\" hall",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Main room, top level. At the back left corner there are two metal barrels; the piece is in the barrel in the very corner."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "metal barrel where ghosts live",
+    "Hint 2": "switch No.1",
+    "Hint 3": "inside of the mine cart in the highest room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Top room (from main room, use the pulley at water level 1). The piece is in the metal barrel to the left of the Mystic Melody door."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "mine cart dumping area",
+    "Hint 2": "switch No.1 or No.2?",
+    "Hint 3": "narrow path, down below",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Enter the narrow path from the bottom at water level 1 or 2, or from the middle level at level 1 (from bottom seems faster). At the end of the bottom-level path, you can swim down to the \"mine cart dumping area\" where the piece is."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "near the blue flame",
+    "Hint 2": "high up",
+    "Hint 3": "try digging under the blue lantern",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Top room (from main room, use the pulley at water level 1). Dig under the blue flame left of the Mystic Melody door (not immediately left of it, but attached to the green pillar)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "near the blue flame",
+    "Hint 2": "high up",
+    "Hint 3": "try digging under the blue lantern",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "near the wall",
+    "Hint 2": "do you feel a breeze?",
+    "Hint 3": "in front of the middle fan",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Main room, top level, there are three fans on the left wall. The piece is in front of the fan on the RIGHT.\n(This is a piece you should check for at the beginning.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to a skull that seems out of place",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging to the left of the skull which is the fourth from the top",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). To the right of the ghost room entrance is a vertical line of skulls. Do as the 3rd hint says."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to an overturned ghost",
+    "Hint 2": "narrow path",
+    "Hint 3": "next to a mine cart on the narrow path with tracks",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Enter the narrow path from the main room's middle level (follow the minecart track). The piece is to the right of the first minecart."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to the drain switch",
+    "Hint 2": "switch No.1",
+    "Hint 3": "next to the switch in the highest room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on the mine cart tracks",
+    "Hint 2": "narrow path",
+    "Hint 3": "lower area of the narrow path where there is a floating platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Enter the narrow path from the main room's bottom level. The piece is after the right turn, next to the Chao box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on the mine cart tracks",
+    "Hint 2": "narrow path",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Enter the narrow path from the main room's middle level. The piece is between the two mine carts."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on the steel ghost beam",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). There are steel beams near the ceiling of the room. If you turn 90 degrees left from the room entrance, the piece is on the beam that's the farthest back."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on the steel skull beam",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "on the skull pillar which supports a cliff by the wall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on the tracks of a broken mine cart",
+    "Hint 2": "switch No.1",
+    "Hint 3": "the highest room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Top room (from main room, use the pulley at water level 1). In front of the Mystic Melody door is a minecart; the piece is in between the minecart and Omochao.\n(The radar will be yellow when you start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "overturned mine cart",
+    "Hint 2": "switch No.2 or No.3 on the narrow path",
+    "Hint 3": "in a mine cart on the narrow path with a floating platform",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Enter the narrow path from the main room's middle level (follow the minecart track). The piece is inside the second minecart."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "passageway to the \"Water-Powered Lift",
+    "Hint 2": "on a steel platform",
+    "Hint 3": "on the cliff in the middle area of the \"Water-Powered Lift\" hall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main room, middle level. On the minecart track leading to the narrow path.\n(The radar will be green when you start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "path to the abyss",
+    "Hint 2": "on the narrow path, switch No.1",
+    "Hint 3": "go up and down under the floating platform",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Enter the narrow path at water level 1, and get to the end. The piece is moving up and down far below the triangle skull (below where the platform would be at level 3, and next to the triangle skull wall).\nThis is perhaps the only piece that requires water level 1, unless you go out of bounds (could be a good idea, since this piece involves a lot of slow swimming normally)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "red flowers for a skull couple",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "circle around the spring on the wall",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "red flowers for a skull couple",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "it's buried under the spring on the wall",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Main room, mid-level. There are four windows on one wall, and one window has a red spring. Dig just below that window."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "red flowers for a skull couple",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "it's buried under the spring on the wall",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Main room, mid-level. There are four windows on one wall, and one window has a red spring. Dig in that window just ABOVE the red spring."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "right eye of the jumbo face",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "upper half of the wall of the room with the water level switch",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Just behind the start, there are two hexagons on the wall near the ceiling. The piece is on the left hexagon.\n(The radar will be yellow when you start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sealed window",
+    "Hint 2": "the largest room",
+    "Hint 3": "try digging inside a wooden frame looking like a window with tilted bars",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Main room, bottom level. On the back wall there are two windows; the one on the right has a tilted wooden plank over it. Dig in the bottom of this window."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "skull pair wearing a tie near a metal barrel",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "in the metal barrels that are next to each other in the hall",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Main room, mid-level. There are four windows on one wall; below the lower-left window are two metal barrels. The piece is inside the left barrel.\nYou can get this underwater without breaking the barrels; just swim right next to them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "skull pulley",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "on a turning pulley",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Just left of the start, above the water, to the right of the wheel. The radar will be yellow from your starting point."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "skulls looking at each other in a cave",
+    "Hint 2": "narrow path",
+    "Hint 3": "upper area of the narrow path where there is a floating platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Get to the end of the narrow path (enter from mid-level at water level 3, or enter from bottom at water level 2). At the top of the slope, the piece is between two small skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "something other than a mine cart?",
+    "Hint 2": "narrow path",
+    "Hint 3": "gUN's car with spikes",
+    "Piece #": "1, 2",
+    "Location type": "Enemy",
+    "Description": "Enter the narrow path from the main room's bottom level. Defeat the spiked car.\nYou can either defeat it out of water at level 3, or defeat it with an underwater jump off the ground during damage invincibility.\n(Note: SM's data has two separate pieces listed for this.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "stair-shaped brick room",
+    "Hint 2": "down below",
+    "Hint 3": "underwater path behind \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room. Swim down and through the narrow passage to reach a room with stairs. The piece is past the first stair.\n(You might get to this room faster by going out of bounds.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "stair-shaped brick room",
+    "Hint 2": "down below",
+    "Hint 3": "underwater path behind \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room. Swim down and through the narrow passage to reach a room with stairs. The piece is under the second stair.\n(You might get to this room faster by going out of bounds.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "switch No.1.5?",
+    "Hint 2": "narrow path",
+    "Hint 3": "try digging between two switches",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "talking skulls near the window",
+    "Hint 2": "the largest room",
+    "Hint 3": "try digging into the wooden frame that looks like a window",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the container next to the jumbo skull",
+    "Hint 2": "switch No.3 on the narrow path",
+    "Hint 3": "in a wooden box on the narrow path with a floating platform",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Enter the narrow path from the main room's middle level at water level 3. Before the slope, there are two wooden boxes and a large skull. The piece is in the box next to the skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the container next to the jumbo skull",
+    "Hint 2": "switch No.3 on the narrow path",
+    "Hint 3": "in a wooden box on the narrow path with a floating platform",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Enter the narrow path from the main room's middle level at water level 3. Before the slope, there are two wooden boxes and a large skull. The piece is in the box farther away from the skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the corner of the tracks",
+    "Hint 2": "narrow path",
+    "Hint 3": "lower area of the narrow path where there is a floating platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Enter the narrow path from the main room's bottom level. The piece is in the middle of the path where the path bends right."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the main pillar",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "go around the pillar in the center of the hall",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Main room, middle level. The piece is orbiting the main pillar's thinnest part. (If you are at water level 2 or 3, the piece will be going around the bottom of the thin part.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the skull that is facing the other way",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "try digging in front of the only skull facing the opposite way among four",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Main room, bottom level. On the ground there are four small skulls. Do as the 3rd hint says. (Dig directly in front of the skull, not a distance away.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three fans",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "in front of three propellers in the upper area of the hall",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Main room, top level, there are three fans on the left wall. The piece is in front of the left fan.\n(This is a piece you should check for at the beginning.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three fans",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "in front of three propellers in the upper area of the hall",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Main room, top level, there are three fans on the left wall. The piece is in front of the center fan.\n(This is a piece you should check for at the beginning.)\n(This is farther from the wall compared to the piece 1 version.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three fans",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "the center of three propellers in the upper area of the hall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main room, top level, there are three fans on the left wall. The piece is directly in front of the center fan."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three skulls arguing",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging in the area where the three skulls are looking at...?",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Turn left from the entrance to find three small skulls on the ground. Dig in between the three skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the blue flame",
+    "Hint 2": "switch No.1",
+    "Hint 3": "under the light in the highest room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Top room (from main room, use the pulley at water level 1). The piece is under the blue flame to the right of the level 3 switch.\n(The radar will be green when you start.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the flattened ground",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging under the moving weight",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Dig in the ground under the center of the moving weight."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the flattened ground",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging under the moving weight",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Dig in the ground under the side of the moving weight that's close to the entrance wall.\n(You can tell it's this piece if you see the \"!\" in almost all of the space between the weight and the entrance wall.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the tilted pillar",
+    "Hint 2": "the \"Ghost Room",
+    "Hint 3": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). In front of the entrance, there is a slanted pillar going up to the ceiling; the piece is under the pillar.\n(There is a hidden ghost there, so glide or punch to avoid getting stunned.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the triangle skull",
+    "Hint 2": "narrow path",
+    "Hint 3": "upper area of the narrow path with a floating platform",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "At water level 3, enter the narrow path from the middle level of the main room, and get to the path's end where there is a triangle of skulls on the wall. The piece is below those skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the vertical line of skulls",
+    "Hint 2": "a room behind the \"CAUTION\" sign that warns about the ghosts",
+    "Hint 3": "try digging in the area under the skulls lined up near the wall",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). Just right of the entrance, there's a vertical line of skulls. Dig at the bottom of this line, next to the wall."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "underwater brick room",
+    "Hint 2": "down below",
+    "Hint 3": "underwater path behind \"CAUTION\" sign that warns about the ghosts",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "At water level 3, go down the chute located at mid-height in the main room. Swim all the way down the first brick room to find the piece circling at the bottom."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "water level 2 height",
+    "Hint 2": "a room filled with skulls and ghosts",
+    "Hint 3": "ghosts are waiting for you!",
+    "Piece #": "1, 2",
+    "Location type": "Enemy",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). There are two ghosts patrolling the room; defeat the left ghost to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "water level 2 height",
+    "Hint 2": "a room filled with skulls and ghosts",
+    "Hint 3": "ghosts are waiting for you!",
+    "Piece #": "1, 2",
+    "Location type": "Enemy",
+    "Description": "Ghost room (at water level 2 or 3, go down the chute right of the start). There are two ghosts patrolling the room; defeat the ghost on the right to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "wooden window on a roof",
+    "Hint 2": "water-Powered Lift hall",
+    "Hint 3": "on a wooden frame that looks like a window on a wall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Main room, top level. From the start, go to the farthest window on the right wall. The piece is on top.\n(The radar will be green when you start.)"
+  }
+]

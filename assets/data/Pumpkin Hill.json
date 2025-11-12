@@ -1,0 +1,884 @@
+[
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a farm house",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "a hut on the top of the mountain",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Pumpkin mountain, top. On the lower tier of the mountaintop, at the back side, there's a single hut; the piece is in the hut."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a missile path",
+    "Hint 2": "church mountain",
+    "Hint 3": "a rocket launch pad at the bottom of the mountain",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Church mountain; front-right, near the bottom of the mountain, there's two cages stacked on top of one another. The piece is floating back and forth above the path between the cages and the missile."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a path lined with rings",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "steel beam near the oval tracks",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain; above the lower track with the spikeballs, there are steel pillars with several skulls on them. On the right side, there's a horizontal steel beam between two vertical beams; on this horizontal beam are four rings and the emerald piece, which is in the middle."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a place where flames cross",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "between three skull statues on the mountainside",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, mid-height on the front-left; there's a platform with three fire-breathing skulls. Dig in the ground between the three skulls (either get hit on purpose first, or turn the skulls off with their back buttons)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a place where you can hear the horn",
+    "Hint 2": "church mountain",
+    "Hint 3": "under the tracks on the mountainside",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Church mountain, dig in the ground in the middle of the train track (the track is on the front-left of the mountain)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a place where you can hear the horn",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "under the tracks on the mountainside",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain train station (from the rocket, about 135 degrees right around the mountain). Dig in the train track, aligned approximately with the left side of the pumpkin on the bench."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a place you can hear the horn",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "try placing the ghost train at the bottom using the rotary switch..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost train mountain, lower track with the spikeballs. Dig on the near-left part of the oval track, where the track is oriented about 30 degrees (with the orientation being closer to the long side of the oval). (NOTE: the third hint has nothing to do with this piece.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a place you can't jump..",
+    "Hint 2": "pumpkin field",
+    "Hint 3": "place you can dig but can't jump to, use Y-button to select action window",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, top. On the right side of the mountaintop, there's a couple of steel platforms. Stand under the lower steel platform (approximately between the two support posts) and dig in the ground."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a pumpkin with a creepy smile is looking at...?",
+    "Hint 2": "near a mountain with a ghost face",
+    "Hint 3": "try looking around from the mountain with a creepy smile",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "In the air; the ghost face mountain between pumpkin mountain and church mountain is looking at the piece from a distance."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a scarecrow protecting a container",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "by the foot of a scarecrow on the mountainside",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, mid-low height on the left side; there's a platform with two trees. On the right side of the platform, a scarecrow is guarding a Chao box and a wooden box. Dig in front of the scarecrow."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a three-faced ghost?",
+    "Hint 2": "church mountain",
+    "Hint 3": "above the ghost tree",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, about halfway up at the back side; there's a platform with a hint monitor and a three-faced tree. The piece is over the tree."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a three-foot gap",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "near the foot of stairs on top of the mountain",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain, top. On the right side of the mountaintop, there's a couple of steel platforms. The piece is under the lower steel platform, near the wall."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a tombstone near some grass",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "under some grass by a tombstone behind a tunnel",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Ghost train mountain, mid-height on the right. There's a ledge with three tombstones. The left tombstone has a patch of grass next to its right side; dig in the grass. (Compare with: Tombstone by some grass, which is at Church mountain)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "angel's ring",
+    "Hint 2": "a mountain with a ghost face",
+    "Hint 3": "circle the mountain with an angry face",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Ghost face mountain with a neutral face, front-right of Church mountain; the piece is circling the top of its head."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "bearded mountain...?",
+    "Hint 2": "church mountain",
+    "Hint 3": "in the middle of some grass growing on the side of a tall mountain",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Church mountain; on the right, there's a thin mountain that's almost as tall as Church mountain itself. Near the top on the back side of this thin mountain, there's a large patch of grass on the mountainside. Dig in the center of the grass."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "chimney near some grass",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "by the grass roots growing on the chimney near the rotary platform",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Ghost train mountain, mid-height on the left; on the side of the left mountain, there's a chimney facing the train track turntable. Dig under the chimney."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "cold iron bars..",
+    "Hint 2": "passageway leads to the mountains",
+    "Hint 3": "a cage between Ghost train mountain and Pumpkin mountain",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Bottom paths, on the platform before the Pumpkin mountain rocket; there's a cage with the emerald. Spiral Upper next to the cage to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "double containers",
+    "Hint 2": "church mountain",
+    "Hint 3": "the cliff near the foot of the mountain",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Church mountain, low on the back-left side; there's a wooden box on a black box. The emerald is in the wooden box; there's a spring in the box too, so the most reliable way to get the piece is to drill drive from above. (This piece can be detected on radar only if you jump and glide a bit away from the Church mountain rocket, or if you use the rocket.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "double containers",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "the cliff on the mountain with round tracks",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Ghost train mountain, on the left cliff of the mountain with a circular track (the mountain nearest to the rocket). There's a stack of 2 wooden boxes; break them and get the piece. (This piece can be detected on radar when you're about halfway on the thin steel path leading to the Ghost train mountain rocket.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "double containers",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "a container on the top of the mountain",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Pumpkin mountain, top. On the upper tier of the mountaintop, there's two wooden boxes stacked on each other. The piece is in the bottom box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "endless journey",
+    "Hint 2": "church mountain",
+    "Hint 3": "go around a circle by train",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Church mountain; riding on the back of the train."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "flaming Emeralds",
+    "Hint 2": "three skull brothers",
+    "Hint 3": "at the bottom of Pumpkin mountain",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Pumpkin mountain, low on the right; there's a platform with three fire-breathing skulls. The emerald is in the fire path of the right skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "flattened grass",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "under the grass of the path of the iron ball",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Ghost train mountain, lower track with the spikeballs. Dig in the grass that the spikeballs roll over."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "forgotten hut",
+    "Hint 2": "church mountain",
+    "Hint 3": "in a hut on the mountainside",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Church mountain, about halfway up on the front side; there's a small ledge with a hut. The piece is inside the hut."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "forgotten hut",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "in the hut on the cliff",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Ghost train mountain; on the right side of the left mountain with the circular track, there's a ledge with a hut. The piece is inside the hut."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ghost pumpkin's necklace!",
+    "Hint 2": "a mountain with a ghost face",
+    "Hint 3": "circle the mountain with a sad face",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Ghost face mountain with a frown, front/left of Pumpkin mountain; the piece is circling clockwise around the mountain's \"neck\" (just a bit below the head)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ghost train station",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "pumpkin station on the mountainside",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Pumpkin mountain train station (from the rocket, about 135 degrees right around the mountain). The piece is under the bench, between the center and right posts."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ghost train's guidepost",
+    "Hint 2": "in the air",
+    "Hint 3": "church mountain",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Church mountain, front side; the piece is floating in the air at a place the ghost train would pass through. (It's not quite in front of the ladder-looking pattern on the front of the mountain; it's a bit to the right.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in the center of a triangle",
+    "Hint 2": "church mountain",
+    "Hint 3": "between three ghost trees at the bottom of the mountain",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Church mountain, bottom graveyard; dig between the three trees."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "it's a floor and also a ceiling",
+    "Hint 2": "church mountain",
+    "Hint 3": "under the overhanging steel platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain; at the top on the back side, there's a steel platform with a rocket that goes to Pumpkin mountain. The piece is right under this steel platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "it's a floor, but it's also a ceiling?",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "under the overhanging steel platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain; near the top of the right mountain (the one with the GUN car with a turret), there are two steel platforms; the left one has a switch. Under the right steel platform is the emerald piece. (If you confuse this hint with the Church mountain one, this piece is detectable by radar if you use the Ghost train mountain rocket.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "it's about to fall off",
+    "Hint 2": "church mountain",
+    "Hint 3": "roof of the Church",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, on the center of the slanted church roof."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "it's about to fall off",
+    "Hint 2": "pumpkin snowman",
+    "Hint 3": "pumpkin altar at the bottom of the mountain",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain, bottom front platform with the pumpkin snowman and the tilted steel platform. The piece is on the edge of the tilted platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "king of the hill",
+    "Hint 2": "under the car that fires a cannon",
+    "Hint 3": "from Ghost train mountain, glide towards the balloon!",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost face mountain with a grin, on the far end of the balloons from Ghost Train mountain. Dig under the GUN car with a turret."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "king of the hill",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "in a car that fires a cannon",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Ghost train mountain, on the small mountain on the right; there's a GUN car with a turret on top of the mountain. Defeat it and get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "laughing into tears",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "in front of a big Pumpkin on the top of the mountain",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain, top. At the front-left of the upper tier, there's a large smiling pumpkin; the piece is under its left eye (right from your view)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "laughing pumpkin",
+    "Hint 2": "between Church mountain and Pumpkin mountain",
+    "Hint 3": "on the top of the mountain shaped like a pumpkin ghost",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Ghost face mountain with a grin, between Church mountain and Pumpkin mountain. The piece is in plain sight on top of the ghost face mountain."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "lonely tombstone",
+    "Hint 2": "church mountain",
+    "Hint 3": "in a tombstone on the mountainside",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Church mountain, about halfway up at the back side; there's a platform with a hint monitor, a tombstone, and a three-faced tree. Dig in front of the tombstone."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "lost pumpkin",
+    "Hint 2": "in the ground",
+    "Hint 3": "on Church mountain hillside",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Church mountain, about halfway up on the right side (similar height to the single hut on the front side), there's a small alcove with a single pumpkin. Dig in the ground in front of the pumpkin."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "noise upstairs and downstairs!",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "way down the rotary platform..",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Ghost train mountain; it's right below the bottom of the rotary platform's rocks, which extend way down."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on patrol?",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "go slowly around the outside of the Pumpkin field",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Pumpkin mountain, top. Circling clockwise around the \"rim\" of the mountaintop."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on the dangerous material",
+    "Hint 2": "near Ghost train mountain",
+    "Hint 3": "on the path that leads to Pumpkin mountain",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Near Ghost train mountain; on a low platform to the right of the mountain, there is a missile. The piece is floating above the missile at Spiral-Upper height."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "path of the ghost train",
+    "Hint 2": "on the tracks",
+    "Hint 3": "church mountain",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, on the left side of the train track (the track is on the front-left of the mountain)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pray for a good harvest at a holy place",
+    "Hint 2": "in the air",
+    "Hint 3": "when you see Pumpkin mountain from where the church bell used be..",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Near church mountain; from the inside of the church tower (where a church bell would be), look toward Pumpkin Mountain; you'll see the piece in the air. Glide to it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pumpkin family",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "behind the pumpkin on the top of the mountain",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain, top. On the lower tier of the mountaintop, at the front side, there's a group of pumpkins. The piece is behind the pumpkins in the center and right."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pumpkin family",
+    "Hint 2": "on Papa's back",
+    "Hint 3": "behind a big pumpkin in a pumpkin field",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, top. On the lower tier of the mountaintop, at the front side, there's a group of pumpkins. Dig in the wall behind the big pumpkin in the center."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pumpkin snowman",
+    "Hint 2": "in the rocky wall",
+    "Hint 3": "rocky wall by the Pumpkin altar at the foot of the mountain",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, bottom front platform with the pumpkin snowman (a small pumpkin on top of a large pumpkin). Dig in the wall behind the pumpkin snowman."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pumpkin triangle",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "between three pumpkins that you can find using a rocket",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, high up on the front; there's a platform with three large pumpkins. Dig between these three pumpkins."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pumpkins who don't get along",
+    "Hint 2": "pumpkin field",
+    "Hint 3": "between pumpkins sitting back to back",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, top. On the lower tier of the mountaintop, at the back side, there's two pumpkins next to the wall that are facing away from each other. Dig in the ground between them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sad-eyed pumpkin",
+    "Hint 2": "from Pumpkin mountain, you can see..",
+    "Hint 3": "on the mountain shaped like a pumpkin ghost",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Ghost face mountain with a frown, behind Pumpkin mountain; on top of the ghost face mountain."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sad-eyed pumpkin",
+    "Hint 2": "from Ghost train mountain, you can see..",
+    "Hint 3": "on the mountain shaped like a pumpkin ghost",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Ghost face mountain with a frown, front/left of Pumpkin mountain; on top of the ghost face mountain."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sad-eyed pumpkin",
+    "Hint 2": "a ghost face mountain",
+    "Hint 3": "the right eye of the mountain shaped like a pumpkin ghost",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost face mountain with a frown, front/left of Pumpkin mountain; dig in the right eye of the ghost face."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "scarecrow's house",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "in a hut on the mountainside",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Pumpkin mountain, high on the back side; there's a platform with a hut with three scarecrows in front of it. The piece is inside the hut."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "scramble for the Emeralds!",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "between the trees facing each other ",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain, lower track with the spikeballs. The piece is between the three-faced trees, and you also have to watch out for the spikeballs."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "scramble for the Emeralds!",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "between the trees facing each other in the middle of the mountain",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain, mid-low height on the left side; there's a platform with two trees. The piece is floating between the two trees."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "second skull from the top, fifth from the bottom",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "steel beam near the oval tracks",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain; above the lower track with the spikeballs, there are steel pillars with several skulls on them. On the outer wall of the left support (as seen from the lower track), the piece is on the second skull from the top."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "second skull from the top, fifth from the bottom",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "steel beam near the oval tracks",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain; above the lower track with the spikeballs, there are steel pillars with several skulls on them. On the outer wall of the right support (as seen from the lower track), the piece is on the second skull from the top. (This pillar is a bit higher than the other pillars, so the piece is a bit higher than the other piece of the same clue.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "shady place",
+    "Hint 2": "behind a thick rocky wall",
+    "Hint 3": "church mountain",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain; next to the bottom graveyard, there's a steel platform aligned vertically. The piece is between the mountain and the steel platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "skulls on the right and left",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "steel beam near the oval tracks",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain; above the lower track with the spikeballs, there are steel pillars with several skulls on them. Between the two steel pillars on the back side of the platform, the piece is floating near the tops of the pillars (about the same height as the 'second skull from top' piece)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sleep behind a pumpkin",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "behind a pumpkin that you can find using a rocket!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, high up on the front; there's a platform with three pumpkins, and the center pumpkin has a metal wall behind it. Dig between the center pumpkin and the metal wall."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sleep with the dead..",
+    "Hint 2": "on the top of the mountain",
+    "Hint 3": "church graveyard",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Church mountain, top graveyard. Dig in front of the back-left-most grave (there's a hint monitor in front of it)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sleep with the dead..",
+    "Hint 2": "on the top of the mountain",
+    "Hint 3": "church graveyard",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Church mountain, top graveyard. Dig in front of the first grave on the right."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sleep with the dead..",
+    "Hint 2": "near Church mountain",
+    "Hint 3": "behind a tombstone near the passageway in the air",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Near Church mountain; the nearest high, floating platform to Church mountain has a single tombstone. Dig in front of the tombstone."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sleepless house",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "in the center of the round tracks",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Ghost train mountain, upper track. In a hut in the middle of the circular upper track."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "step back from the platform and wait for the next arrival",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "go around a circle by train",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Pumpkin mountain train station (from the rocket, about 135 degrees right around the mountain); riding the back of the train."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "suffering from a stuffed nose?",
+    "Hint 2": "a ghost face mountain",
+    "Hint 3": "a nose of the mountain shaped like a pumpkin ghost",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost face mountain with a frown, behind Pumpkin mountain; dig in the nose of the ghost face."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "tells time..",
+    "Hint 2": "church mountain",
+    "Hint 3": "place where the church bell used to be",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, in the church's open structure where the church bell would be."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "terrible! A skull buried in the rocky wall!",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "try scaling a mountain from the front without using a rocket!",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, on the front-right side about halfway up. A ways below the platform with the three large pumpkins (pumpkin triangle, etc.), there are two skulls on the slanted mountainside. (This mountainside's in front of the path of the lower rocket; the radar will turn red as you use this rocket.) Dig between the two skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the person you are waiting for finally arrived",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "pumpkin station on the mountainside",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Pumpkin mountain train station (from the rocket, about 135 degrees right around the mountain). On the left edge of the train station bench. (Note that this is exposed, not concealed)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the rocket path",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "on the rocket behind the mountain",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain; low on the back-left side of the mountain, there's a ledge with a rocket. The piece is right near the higher part of the rocket's path."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the skull marks the spot",
+    "Hint 2": "church mountain",
+    "Hint 3": "ghost train crosses the rocky wall",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, about two thirds up at the back side; there's a tiny ledge with a single metal barrel. The piece is on the side of the ledge, in front of a skull mark."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the tombstone guarded by four skulls",
+    "Hint 2": "near Church mountain",
+    "Hint 3": "behind a tombstone on the passageway in the air",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Near Church mountain; the nearest high, floating platform to Church mountain has a single tombstone (and behind the tombstone is a fence with four little skulls on it). The piece is on the ground behind the tombstone."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "there is only one on the cliff",
+    "Hint 2": "church mountain",
+    "Hint 3": "in the metal barrel",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Church mountain, about two thirds up at the back side; there's a tiny ledge with a single metal barrel. The piece is in the barrel; you can just wallclimb into it and get the piece through the barrel."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three against three staring at each other?",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "between the ghost trees facing each other",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Ghost train mountain, mid-height track (the one where the train starts). There's a part with two three-faced trees facing each other, on opposite sides of the track; dig in the part of the track that's between them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three brothers' tombstone",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "under the tombstone behind a tunnel",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Ghost train mountain, mid-height on the right. There's a ledge with three tombstones. Dig in front of the right tombstone."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three brothers' tombstone",
+    "Hint 2": "in the center of a triangle",
+    "Hint 3": "a graveyard at the bottom of Church mountain",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Church mountain, bottom graveyard; dig between the three tombstones."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three brothers' tombstone",
+    "Hint 2": "church mountain",
+    "Hint 3": "a ghost at the bottom of the mountain is holding...?",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Church mountain, bottom graveyard; the ghost enemy is holding the piece. It will often go over the edge of the platform and fall. It'll appear back on the platform shortly, though, so you can defeat it. It should re-appear next to the grass that's closer to the wooden boxes, so punch around there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three metal barrels",
+    "Hint 2": "church mountain",
+    "Hint 3": "in the metal barrel on the cliff",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Church mountain, about halfway up at the left side; there's a small ledge with three metal barrels. The piece is inside the middle barrel."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three metal barrels",
+    "Hint 2": "in the metal barrel on the cliff",
+    "Hint 3": "ghost train mountain",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three scarecrow brothers",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "between three scarecrows on the mountainside",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, high on the back side; there's a platform with a hut with three scarecrows in front of it. Break the hut and dig under where the hut was."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three skull brothers",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "behind the blazing fire skull statue on the mountainside",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Pumpkin mountain, mid-height on the front-left; there's a platform with three fire-breathing skulls. The piece is behind the back skull."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "three-faced ghost",
+    "Hint 2": "near Ghost train mountain",
+    "Hint 3": "on the path near the bottom of the mountain",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Near Ghost train mountain; on a low platform behind the mountain, there's a three-faced tree. The piece is on the ground behind the tree."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "tombstone by some grass",
+    "Hint 2": "on the top of the mountain",
+    "Hint 3": "church graveyard",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, top graveyard. The piece is behind the back-right-most grave (there's a patch of grass in front of the grave)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "turns but doesn't turn",
+    "Hint 2": "on the rusty steel platform",
+    "Hint 3": "ghost train's rotating platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain, on the center of the rotary platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "twin huts",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "by the oval tracks",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Ghost train mountain, lower track with the spikeballs. Next to the oval track are two huts next to each other. The piece is in the left hut."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "twin skulls",
+    "Hint 2": "church mountain",
+    "Hint 3": "at the bottom of the mountain",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Church mountain, below the thin steel path at the front side; there's an alcove with two fire-breathing skulls. The piece is between the skulls."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under a chimney",
+    "Hint 2": "pumpkin mountain",
+    "Hint 3": "near the foot of the only chimney in the pumpkin field",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Pumpkin mountain, top. On the lower tier of the mountaintop, at the back side, there's a chimney on the wall; dig in the wall under the chimney."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the chimney",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "rocky wall under the rotary platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain, mid-height track (the one where the train starts). On the right wall of the turntable structure is a chimney; the piece is under the chimney."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the chimney",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "rocky wall with oval tracks",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain; on the back side of the left mountain with the circular track, there is a chimney below the track. The piece is under this chimney."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the chimney",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "rocky cliff under the rotary platform",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Ghost train mountain; on the rock extending below the rotary platform, low on the front side, there's a chimney. Dig in the wall under the chimney."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under the tracks",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "rocky wall under the rotary platform",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Ghost train mountain, mid-height; check under the back side of the rotary platform to find the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "very high up",
+    "Hint 2": "church mountain",
+    "Hint 3": "on the roof of the church",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Church mountain, at the top of the church steeple."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "wander around in a circle",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "try placing the ghost train at the bottom using the rotary switch",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Ghost train mountain, lower track. Hit the white ball switch at the right mountaintop (the one with the GUN car with a turret) to move the train to the lower track. Then, the emerald piece will be at the back of the train. (The piece should start mid-height in front of the hint monitor ledge, if you want to try an immediate grab.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "wander around in a circle..",
+    "Hint 2": "ghost train mountain",
+    "Hint 3": "move the ghost train to the top of the mountain using the rotary switch",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Ghost train mountain, upper track. Hit the white ball switch at the top of the upper track's mountain to move the train to the upper track. Then, the emerald piece will be at the back of the train. (The piece should start mid-height RIGHT next to the right door, i.e. the door farther from the switch. Climb onto this door for a possible immediate grab, or a near-immediate grab if you start high on the door, wait for the train to appear, and then climb down to collect the piece. You don't need to jump off the door to get the piece.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "when you do something bad, this might happen..",
+    "Hint 2": "church mountain",
+    "Hint 3": "a lonely tombstone at the bottom of the mountain",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Church mountain, down low on the right side (you don't even need the rocket); there's an alcove with a tombstone. Dig in the ground in front of the tombstone."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "when you do something bad, this might happen..",
+    "Hint 2": "near Ghost train mountain",
+    "Hint 3": "under the tombstone far away",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms behind Ghost train mountain; at the platform farthest back, there's a tombstone. Dig in front of the tombstone."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "you can see it, but you can't take it!",
+    "Hint 2": "church mountain",
+    "Hint 3": "in a cage at the bottom of the mountain",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Church mountain; front-right, near the bottom of the mountain, there's two cages stacked on top of one another. The piece is in the bottom cage; simply punch through the cage to get it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "you can see it, but you can't take it..",
+    "Hint 2": "church mountain",
+    "Hint 3": "in a cage on the mountainside",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Church mountain; right side, near the top of the mountain, there's a cage with the piece in it. Simply punch/Spiral Upper to get the piece without breaking the cage."
+  }
+]

@@ -6,23 +6,71 @@ import 'package:emerald_app_sonic_adventure_2/providers/appData.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-//import 'package:soundpool/soundpool.dart';
-//import 'package:flutter/services.dart';
-
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
-
   final String title;
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _MyHomePageState extends State<MyHomePage> with WidgetsBindingObserver {
+  bool _musicStarted = false;
+
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+    // Iniciamos la música después del primer frame
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      _initializeMusic();
+    });
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  Future<void> _initializeMusic() async {
+    if (!_musicStarted && mounted) {
+      final appData = Provider.of<AppData>(context, listen: false);
+      
+      // Esperar a que los datos carguen
+      while (!appData.isDataLoaded) {
+        await Future.delayed(Duration(milliseconds: 100));
+      }
+      
+      // Reproducir música si está habilitada
+      if (appData.isSoundEnabled) {
+        appData.playMusic();
+      }
+      _musicStarted = true;
+    }
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    final appData = Provider.of<AppData>(context, listen: false);
+
+    if (state == AppLifecycleState.paused ||
+        state == AppLifecycleState.detached) {
+      // Pausa o detiene la música cuando sales de la app o bloqueas pantalla
+      appData.stopMusic();
+    } else if (state == AppLifecycleState.resumed && appData.isSoundEnabled) {
+      // Vuelve a reproducir si regresas y el sonido está habilitado
+      appData.playMusic();
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    final appData = Provider.of<AppData>(context);
-    appData.playMusic();
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
@@ -37,25 +85,15 @@ class _MyHomePageState extends State<MyHomePage> {
                   foreground: Paint()
                     ..style = PaintingStyle.stroke
                     ..strokeWidth = 10
-                    ..color = const Color.fromARGB(
-                      255,
-                      255,
-                      175,
-                      2,
-                    ), //contorno de las letras
+                    ..color = const Color.fromARGB(255, 255, 175, 2),
                 ),
               ),
-              Text(
+              const Text(
                 'Emerald App ',
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
-                  color: Color.fromARGB(
-                    255,
-                    0,
-                    94,
-                    170,
-                  ), //relleno de las letras
+                  color: Color.fromARGB(255, 0, 94, 170),
                 ),
               ),
             ],
@@ -74,28 +112,12 @@ class _MyHomePageState extends State<MyHomePage> {
             onPressed: () {
               to_AboutScreen();
               print("Botón Info presionado");
-              /*showDialog( no me termina de convencer asi que lo quite por ahora
-                context: context,
-                builder: (context) => AlertDialog(
-                  title: const Text("Información"),
-                  content: const Text(
-                    "Emerald App - Sonic Adventure 2\nVersión 1.0",
-                  ),
-                  actions: [
-                    TextButton(
-                      onPressed: () => Navigator.pop(context),
-                      child: const Text("Cerrar"),
-                    ),
-                  ],
-                ),
-              );*/
             },
           ),
         ],
       ),
-
       body: Container(
-        decoration: BoxDecoration(
+        decoration: const BoxDecoration(
           image: DecorationImage(
             image: AssetImage('assets/images/SA2bg3.png'),
             fit: BoxFit.cover,
@@ -105,14 +127,14 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Padding(
-                padding: const EdgeInsets.only(bottom: 40.0),
+              const Padding(
+                padding: EdgeInsets.only(bottom: 40.0),
                 child: Text(
                   'Select your character',
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,
-                    color: const Color.fromARGB(255, 255, 255, 255),
+                    color: Colors.white,
                   ),
                 ),
               ),
@@ -126,7 +148,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       height: 200,
                       child: Center(
                         child: IconButton(
-                          iconSize: 80, //Tamaño del area clickeable
+                          iconSize: 80,
                           icon: Image.asset(
                             'assets/images/Knck.png',
                             width: 80,

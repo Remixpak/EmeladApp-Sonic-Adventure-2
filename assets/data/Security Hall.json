@@ -1,0 +1,974 @@
+[
+  {
+    "SM's piece ID": 34,
+    "Hint 1": "a place where you use the most electricity",
+    "Hint 2": "c block",
+    "Hint 3": "in the gun's robot",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Yellow C, in the GUN electric beetle robot on the right (closer to B block)."
+  },
+  {
+    "SM's piece ID": 33,
+    "Hint 1": "a place where you use the most electricity",
+    "Hint 2": "c block",
+    "Hint 3": "in the gun's robot",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 2,
+    "Hint 1": "a place where you use the most electricity",
+    "Hint 2": "dead end",
+    "Hint 3": "at the end of \"c\" block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Yellow C, at the end of the ledge behind the cylinder container."
+  },
+  {
+    "SM's piece ID": 46,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "a block",
+    "Hint 3": "between the boxes",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Red A, between the large boxes on the left and middle, on the chao box."
+  },
+  {
+    "SM's piece ID": 77,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "very carefully..",
+    "Hint 3": "the floor in the middle of the switch room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Upper area, yellow (center), floating in an \"L\" path: it goes between the two north boxes, and between the two east boxes."
+  },
+  {
+    "SM's piece ID": 75,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "four safes",
+    "Hint 3": "yellow \"a\"",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Yellow A, rightmost group of safes, in the lower-left safe."
+  },
+  {
+    "SM's piece ID": 3,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "blue floor",
+    "Hint 3": "at the end of \"a\" block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 47,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "blue floor",
+    "Hint 3": "in the tank",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 74,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "a cardboard box above",
+    "Hint 3": "blue \"a\"",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 76,
+    "Hint 1": "a place which is protected by lasers",
+    "Hint 2": "very carefully..",
+    "Hint 3": "the floor in the middle of the switch room",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 4,
+    "Hint 1": "a place which is protected by spikes",
+    "Hint 2": "dead end",
+    "Hint 3": "at the end of \"a\" block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Red A, floating near the spiked car at the side of the room."
+  },
+  {
+    "SM's piece ID": 78,
+    "Hint 1": "a place which is protected lasers",
+    "Hint 2": "four safes",
+    "Hint 3": "blue \"c\"",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 79,
+    "Hint 1": "a shady place",
+    "Hint 2": "very carefully..",
+    "Hint 3": "the floor in the middle of the switch room",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Upper area, yellow (center), under the left side of the weight."
+  },
+  {
+    "SM's piece ID": 48,
+    "Hint 1": "a three-foot gap",
+    "Hint 2": "c block",
+    "Hint 3": "on the air duct on the yellow floor",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Yellow C, on the square air duct under the divider between yellow and blue."
+  },
+  {
+    "SM's piece ID": 49,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "a block",
+    "Hint 3": "in the tank",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Red A, on the ground near B block, in the cylinder tank."
+  },
+  {
+    "SM's piece ID": 37,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "dancing money",
+    "Hint 3": "in the spiked car",
+    "Piece #": 2,
+    "Location type": "Enemy",
+    "Description": "Red between A and B blocks, in the spiked car."
+  },
+  {
+    "SM's piece ID": 50,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "a dark room",
+    "Hint 3": "on the red switch",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Upper area, red (left), floating high above the safe-opening switch (about at the height of the yellow area's floor)."
+  },
+  {
+    "SM's piece ID": 36,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the spiked car",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Upper area, red (left), in the spiked car enemy."
+  },
+  {
+    "SM's piece ID": 1,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "c block",
+    "Hint 3": "in the container",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 35,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the gun's robot",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 80,
+    "Hint 1": "air conditioner of the security hall",
+    "Hint 2": "under the laser",
+    "Hint 3": "switch room",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 5,
+    "Hint 1": "black and yellow stripes",
+    "Hint 2": "by the wall",
+    "Hint 3": "in the corner of \"a\" block and \"b\" block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Between A and B blocks, away from the safes, low on the wall next to the corner."
+  },
+  {
+    "SM's piece ID": 6,
+    "Hint 1": "black and yellow stripes",
+    "Hint 2": "by the wall",
+    "Hint 3": "in the corner of \"b\" block and \"c\" block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Between B and C blocks, away from the safes, high on the wall next to the corner."
+  },
+  {
+    "SM's piece ID": 38,
+    "Hint 1": "everyone has seen it at least once before..",
+    "Hint 2": "down below",
+    "Hint 3": "in the spiked car",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 51,
+    "Hint 1": "hiding up there..",
+    "Hint 2": "a block",
+    "Hint 3": "on the square air duct",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Near the ceiling in A block, on the air duct closest to the ceiling."
+  },
+  {
+    "SM's piece ID": 7,
+    "Hint 1": "hiding up there..",
+    "Hint 2": "a block",
+    "Hint 3": "below the square air duct",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 52,
+    "Hint 1": "hiding up there..",
+    "Hint 2": "c block",
+    "Hint 3": "near the ceiling",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "NOT YET ON MAP",
+    "Hint 1": "hiding up there..",
+    "Hint 2": "b block",
+    "Hint 3": "on the square air duct",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 53,
+    "Hint 1": "if you kick it, it will get very mad and turn red",
+    "Hint 2": "a dark room",
+    "Hint 3": "a tank near the blue switch",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Upper area, blue (right), in the cylinder tank to the left of the blue switch."
+  },
+  {
+    "SM's piece ID": 54,
+    "Hint 1": "if you kick it, it will get very mad and turn red",
+    "Hint 2": "dead end",
+    "Hint 3": "a tank in \"c\" block",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 55,
+    "Hint 1": "in a cold box",
+    "Hint 2": "blue floor",
+    "Hint 3": "a safe in \"a\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Blue A, middle group of safes, in the upper-right safe."
+  },
+  {
+    "SM's piece ID": 82,
+    "Hint 1": "in the air",
+    "Hint 2": "air conditioner of the security hall",
+    "Hint 3": "c block",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Red C, between the fans. Doesn't need drill drive, you can get it at the lowest point of your floating."
+  },
+  {
+    "SM's piece ID": 81,
+    "Hint 1": "in the air",
+    "Hint 2": "air conditioner of the security hall",
+    "Hint 3": "a block",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 8,
+    "Hint 1": "in the tank",
+    "Hint 2": "a dark room",
+    "Hint 3": "entrance to the red switch",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 83,
+    "Hint 1": "invincible guard",
+    "Hint 2": "dancing wind",
+    "Hint 3": "switch room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Upper area, red (left), floating in a circle around the beetle enemy in the back."
+  },
+  {
+    "SM's piece ID": 84,
+    "Hint 1": "invisible rings mark the spot",
+    "Hint 2": "under the cardboard box",
+    "Hint 3": "a safe in \"c\" block",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Yellow C, middle group of safes, in the lower-left safe (the one that the invisible ring arrow is pointing at)."
+  },
+  {
+    "SM's piece ID": 85,
+    "Hint 1": "it's a floor and also a ceiling",
+    "Hint 2": "a high place",
+    "Hint 3": "in the sky above the switch room",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Upper area, under the highest platform (the lost chao platform); glide into the emerald from the wooden boxes of the platform below."
+  },
+  {
+    "SM's piece ID": 56,
+    "Hint 1": "it's a floor and also a ceiling",
+    "Hint 2": "yellow floor",
+    "Hint 3": "between \"b\" block and \"c\" block",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Yellow between B and C, in the upper corner under the blue area's floor."
+  },
+  {
+    "SM's piece ID": 39,
+    "Hint 1": "lonely at work",
+    "Hint 2": "dead end",
+    "Hint 3": "in the gun's robot",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 57,
+    "Hint 1": "lonely door",
+    "Hint 2": "blue floor",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Blue B, on the extreme right in the lone safe."
+  },
+  {
+    "SM's piece ID": 58,
+    "Hint 1": "lonely door",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red B, in a lone safe to the right of the weight."
+  },
+  {
+    "SM's piece ID": 59,
+    "Hint 1": "lonely door",
+    "Hint 2": "yellow floor",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 40,
+    "Hint 1": "lost child",
+    "Hint 2": "dead end",
+    "Hint 3": "in the spiked car",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Red A, in the spiked car at the side of the room."
+  },
+  {
+    "SM's piece ID": "GAMECUBE",
+    "Hint 1": "near the letter box",
+    "Hint 2": "blue floor",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Blue B, group of safes left of the cages, in the lower-right safe (right next to the letter B)."
+  },
+  {
+    "SM's piece ID": 60,
+    "Hint 1": "next to a cardboard box",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"c\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red C, middle group of safes, in the upper-right safe."
+  },
+  {
+    "SM's piece ID": 86,
+    "Hint 1": "next to the a cardboard box",
+    "Hint 2": "obstacle ahead",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Yellow B, guarded by the right weight, in the lower-left safe that's guarded by the weight (there's an open safe on the left with a cardboard box in it)."
+  },
+  {
+    "SM's piece ID": 61,
+    "Hint 1": "next to the cardboard boxes",
+    "Hint 2": "yellow floor",
+    "Hint 3": "a safe in \"a\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 41,
+    "Hint 1": "on a big box",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the gun's robot",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Upper area, blue (right), in the robot standing on the northwest block."
+  },
+  {
+    "SM's piece ID": 42,
+    "Hint 1": "on a big box",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the gun's robot",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Upper area, blue (right), in the robot standing on the southwest block."
+  },
+  {
+    "SM's piece ID": 87,
+    "Hint 1": "piled up containers",
+    "Hint 2": "a high place",
+    "Hint 3": "in the sky above \"b\" block",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Near the ceiling of the lower area, in the center of the room; in the lower wooden box of two wooden boxes stacked on top of each other."
+  },
+  {
+    "SM's piece ID": 88,
+    "Hint 1": "piled up containers",
+    "Hint 2": "a high place",
+    "Hint 3": "in the sky above the switch room",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Upper area, on the high platform with two wooden boxes stacked on top of each other; it's in the lower wooden box."
+  },
+  {
+    "SM's piece ID": 62,
+    "Hint 1": "protect \"blue",
+    "Hint 2": "a dark room",
+    "Hint 3": "between the boxes",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Upper area, blue (right), behind the southwest big box and next to a black box."
+  },
+  {
+    "SM's piece ID": 44,
+    "Hint 1": "protect \"blue\"",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the spiked car",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Upper area, blue (right), in the spiked car enemy."
+  },
+  {
+    "SM's piece ID": 43,
+    "Hint 1": "protect \"blue\"",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the gun's robot",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 89,
+    "Hint 1": "red \"x\"",
+    "Hint 2": "four bodyguards",
+    "Hint 3": "switch room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 9,
+    "Hint 1": "riding on the ____?",
+    "Hint 2": "near the ceiling",
+    "Hint 3": "between \"a\" block and \"b\" block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue between A and B, at the ceiling corner of the main room."
+  },
+  {
+    "SM's piece ID": 10,
+    "Hint 1": "riding on the ____?",
+    "Hint 2": "yellow floor",
+    "Hint 3": "b block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Yellow B, in plain sight above the right weight."
+  },
+  {
+    "SM's piece ID": 90,
+    "Hint 1": "shows up once in a while",
+    "Hint 2": "a dark room",
+    "Hint 3": "the box for the scrapped weapons in the switch room",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 91,
+    "Hint 1": "six safes",
+    "Hint 2": "obstacle ahead",
+    "Hint 3": "yellow \"b\"",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Yellow B, in the rightmost group of six safe doors; the upper-middle safe (the upper-right one of the four guarded by the weight). The weight switch is above the left side of the weight (but you don't really need to use the switch)."
+  },
+  {
+    "SM's piece ID": 45,
+    "Hint 1": "taking a nap..",
+    "Hint 2": "a dark room",
+    "Hint 3": "in the gun's robot",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Upper area, blue (right), robot on the northeast box (it won't \"wake up\" when you get near)."
+  },
+  {
+    "SM's piece ID": 63,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "blue floor",
+    "Hint 3": "a safe in \"c\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Blue C, leftmost group of safes, in the upper-right safe. If you're in the upper area in the blue (right) part, at the right side of the room, then the radar will be green for this."
+  },
+  {
+    "SM's piece ID": 93,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "two-colored container",
+    "Hint 3": "in the sky above \"a\" block",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Near the ceiling in A block, in a wooden box on a platform with three boxes (two wooden, one iron)."
+  },
+  {
+    "SM's piece ID": 64,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"a\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red A, leftmost group of safes, in the upper-left safe."
+  },
+  {
+    "SM's piece ID": 66,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"c\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red C, leftmost group of safes, in the upper-left safe."
+  },
+  {
+    "SM's piece ID": 11,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "c block",
+    "Hint 3": "in the container",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 65,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 92,
+    "Hint 1": "the letter \"l\"",
+    "Hint 2": "sometimes in \"a\" block, sometimes in \"b\" block",
+    "Hint 3": "near the ceiling in \"a\" block and \"b\" block",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 96,
+    "Hint 1": "the next one is empty",
+    "Hint 2": "watch out for the red laser",
+    "Hint 3": "blue \"c\"",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Blue C, middle group of safes, in the lower-left safe."
+  },
+  {
+    "SM's piece ID": 95,
+    "Hint 1": "the next one is empty",
+    "Hint 2": "obstacle ahead",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Yellow B, guarded by the left weight, in the lower-right safe guarded by the weight."
+  },
+  {
+    "SM's piece ID": 94,
+    "Hint 1": "the next one is empty",
+    "Hint 2": "a place which is protected by lasers",
+    "Hint 3": "yellow \"a\"",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 67,
+    "Hint 1": "the one above is empty",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"a\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "NONE",
+    "Hint 1": "the one below is empty",
+    "Hint 2": "blue floor",
+    "Hint 3": "a safe in \"c\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Blue C, group of safes right of the square air duct, in the upper-right safe."
+  },
+  {
+    "SM's piece ID": 68,
+    "Hint 1": "the one below is empty",
+    "Hint 2": "red floor",
+    "Hint 3": "a safe in \"a\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 98,
+    "Hint 1": "three cylinders",
+    "Hint 2": "watch out for the red laser",
+    "Hint 3": "yellow \"a\"",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Yellow A, rightmost group of safes, in the lower-right safe (next to three small cylinders)."
+  },
+  {
+    "SM's piece ID": 12,
+    "Hint 1": "three cylinders",
+    "Hint 2": "down below",
+    "Hint 3": "c block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 97,
+    "Hint 1": "three cylinders",
+    "Hint 2": "watch out for the red laser",
+    "Hint 3": "blue \"c\"",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 99,
+    "Hint 1": "tilted laser",
+    "Hint 2": "block the intruder from the air",
+    "Hint 3": "blue \"c\"",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Yellow/Blue C, moving back and forth in the air, near a tilted laser that goes from the center of the stage to the safes area."
+  },
+  {
+    "SM's piece ID": 69,
+    "Hint 1": "two ____ looking down below..",
+    "Hint 2": "b block",
+    "Hint 3": "in the tank",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Blue B, on the left, in the left cylinder tank."
+  },
+  {
+    "SM's piece ID": 24,
+    "Hint 1": "two containers facing each other",
+    "Hint 2": "c block",
+    "Hint 3": "on the square air duct",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue C, on the air duct, between four wooden boxes."
+  },
+  {
+    "SM's piece ID": 21,
+    "Hint 1": "two containers facing each other",
+    "Hint 2": "a block",
+    "Hint 3": "on the fence",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Red A, on the tall fence next to the fans, between the black boxes."
+  },
+  {
+    "SM's piece ID": 23,
+    "Hint 1": "two containers facing each other",
+    "Hint 2": "c block",
+    "Hint 3": "on the fence",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Red C, on the far end of the fence, between two black boxes."
+  },
+  {
+    "SM's piece ID": 20,
+    "Hint 1": "two containers facing each other",
+    "Hint 2": "a block",
+    "Hint 3": "in the container",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Yellow A, in a wooden container of four wooden containers on a square air duct."
+  },
+  {
+    "SM's piece ID": 22,
+    "Hint 1": "two containers facing each other",
+    "Hint 2": "a block",
+    "Hint 3": "on the square air duct",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 16,
+    "Hint 1": "two-colored container",
+    "Hint 2": "b block",
+    "Hint 3": "a small room with a rocket",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "B block, the small room with a rocket that's under the pulley leading to the upper area; between the wooden and black boxes on the left."
+  },
+  {
+    "SM's piece ID": 13,
+    "Hint 1": "two-colored container",
+    "Hint 2": "a block",
+    "Hint 3": "in the container",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Red A, between the large boxes on the middle and right, in the left wooden box."
+  },
+  {
+    "SM's piece ID": 14,
+    "Hint 1": "two-colored container",
+    "Hint 2": "a block",
+    "Hint 3": "on a large box",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Red A, on a large box with black and gray boxes on it. (The emerald's between the black boxes.)"
+  },
+  {
+    "SM's piece ID": 19,
+    "Hint 1": "two-colored container",
+    "Hint 2": "c block",
+    "Hint 3": "on a large box",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Red C, on a big box next to the fence, between the two black boxes (there's two black and two wooden boxes there)."
+  },
+  {
+    "SM's piece ID": 71,
+    "Hint 1": "two-colored container",
+    "Hint 2": "on the fence",
+    "Hint 3": "switch room",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Upper area, yellow (center), on the right fence in the wooden box."
+  },
+  {
+    "SM's piece ID": 70,
+    "Hint 1": "two-colored container",
+    "Hint 2": "near the letter box",
+    "Hint 3": "in the container",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Yellow A, in the wooden container next to the black container."
+  },
+  {
+    "SM's piece ID": 15,
+    "Hint 1": "two-colored container",
+    "Hint 2": "a dark room",
+    "Hint 3": "entrance to the switch room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 17,
+    "Hint 1": "two-colored container",
+    "Hint 2": "b block",
+    "Hint 3": "on the fence",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 18,
+    "Hint 1": "two-colored container",
+    "Hint 2": "b block",
+    "Hint 3": "on the square air duct",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 73,
+    "Hint 1": "under the square air duct",
+    "Hint 2": "yellow floor",
+    "Hint 3": "a safe in \"c\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Yellow C, left group of safes, in the lower-left safe."
+  },
+  {
+    "SM's piece ID": 72,
+    "Hint 1": "under the square air duct",
+    "Hint 2": "yellow floor",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 25,
+    "Hint 1": "under the unbreakable container",
+    "Hint 2": "b block",
+    "Hint 3": "under the square air duct",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Red B, under the air duct that has two wooden boxes and one black box, against the wall (so that the emerald's right under the black box)."
+  },
+  {
+    "SM's piece ID": 100,
+    "Hint 1": "useless _____",
+    "Hint 2": "watch out for the red laser",
+    "Hint 3": "the floor in the middle of the switch room",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Upper area, yellow (center), on the northeast robot-junk box."
+  },
+  {
+    "SM's piece ID": 26,
+    "Hint 1": "useless safe",
+    "Hint 2": "blue floor",
+    "Hint 3": "a block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue A, middle group of safes, in the lower-left safe."
+  },
+  {
+    "SM's piece ID": 27,
+    "Hint 1": "useless safe",
+    "Hint 2": "blue floor",
+    "Hint 3": "b block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 28,
+    "Hint 1": "useless safe",
+    "Hint 2": "blue floor",
+    "Hint 3": "c block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 29,
+    "Hint 1": "useless safe",
+    "Hint 2": "yellow floor",
+    "Hint 3": "a block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 30,
+    "Hint 1": "useless safe",
+    "Hint 2": "yellow floor",
+    "Hint 3": "b block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 31,
+    "Hint 1": "useless safe",
+    "Hint 2": "yellow floor",
+    "Hint 3": "c block",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 101,
+    "Hint 1": "with a cardboard box",
+    "Hint 2": "dancing money",
+    "Hint 3": "a safe in \"b\" block",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Red B, in the safe that's just above and left of the safes guarded by the weight. (Top row, 8th from left)"
+  },
+  {
+    "SM's piece ID": 102,
+    "Hint 1": "with a lot of money",
+    "Hint 2": "air conditioner of the security hall",
+    "Hint 3": "a block",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Red A, floating in a circle above the far side of the fans."
+  },
+  {
+    "SM's piece ID": 103,
+    "Hint 1": "yellow rectangle",
+    "Hint 2": "a container in the middle",
+    "Hint 3": "near the ceiling in \"b\" block",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 32,
+    "Hint 1": "you can see it from the bottom, but can't get to it from the bottom",
+    "Hint 2": "the place you often go by",
+    "Hint 3": "passageway to the upper room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Passage to the upper room; it's on the way up when you take the pulley."
+  },
+  {
+    "SM's piece ID": 105,
+    "Hint 1": "you can see it, but you can't get it",
+    "Hint 2": "b block",
+    "Hint 3": "a safe in a cage",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Blue B, in the safe blocked by cages; use the missile in the laser-guarded area under the platform to the upper area."
+  },
+  {
+    "SM's piece ID": 104,
+    "Hint 1": "you can see it, but you can't get it",
+    "Hint 2": "a high place",
+    "Hint 3": "in the sky above \"c\" block",
+    "Piece #": 3,
+    "Location type": "Assorted",
+    "Description": "Not available yet"
+  }
+]

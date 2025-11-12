@@ -12,12 +12,16 @@ class AppData extends ChangeNotifier {
   bool _loopSingleSong = false;
   bool _loopAllSongs = false;
   int _currentSongIndex = 0;
+  bool _isDataLoaded = false;
 
   final List<String> _songs = ["main_theme", "knuckles_theme", "rouge_theme"];
 
   AppData() {
     loadData();
   }
+
+  // Getter para verificar si los datos han cargado
+  bool get isDataLoaded => _isDataLoaded;
 
   // --- Getters ---
   String get selectedSong => _selectedSong;
@@ -32,6 +36,7 @@ class AppData extends ChangeNotifier {
     _isSoundEnabled = await _prefsService.getSoundEnabled();
     _loopSingleSong = await _prefsService.getLoopSingleSong();
     _loopAllSongs = await _prefsService.getLoopAllSongs();
+    _isDataLoaded = true;
     notifyListeners();
   }
 

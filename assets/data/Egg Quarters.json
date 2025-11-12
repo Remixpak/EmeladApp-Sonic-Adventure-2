@@ -1,0 +1,911 @@
+[
+  {
+    "SM's piece ID": 1,
+    "Hint 1": "a black container",
+    "Hint 2": "snake Altar",
+    "Hint 3": "in a container by the side of a small room with an altar",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 40,
+    "Hint 1": "a dark room",
+    "Hint 2": "green path",
+    "Hint 3": "near a ceiling in a small room by a path",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Small room next to the path to the green room, above the doorway."
+  },
+  {
+    "SM's piece ID": 41,
+    "Hint 1": "a dark room",
+    "Hint 2": "red path",
+    "Hint 3": "near the ceiling in a small room by a path",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Small room next to the path to the red room, above the doorway."
+  },
+  {
+    "SM's piece ID": 2,
+    "Hint 1": "a glowing red square",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "in the middle of a room with containers",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 72,
+    "Hint 1": "a place surrounded by black and yellow",
+    "Hint 2": "a room with no flames",
+    "Hint 3": "a container in the back of the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Storage room next to the blue room.  It’s under the weight; glide over the shadow and drill dive into the wooden boxes.  The key isn’t underground, it’s just in one of the boxes.  There doesn’t seem to be a switch to raise the weight, so if you mess up and trigger the weight before getting under it, leave the room to reset the weight."
+  },
+  {
+    "SM's piece ID": 3,
+    "Hint 1": "a quiet place",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "in the water",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue room, underwater; just dive to the bottom."
+  },
+  {
+    "SM's piece ID": 4,
+    "Hint 1": "a red pillar triangle",
+    "Hint 2": "near the Egg Fish Chamber",
+    "Hint 3": "a container in a room with bars",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Storage room next to the blue room, break the boxes on the northeast corner."
+  },
+  {
+    "SM's piece ID": 42,
+    "Hint 1": "a room with hieroglyphics",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "treasure chest on the ceiling of the Egg Fish Chamber",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Blue room, up one tier, in the treasure chest."
+  },
+  {
+    "SM's piece ID": 5,
+    "Hint 1": "a shadow that stretches from the bottom to the top",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "behind the Egg Snake statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 74,
+    "Hint 1": "a skull message",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "stair-shaped ceiling in the Egg Snake Chamber",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Green room, one tier up, floating back and forth between the left and right sides of the room (between two skulls)."
+  },
+  {
+    "SM's piece ID": 73,
+    "Hint 1": "a skull",
+    "Hint 2": "a room with eight flames",
+    "Hint 3": "by the neck of a snake attached to the altar",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Altar room, dig on the central altar next to the snake head that has a skull on it (from the green room, it's the second snake head on the right)."
+  },
+  {
+    "SM's piece ID": 75,
+    "Hint 1": "a thick wall",
+    "Hint 2": "condor's room",
+    "Hint 3": "buried above the green flame",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Green room, dig on the wall above the green flame right of the Egg Snake statue."
+  },
+  {
+    "SM's piece ID": 43,
+    "Hint 1": "above the entrance",
+    "Hint 2": "a shady place",
+    "Hint 3": "underwater chamber in the Egg Fish Chamber",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Blue room, underwater; enter the dead-end room and go above the doorway."
+  },
+  {
+    "SM's piece ID": 76,
+    "Hint 1": "black bird in the shadow",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "hieroglyphics written in the shadow of a pillar in the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Blue room, in the shadow of the leftmost pillar; dig on the black bird symbol on the wall."
+  },
+  {
+    "SM's piece ID": 44,
+    "Hint 1": "blue-eyed Eggman",
+    "Hint 2": "egg Scorpion Chamber",
+    "Hint 3": "dig into the wall painting on an iron door",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red room, behind the start, dig in the two-scorpion panel on the wall above the blue-eyed Eggman door."
+  },
+  {
+    "SM's piece ID": 6,
+    "Hint 1": "brown between black",
+    "Hint 2": "near the Egg Fish Chamber",
+    "Hint 3": "a container in a room with bars",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Storage room next to the blue room, break the boxes on the southwest corner."
+  },
+  {
+    "SM's piece ID": 45,
+    "Hint 1": "center of the ring",
+    "Hint 2": "egg Scorpion Chamber",
+    "Hint 3": "under the Eggman mark on the floor",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red room, dig on the floor on the Eggman mark right of the start."
+  },
+  {
+    "SM's piece ID": 77,
+    "Hint 1": "chao sign on the floor",
+    "Hint 2": "blue like Chao",
+    "Hint 3": "a dot mark on a floor of the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Blue room, the hieroglyphics panel on the floor on the left side of the room; dig on the chao symbol."
+  },
+  {
+    "SM's piece ID": 78,
+    "Hint 1": "chao symbol on the wall",
+    "Hint 2": "red path",
+    "Hint 3": "a dot-shaped hieroglyphic written on a narrow path",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 79,
+    "Hint 1": "chipped petal",
+    "Hint 2": "shadow of the green flame",
+    "Hint 3": "dig under the wall decoration above the Egg Snake statue",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Green room, near the highest ceiling; dig on the missing petal on the bottom of the flower on the wall."
+  },
+  {
+    "SM's piece ID": 81,
+    "Hint 1": "condor's egg",
+    "Hint 2": "a room with four flames",
+    "Hint 3": "dig under the wall decoration in the Egg Scorpion Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Green room, there's four condors on the wall with the Egg Snake statue: two on the left and two on the right. Under the far-left condor, dig in the middle red bead. (Yes, the third hint says Egg Scorpion chamber...)"
+  },
+  {
+    "SM's piece ID": 80,
+    "Hint 1": "condor's egg",
+    "Hint 2": "a room with four flames",
+    "Hint 3": "dig under the wall decoration in the Egg Scorpion Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Red room, there's four condors on the wall with the scorpion statue: two on the left and two on the right. Under the far-right condor, dig in the middle red bead."
+  },
+  {
+    "SM's piece ID": 82,
+    "Hint 1": "dark Chao",
+    "Hint 2": "red pillar's shadow",
+    "Hint 3": "dot-shaped hieroglyphics in the shadows in the Snake Altar",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Altar room.  From the red room’s side, check the second pillar shadow on the left.  Dig on the chao symbol on the wall."
+  },
+  {
+    "SM's piece ID": 83,
+    "Hint 1": "dark red and white stripes",
+    "Hint 2": "shadow of the machine",
+    "Hint 3": "in a wall covered by shadows in the Egg Scorpion Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Red room, on the back wall in the shadow of the rightmost pillar, in the center of the white part that's in the shadow."
+  },
+  {
+    "SM's piece ID": 85,
+    "Hint 1": "dark Sonic",
+    "Hint 2": "shadow of the longest pillar",
+    "Hint 3": "shadow of a pillar in the Snake Altar reveals Sonic-like hieroglyphics",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Altar room, in the shadow of the first pillar on the left from the red side; dig on the wall on the Sonic symbol."
+  },
+  {
+    "SM's piece ID": 84,
+    "Hint 1": "dark Sonic",
+    "Hint 2": "blue like Sonic",
+    "Hint 3": "hieroglyphics written behind a wall in the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Blue room, in the shadow of the first pillar on the right; dig on the Sonic symbol on the wall."
+  },
+  {
+    "SM's piece ID": 33,
+    "Hint 1": "fear of heights",
+    "Hint 2": "snake Altar",
+    "Hint 3": "the monkey robot on the pillar",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 46,
+    "Hint 1": "first place you landed",
+    "Hint 2": "egg Scorpion Chamber",
+    "Hint 3": "buried between two pillars",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Dig in front of the starting point, between the two center pillars of the red room."
+  },
+  {
+    "SM's piece ID": 47,
+    "Hint 1": "flames facing each other",
+    "Hint 2": "green path",
+    "Hint 3": "dig between two flames on the wall",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Path to the green room, dig in the ground between two wall torches (close to the doorway to the green path with two E-1000s)."
+  },
+  {
+    "SM's piece ID": 86,
+    "Hint 1": "floating in the stream..",
+    "Hint 2": "out of reach of the light",
+    "Hint 3": "underwater room in the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 87,
+    "Hint 1": "follow the line on the wall",
+    "Hint 2": "a high place",
+    "Hint 3": "on the Egg Scorpion statue",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Near the uppermost ceiling of the red room, moving along the boundaries of the ceiling."
+  },
+  {
+    "SM's piece ID": 88,
+    "Hint 1": "follow the rings",
+    "Hint 2": "room with glowing hieroglyphics",
+    "Hint 3": "on the eight pillars near the Snake Altar",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Altar room, floating along the eight groups of three rings above the altar pillars."
+  },
+  {
+    "SM's piece ID": 8,
+    "Hint 1": "four pillars",
+    "Hint 2": "green path",
+    "Hint 3": "the area on top of the pillar on a narrow path",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green path, near the ceiling next to a pillar."
+  },
+  {
+    "SM's piece ID": 7,
+    "Hint 1": "four pillars",
+    "Hint 2": "green path",
+    "Hint 3": "in a container in the corner of a room",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 9,
+    "Hint 1": "full-scale eye...?",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "left eye of the Egg Fish statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue room, next to the right eye (left from your view) of the Egg Fish statue."
+  },
+  {
+    "SM's piece ID": 89,
+    "Hint 1": "glowing hieroglyphics",
+    "Hint 2": "machine's path",
+    "Hint 3": "suspended above a curved path",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Machine path betwee the altar room and green room, near the middle of the ceiling."
+  },
+  {
+    "SM's piece ID": 10,
+    "Hint 1": "golden condor",
+    "Hint 2": "green path",
+    "Hint 3": "a coffin in a small room by a path",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Small room at the side of the path to the green room; in the golden coffin (with a condor on top)."
+  },
+  {
+    "SM's piece ID": 48,
+    "Hint 1": "gorilla's hideout",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "a coffin on the ceiling of the Egg Scorpion Chamber",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Red room, one tier up, inside the coffin that has a gorilla in front of it."
+  },
+  {
+    "SM's piece ID": 49,
+    "Hint 1": "hand in the center",
+    "Hint 2": "green path",
+    "Hint 3": "dig near the wall decoration on the U-shaped ledge",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Green path, above the entrance on the green room’s side; dig in the center of the middle flower on the wall."
+  },
+  {
+    "SM's piece ID": 50,
+    "Hint 1": "hidden ancient wall painting",
+    "Hint 2": "a high place",
+    "Hint 3": "on the Egg Fish statue",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 11,
+    "Hint 1": "holy altar",
+    "Hint 2": "green path",
+    "Hint 3": "in a coffin on the U-shaped ledge",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Green path, on the U-shaped platform high in the room, in the coffin on the right."
+  },
+  {
+    "SM's piece ID": 90,
+    "Hint 1": "holy sacrifice",
+    "Hint 2": "moving back and forth between the flames",
+    "Hint 3": "do a Screw Kick between two flames",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Green room, moving back and forth between the two large flames."
+  },
+  {
+    "SM's piece ID": 91,
+    "Hint 1": "hot Chao..",
+    "Hint 2": "a small room with four walls covered with hieroglyphics",
+    "Hint 3": "by the small red flame next to the Snake Altar",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 12,
+    "Hint 1": "huge shadow room",
+    "Hint 2": "snake Altar",
+    "Hint 3": "in a container by a wall of a small room with an altar",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Altar room, to the right of the red side's doorway, in the bottom box of two wooden boxes stacked on top of each other."
+  },
+  {
+    "SM's piece ID": 13,
+    "Hint 1": "in the center of the \"X\"",
+    "Hint 2": "a room with eight flames",
+    "Hint 3": "a wall in the Snake Altar room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Altar room, on the wall where two flower stems cross, right of the doorway to the green room side."
+  },
+  {
+    "SM's piece ID": 92,
+    "Hint 1": "in the middle of the room",
+    "Hint 2": "a place surrounded by flames",
+    "Hint 3": "suspended above the Snake Altar",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 15,
+    "Hint 1": "in the shadow of the scurrying bug",
+    "Hint 2": "egg Snake Chamber",
+    "Hint 3": "climb the pillar",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green room, at the top of the first pillar on the right. (Not sure what's the logic for the clue)"
+  },
+  {
+    "SM's piece ID": 14,
+    "Hint 1": "in the shadow of the scurrying bug",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "climb the pillar",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 16,
+    "Hint 1": "invisible container",
+    "Hint 2": "near the Egg Fish Chamber",
+    "Hint 3": "a container in a room with bars",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Storage room next to the blue room, break the boxes on the northwest corner."
+  },
+  {
+    "SM's piece ID": 51,
+    "Hint 1": "king and the servant",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "a coffin on the ceiling of the Egg Scorpion Chamber",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 34,
+    "Hint 1": "life sentence..",
+    "Hint 2": "machine's path",
+    "Hint 3": "the monkey robot next to the Egg Fish Chamber",
+    "Piece #": 2,
+    "Location type": "Enemy",
+    "Description": "Machine path between the blue room and green path.  It's in the monkey inside the cage; you can break the cage or not (since you can kick through the cage)."
+  },
+  {
+    "SM's piece ID": 52,
+    "Hint 1": "omochao and Eggman",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "dig into the Eggman under the Egg Scorpion statue",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 53,
+    "Hint 1": "on a needle",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "on the Egg Scorpion statue",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Red room, above the Egg Scorpion statue, at the topmost ceiling."
+  },
+  {
+    "SM's piece ID": 17,
+    "Hint 1": "on the scorpion",
+    "Hint 2": "a room with eight flames",
+    "Hint 3": "around the Snake Altar",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Altar room, floating above the two-scorpion panel that’s on the floor to the side of the altar."
+  },
+  {
+    "SM's piece ID": 18,
+    "Hint 1": "on the white Eggman mark",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "by the wall in the small room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 93,
+    "Hint 1": "play volleyball with a mouth???",
+    "Hint 2": "room with glowing hieroglyphics",
+    "Hint 3": "a flame room near the Snake Altar",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Altar room, floating back and forth between two snake heads (first and second on the left if coming from the red room)."
+  },
+  {
+    "SM's piece ID": 19,
+    "Hint 1": "red and silver moving back and forth",
+    "Hint 2": "machine's path",
+    "Hint 3": "a path next to the Egg Fish Chamber",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Machine path between the blue room and green path; above the entrance on the blue room’s side."
+  },
+  {
+    "SM's piece ID": 36,
+    "Hint 1": "red warrior",
+    "Hint 2": "green path",
+    "Hint 3": "inside Eggman's robot",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Green path, in the E-1000 on the higher step."
+  },
+  {
+    "SM's piece ID": 35,
+    "Hint 1": "red warrior",
+    "Hint 2": "a path with four pillars",
+    "Hint 3": "inside Eggman's robot",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Red path, in the E-1000 on the higher step."
+  },
+  {
+    "SM's piece ID": 94,
+    "Hint 1": "riding the golden condor",
+    "Hint 2": "near the ceiling",
+    "Hint 3": "a small room next to the Egg Snake Chamber",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Dead-end room next to the green room, at the middle of the ceiling: jump up from the golden box (which has a condor on top), or glide from high on the wall."
+  },
+  {
+    "SM's piece ID": 95,
+    "Hint 1": "second after next to the stone ring",
+    "Hint 2": "in the ground",
+    "Hint 3": "under the container in back of the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Storage room next to the blue room, dig under the box to the left of where Pick Nails was (one box to the left, NOT two boxes to the left)."
+  },
+  {
+    "SM's piece ID": 96,
+    "Hint 1": "semi-dark Eggman",
+    "Hint 2": "iron wall",
+    "Hint 3": "buried under the Eggman symbol",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 20,
+    "Hint 1": "six Eggman marks?",
+    "Hint 2": "machine's path",
+    "Hint 3": "a path next to the Egg Fish Chamber",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Machine path between the blue room and red room (on the blue room's left), floating near the center of the ceiling."
+  },
+  {
+    "SM's piece ID": 54,
+    "Hint 1": "six white eggs",
+    "Hint 2": "near the Egg Fish Chamber",
+    "Hint 3": "dig into the Eggman mark on the machine's path",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 55,
+    "Hint 1": "skull's room",
+    "Hint 2": "in a treasure chest",
+    "Hint 3": "small room on the ceiling of the Egg Scorpion Chamber",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Red room, two tiers up, in the treasure chest."
+  },
+  {
+    "SM's piece ID": 97,
+    "Hint 1": "skulls facing each other",
+    "Hint 2": "near the Egg Snake Chamber",
+    "Hint 3": "buried in a wall of a small room by a path",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Small room at the side of the path to the green room; high on the right wall, dig between the two corner skulls that are facing each other."
+  },
+  {
+    "SM's piece ID": 56,
+    "Hint 1": "sleeping under a coffin",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "under the floor of a small room in the Egg Scorpion Chamber",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Dead-end room next to the red room, dig under the coffin."
+  },
+  {
+    "SM's piece ID": 98,
+    "Hint 1": "slowly swimming..",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "inverted stairs in the Egg Fish Chamber",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 58,
+    "Hint 1": "snake flame",
+    "Hint 2": "red path",
+    "Hint 3": "u-shaped ledge on a narrow path",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 57,
+    "Hint 1": "snake flame",
+    "Hint 2": "red path",
+    "Hint 3": "in the container on the U-shaped ledge",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 21,
+    "Hint 1": "stone walls on the right, left and above",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "in the corner of the room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue room, in the ceiling corner on the right side of the room (above and right of the doorway leading to green)."
+  },
+  {
+    "SM's piece ID": 59,
+    "Hint 1": "the condor spreads its wings",
+    "Hint 2": "something that the snake is looking at",
+    "Hint 3": "a treasure chest on the ceiling in the Egg Snake Chamber",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 37,
+    "Hint 1": "the Foreman???",
+    "Hint 2": "machine's path",
+    "Hint 3": "the monkey robot next to the Egg Fish Chamber",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 22,
+    "Hint 1": "the head of a condor",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "wall decoration in the Egg Snake Chamber",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green room, on the wall at the second condor pattern to the right of the Egg Snake statue."
+  },
+  {
+    "SM's piece ID": 23,
+    "Hint 1": "the head of the condor",
+    "Hint 2": "a room with eight flames",
+    "Hint 3": "wall decoration in the Egg Snake Chamber",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Altar room, above the red side’s entrance."
+  },
+  {
+    "SM's piece ID": 24,
+    "Hint 1": "the hexagonal ceiling",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "on the Egg Fish statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Above the Egg Fish statue, against the ceiling."
+  },
+  {
+    "SM's piece ID": 25,
+    "Hint 1": "the hexagonal ceiling",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "on the Egg Snake statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 26,
+    "Hint 1": "the second room",
+    "Hint 2": "a room with eight flames",
+    "Hint 3": "on a chest in the Snake Altar room",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Altar room, on a red coffin on the right side of the room (coming from the red room)."
+  },
+  {
+    "SM's piece ID": 27,
+    "Hint 1": "the skull is looking at you through a crack",
+    "Hint 2": "green path",
+    "Hint 3": "next to a chest on a narrow path",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green path, left of the entrance on the green room’s side."
+  },
+  {
+    "SM's piece ID": 28,
+    "Hint 1": "three hands",
+    "Hint 2": "green path",
+    "Hint 3": "near the ceiling in a small room by a path",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green path, on the U-shaped platform high in the room, in front of the left of three flower patterns."
+  },
+  {
+    "SM's piece ID": 99,
+    "Hint 1": "three snake brothers",
+    "Hint 2": "in the middle of three flames",
+    "Hint 3": "the U-shaped ledge on a narrow path",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 60,
+    "Hint 1": "three triangles",
+    "Hint 2": "egg Snake Chamber",
+    "Hint 3": "dig near the small step in the center of the room",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Green room, dig in the dirt of the small step in front of the center of the room."
+  },
+  {
+    "SM's piece ID": 61,
+    "Hint 1": "two beautiful women with fish faces",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "dig into the center of a wall painting",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Blue room, dig in the wall painting behind the missile."
+  },
+  {
+    "SM's piece ID": 29,
+    "Hint 1": "two faces",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "chest of the Egg Snake statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green room, in front of the Eggman face on the big snake statue."
+  },
+  {
+    "SM's piece ID": 64,
+    "Hint 1": "two pair of different length legs",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "under the shadow of the short pillars among four pillars",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 63,
+    "Hint 1": "two pairs of different length legs",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "the area on top of the pillar on a narrow path",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Red path, near the ceiling next to the pillar that's closest to the blue room's side. (The pillars are the \"legs\")"
+  },
+  {
+    "SM's piece ID": 62,
+    "Hint 1": "two pairs of different length legs",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "the area on top of the pillar on a narrow path",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 65,
+    "Hint 1": "two smelting furnaces",
+    "Hint 2": "egg Scorpion Chamber",
+    "Hint 3": "buried between two huge flames",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Red room, dig between the two large torches."
+  },
+  {
+    "SM's piece ID": 66,
+    "Hint 1": "under the belly",
+    "Hint 2": "poolside",
+    "Hint 3": "dig near the entrance and pool in the Egg Fish Chamber",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 67,
+    "Hint 1": "under the hieroglyphics",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "small room next to the Egg Snake Chamber",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Small dead-end room next to the green room; above the entrance."
+  },
+  {
+    "SM's piece ID": 30,
+    "Hint 1": "under the hieroglyphics",
+    "Hint 2": "where the green flame is",
+    "Hint 3": "a path next to the Egg Snake Chamber",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Small room between the green room and machine's path, above the doorway to the green room."
+  },
+  {
+    "SM's piece ID": 68,
+    "Hint 1": "under the low flame",
+    "Hint 2": "green flame",
+    "Hint 3": "buried under the light on the path with four pillars",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 100,
+    "Hint 1": "under the scorpion",
+    "Hint 2": "a flattened stone plate",
+    "Hint 3": "under a stone plate near the Snake Altar",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Altar room, next to the altar on the ground; dig at the beige two-scorpion square on the ground (left side of the altar, coming from red)."
+  },
+  {
+    "SM's piece ID": 69,
+    "Hint 1": "under the tail",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "buried between the back and the tail of the Egg Scorpion statue",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 70,
+    "Hint 1": "under the treasure",
+    "Hint 2": "egg Fish Chamber",
+    "Hint 3": "under the floor beneath a chest on the ceiling in the Egg Fish Chamber",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": 31,
+    "Hint 1": "upside down stairs",
+    "Hint 2": "egg Snake Chamber",
+    "Hint 3": "a ceiling that looks like stairs",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Green room, above the Egg Snake statue, on the left and two tiers up."
+  },
+  {
+    "SM's piece ID": 101,
+    "Hint 1": "wandering ghost..",
+    "Hint 2": "red path",
+    "Hint 3": "a path that looks like stairs near four pillars",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Red path, moving up and down the stairs along the center of the floor."
+  },
+  {
+    "SM's piece ID": 71,
+    "Hint 1": "white middle finger",
+    "Hint 2": "where the red flame is",
+    "Hint 3": "a small room next to the Egg Scorpion Chamber",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Dead-end room next to the red room, on the wall where the flower's middle petal is."
+  },
+  {
+    "SM's piece ID": 32,
+    "Hint 1": "wings but can't fly",
+    "Hint 2": "where the blue flame is",
+    "Hint 3": "on the fin of the Egg Fish statue",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Blue room, on the left fin (right from your view) of the Egg Fish statue."
+  },
+  {
+    "SM's piece ID": 38,
+    "Hint 1": "yellow head",
+    "Hint 2": "a path with four pillars",
+    "Hint 3": "inside Eggman's robot",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Green path, in the E-1000 on the lower step."
+  },
+  {
+    "SM's piece ID": 39,
+    "Hint 1": "yellow head",
+    "Hint 2": "red path",
+    "Hint 3": "inside Eggman's robot",
+    "Piece #": 1,
+    "Location type": "Enemy",
+    "Description": "Red path, in the E-1000 on the lower step."
+  }
+]

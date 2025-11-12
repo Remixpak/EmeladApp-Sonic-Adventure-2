@@ -72,25 +72,44 @@ class _ResultScreenState extends State<ResulScreen> {
 
   Future<void> _takePhoto() async {
     try {
-      final XFile? photo = await _picker.pickImage(source: ImageSource.camera);
+      _picker
+          .pickImage(source: ImageSource.camera)
+          .then((XFile? photo) async {
+            if (photo == null) return; // Usuario canceló
 
-      if (photo != null) {
-        final Directory appDir = await getApplicationDocumentsDirectory();
-        final String fileName = '${widget.level.name}Location.jpg';
-        final String filePath = path.join(appDir.path, fileName);
+            final Directory appDir = await getApplicationDocumentsDirectory();
+            final String fileName = '${widget.level.name}Location.jpg';
+            final String filePath = path.join(appDir.path, fileName);
 
-        await File(photo.path).copy(filePath);
+            // Copiamos la imagen
+            await File(photo.path).copy(filePath);
 
-        setState(() {
-          widget.level.updateLocationImage(filePath);
-        });
-      }
+            // Actualizamos el estado inmediatamente
+            setState(() {
+              widget.level.updateLocationImage(filePath);
+            });
+          })
+          .catchError((e) {
+            showDialog(
+              context: context,
+              builder: (context) => AlertDialog(
+                title: const Text('Error'),
+                content: Text('No se pudo tomar la foto: $e'),
+                actions: [
+                  TextButton(
+                    onPressed: () => Navigator.pop(context),
+                    child: const Text('OK'),
+                  ),
+                ],
+              ),
+            );
+          });
     } catch (e) {
       showDialog(
         context: context,
         builder: (context) => AlertDialog(
           title: const Text('Error'),
-          content: Text('No se pudo tomar la foto: $e'),
+          content: Text('No se pudo acceder a la cámara: $e'),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context),

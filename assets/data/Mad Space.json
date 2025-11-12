@@ -1,0 +1,911 @@
+[
+  {
+    "SM's piece ID": "",
+    "Hint 1": "? ... gniworg neerg htiw noom tnecserc",
+    "Hint 2": "the highest place",
+    "Hint 3": "don't dig behind the moon symbol on the lowest platform with green rocks",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Lower platforms, go out just a little bit left from the starting platform's yellow balcony. Find a platform with green crystals growing out of it; dig behind the moon symbol that has a green crystal in it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "1 on enihcam fo gel eht fo pot eht",
+    "Hint 2": "where it's not tilted",
+    "Hint 3": "don't dig under the sign \"1\" of the pipe machine on the capsule meteorite!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Capsule Planet, dig at the end of the rightmost leg of the machine labeled \"1\"."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "3 on enihcam fo gel eht fo pot eht",
+    "Hint 2": "where it's not tilted",
+    "Hint 3": "don't dig under the sign \"3\" of the pipe machine on the capsule meteorite!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Capsule Planet, dig at the end of the farthest leg of the machine labeled \"3\"."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "burning rock seed",
+    "Hint 2": "a flat place",
+    "Hint 3": "in the burning red rock on the floating meteorite",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dap gnihcnual elissim lanogatco",
+    "Hint 2": "a place where it's not flat",
+    "Hint 3": "it's not on a platform you can reach using a rocket on a crater meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Take the rocket from the Holy Planet; the emerald's on the platform with the next rocket. If the rocket's on circle 3A, then the emerald's on circle 1A."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dap gnihcnual elissim lanogatco",
+    "Hint 2": "a place where it's not flat",
+    "Hint 3": "it's not on a platform you can reach using a rocket on a crater meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Take the rocket from the Holy Planet; the emerald's on the platform with the next rocket. If the rocket's on circle 3A, then the emerald's on circle 3B."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "diuqil live",
+    "Hint 2": "retarc eht ni erutaerc diuqil",
+    "Hint 3": "dnats eulb eht no ymene eulb eht",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "(DREAMCAST ONLY)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "diuqil live",
+    "Hint 2": "a low place",
+    "Hint 3": "an enemy on a big platform near a blue tower doesn't have it",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "ARK, defeat the artificial chaos on the Mystic Melody platform (go left from the highest rocket)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dnats eulb eht no ymene eulb eht",
+    "Hint 2": "the highest place",
+    "Hint 3": "don't bother the water enemy on the platform with a blue light below!",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Lower platforms, go out just a little bit right from the blue lights of the starting platform. Defeat the Artificial Chaos on the platform with blue lights."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "edahs eht ni kcor neerg eht",
+    "Hint 2": "a meteorite with no gravity",
+    "Hint 3": "don't dig in the area above the green rockes in the shadow of the flying train",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "edisni toh s'ti",
+    "Hint 2": "a flat place",
+    "Hint 3": "it's not in the burning rock above the floating meteorite",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Holy Planet, inside a meteorite stuck into the crater's ground, on the opposite side of the central house. The meteorite will explode in a couple of seconds if you get close; alternatively, you can just ram the meteorite."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "egarots yssem",
+    "Hint 2": "a low place",
+    "Hint 3": "it's not in the two connected storage containers which are floating",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "ARK, group of 2 large storage containers (near the highest rocket); it's in the iron box in the back of the storage container on the right."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "eiriarp eht no rats ylenol",
+    "Hint 2": "short meteorite",
+    "Hint 3": "don't dig under the star symbol on the meteorite with grass!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Capsule Planet, dig in the star between the three three-legged machines. (ACTUALLY, dig on the metal on the left side of the star symbol structure.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "elcric thgil eulb",
+    "Hint 2": "it's not the dented area",
+    "Hint 3": "it's not the area near the farthest blue light on the biggest meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Holy Planet, in plain sight at the edge of the crater; go out from the open face of the central house."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "elcric thgil eulb",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "it's not in the burning rock above the floating meteorite",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "elcric thgil wolley",
+    "Hint 2": "the meteorite with no gravity",
+    "Hint 3": "it's not near the yellow light on the round meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Spherical Planet, in plain sight next to a yellow light near the central house. It's 90 degrees left from taking the rocket from the start, and 120 degrees right from the central house's open face."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "elcric thgil wolley",
+    "Hint 2": "the meteorite with no gravity",
+    "Hint 3": "it's not near the yellow light on the round meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Spherical Planet, in plain sight next to a yellow light near the central house. It's the closest light from taking the rocket from the start."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "eluspac eht fo pot eht",
+    "Hint 2": "meteorite without grass",
+    "Hint 3": "it's not the top of the capsule under the capsule meteorite",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, the lower tip of the capsule."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "eluspac eht fo pot eht",
+    "Hint 2": "meteorite without grass",
+    "Hint 3": "it's not the top of the capsule under the capsule meteorite",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, the upper tip of the capsule."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "erauqs der",
+    "Hint 2": "a low place",
+    "Hint 3": "under a blinking red light at the top of an inverted tower",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Above the Holy Planet; take the rocket from the planet, then turn right to the lowest-jutting part of the ARK. The piece is under that part of the ARK, so glide over there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "esab eht ta sreniatnoc kcalb fo hcnub a",
+    "Hint 2": "the highest place",
+    "Hint 3": "it's not between the floating black containers down below",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Lower platforms, go out from the yellow lights of the starting platform. The emerald's floating in place among the black boxes."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "esuoh ylenol",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "it's not next to the green stone by a hut on the floating meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Holy Planet, next to a green crystal that's next to the central house."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "esuoh ylenol",
+    "Hint 2": "a flat place",
+    "Hint 3": "it's not in front of the building on the biggest planet",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Holy Planet, next to the central house in plain sight; it's on the opposite side of the house if you're coming from the Capsule Planet."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "etiroetem eht evoba xob gninnips eht",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "in the floating white box above the floating meteorite",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "etiroetem ytivarg eht fo mroftalp gnitaolf",
+    "Hint 2": "the biggest meteorite",
+    "Hint 3": "it's not on the glowing square stone which is floating",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Spherical Planet, on a semi-high platform; go out 150 degrees right of the central house's open face. Any nearby spring should send you high enough to get on the platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "etiroetem ytivarg eht fo mroftalp gnitaolf",
+    "Hint 2": "the biggest meteorite",
+    "Hint 3": "it's not on the glowing square stone which is floating",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "foor a rednu rats eht",
+    "Hint 2": "big meteorite",
+    "Hint 3": "don't dig under a star symbol under a building on the round meteorite!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Spherical Planet, dig in the star under the central house."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "gel 2.on",
+    "Hint 2": "where there is no green",
+    "Hint 3": "it's not on the top of the machine with pipes on the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, on the end of the right leg of machine no.2 (the near-right machine)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "giniliec eht no noom a",
+    "Hint 2": "short meteorite",
+    "Hint 3": "don't dig under a moon symbol under the capsule meteorite",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Capsule Planet, near the bottom side of it, there's a moon symbol; dig into it. Note that you can (usually) glide and grab onto the planet right near the moon symbol, even though it doesn't look like the angle is right for it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "gnihtemos neewteb noom eht",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig into a moon symbol on a platform with many red lights",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. At the front side of that platform are one moon symbol and two star symbols; dig into the moon symbol (which is between the stars)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "gninepo na tuohtiw reniatnoc eht",
+    "Hint 2": "on the ground",
+    "Hint 3": "not between a storage container below on the inverted tower",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. The piece is between the two lower storage containers."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "gninepo on htiw reniatnoc",
+    "Hint 2": "it's not a narrow and long place",
+    "Hint 3": "it's not on the connected containers under the inverted tower",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. The piece is floating above the container closest to the ARK."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "gnitaolf ton si taht reniatnoc eht",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not a box on a platform with a red light on an inverted tower",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "ARK, red light balcony (first balcony on the right); in the non-floating iron crate near the base of the balcony."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "htrae ot rats tseraen eht",
+    "Hint 2": "the highest place",
+    "Hint 3": "don't dig into the star symbol on the lowest platform!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "kcik wercs kciuq",
+    "Hint 2": "namhctaw elissim",
+    "Hint 3": "ynoclab wolley eht fo namhctaw",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "kcor a no gniworg lewej a",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "it's not far away from a green rock above a floating meteorite",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Crater planet, fairly low on the side, in plain sight under a large green crystal with six points. The crater planet house's open face is facing near the direction that this piece is in."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "kcor a no gniworg lewej a",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "far away from a green rock above a floating meteorite",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Crater planet, high on the side, in plain sight under a large green crystal with six points. The crater planet house's open face is facing in the direction that this piece is in."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "krad eht ni thgil ylenol",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "don't dig under the lonely light on the floating meteorite",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Holy Planet, go out 90 degrees left from the central house's open face. Low on the side of the planet, there's a lamppost; dig under it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "lian der",
+    "Hint 2": "short meteorite",
+    "Hint 3": "it's not the area that is glowing on the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, on top of a red glowing structure sticking out near the top of the capsule."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "liquid creature in the crater",
+    "Hint 2": "a flat place",
+    "Hint 3": "don't defeat the water enemy on the meteorite with a crater!",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "(DREAMCAST ONLY)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "lwob a ni neerg",
+    "Hint 2": "the place you can't dig",
+    "Hint 3": "it's far away from the green stone above the floating meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Holy Planet, right next to a green crystal. The crystal's the closest crystal after you take the spring from the Capsule Planet."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "missile watchman",
+    "Hint 2": "a place that is not flat",
+    "Hint 3": "it's not an enemy you can reach using a rocket on a crater meteorite",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "(DREAMCAST ONLY)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "mroftalp eht fo esab eht",
+    "Hint 2": "the highest place",
+    "Hint 3": "it's not in the white box that the cage is on top of",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "mroftalp wolley yrev",
+    "Hint 2": "the meteorite with no gravity",
+    "Hint 3": "it's not on a platform with yellow lights on the round meteorite",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Spherical Planet, on a high platform with two yellow lights on it. Go out about 90 degrees right from the central house. You can use the spring between the house and the platform (a bit right of that, actually) to get high enough."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "mroftalp wolley yrev",
+    "Hint 2": "etiroetem eht fo mottob eht",
+    "Hint 3": "aera lortnoc fo tou eht ni mroftalp eht",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "namhctaw gninrub a yb rats",
+    "Hint 2": "the highest place",
+    "Hint 3": "don't dig near a star on the lowest platform with burning meteorites",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Lower platforms, go out from the blue lights of the starting platform. There's a platform that's being circled by a meteor. Dig in the star on that platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "no senihs thgil der eht taht rats eht",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig in different star symbols on a platform wall with blue lights",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find a star symbol on the far side of the platform; it has two red lights under it and it's left of the spikeball trap. Dig into this star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "noom ddo",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig into different moon symbols on a platform wall with red lights",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. Go to the rear side of that platform and dig into the left moon (the one that's facing up instead of down like the other two moons there)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "noom eht raen xob gnitaolf eht",
+    "Hint 2": "the biggest meteorite",
+    "Hint 3": "it's not in a floating white box behind the moon symbol",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "noom suoregnad",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig into a moon symbol near a steel ball with blue lights",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Above the Holy Planet; beside the large six-circle platform with the rocket, there's a small stone platform with a spinning spike ball trap. Dig into the moon on that platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "noom suoregnad",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig into a moon symbol near a steel ball with blue lights",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Above the Holy Planet; beside the large six-circle platform with the rocket, there's a small stone platform with a spinning spike ball trap. Right next to that platform, dig into the moon on the side of the larger platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "noom suoregnad",
+    "Hint 2": "wide open area",
+    "Hint 3": "don't dig under a moon symbol near a trap on the capsule meteorite!",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platform near the Capsule Planet; dig in a moon that's guarded by rotating spikeballs."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "pu worg t'ndid that thgil eht",
+    "Hint 2": "a flat place",
+    "Hint 3": "don't dig under the only short light high up on the floating meteorite",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Holy Planet, go out from the central house's open face to find a shorter-than-normal, sideways sticking light at the side of the planet. Dig under this light."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "rats gnikcits",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig into a star symbol on a wall of a platform with six circles",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "ARK, Mystic Melody platform (go left from the topmost rocket). Dig in the star at the side of the platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "rats gnikcits",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig under a star on a platform with many blue lights",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find the star symbol farthest from the bottom of the ARK (and right of the spikeballs) and dig in the star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "rats gnikcits",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig under a star on a platform with many blue lights",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find the star symbol nearest to the bottom of the ARK (\"erauqs der\"), and dig in the star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "rats gnikcits",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't dig under a star symbol on a platform with many blue lights",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "rats souregnad",
+    "Hint 2": "wide open area",
+    "Hint 3": "don't dig near a star next to the spheres on the platform by the capsule meteorite",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platform near the Capsule Planet; dig in a star that's guarded by rotating spikeballs."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "rehtag sthgil eht fo lla erehw",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "it's not in a wall under a star symbol on a yellow platform with lights",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "ARK, past the red balcony (which is the first balcony on the right from the topmost rocket), a stone platform with red, blue, and yellow lights and a lamppost - dig at the side of the platform under where the star is."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "renaitnoc egarots eht stcetorp that enihcam eht",
+    "Hint 2": "a low place",
+    "Hint 3": "not under a black container above a platform with a red light tower",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc a nihtiw reniatnoc a",
+    "Hint 2": "the place that is not small",
+    "Hint 3": "it's not in the box in the storage container with a yellow light",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). Go into the left storage container (the one with yellow lights) and break the iron box inside to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc a nihtiw reniatnoc a",
+    "Hint 2": "a low place",
+    "Hint 3": "it's not in the two connected storage containers which are floating",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "ARK, the 2 storage containers next to each other (near the highest rocket); go in the left storage container and break the iron box inside."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc deroloc eerht",
+    "Hint 2": "sdap gnihcnual elissim eerht",
+    "Hint 3": "ynoclab lhgil der eht morf renaitnoc kcalb nellaf eht",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "*NONSENSICAL HINTS* Round planet, bottom side, riding the cart that's moving along the rail. (The cart is moving left, so fly right to meet it fastest; but you may have an easier time landing on it while moving left.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc deroloc eerht",
+    "Hint 2": "a place that is not narrow",
+    "Hint 3": "it's not in the storage container with blue lights",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). Go into the middle storage container (the one with blue lights), it's in plain sight there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc deroloc eerht",
+    "Hint 2": "a place that is not narrow",
+    "Hint 3": "it's not on the storage container with yellow lights",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). It's on top of the left storage container (the one with yellow lights)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc deroloc eerht",
+    "Hint 2": "a place that is not small",
+    "Hint 3": "it's not in the box in the storage container with a red light",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). On top of the right storage container (the one with red lights), break the iron box and get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc egarots eht stcetorp that enihcam eht",
+    "Hint 2": "far away from an inverted tower",
+    "Hint 3": "don't defeat gun's machine on the connected storage containers!",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. Defeat the GUN hawk robot that's on top of the outermost storage container."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc gniylf",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not in the floating box above a platform on an inverted tower",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "ARK, balcony with no lights (second balcony on the left); in the floating iron crate near the end of the balcony. A screw kick can break the box and get the emerald in one shot."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "reniatnoc gniylf",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not a box on a platform with a red light on an inverted tower",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "ARK, red light balcony (first balcony on the right); in the floating iron crate near the end of the balcony. A screw kick can break the box and get the emerald in one shot."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "renwo s'etiroetem eht fo esuoh eht",
+    "Hint 2": "the place you can't dig",
+    "Hint 3": "it's not under the building on the round meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Spherical Planet, in plain sight under the central house."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "seert eht ees ot tserof eht ot esolc ot",
+    "Hint 2": "a very high place",
+    "Hint 3": "it's not below the starting point",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Platform below the start, in plain sight, between the blue and yellow sides."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "seloh htiw retarc",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "it's not the base of a growing stone above the dented meteorite",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sgel eerht htiw 1 .on enihcam",
+    "Hint 2": "meteorite without grass",
+    "Hint 3": "it's not on the top of the machine with pipes on the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, on the end of the closest segment of the three-legged machine labeled \"1\"."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sgel eerht htiw 3 .on enihcam",
+    "Hint 2": "meteorite without grass",
+    "Hint 3": "it's not on the top of the machine with pipes on the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, on the left end of the machine labeled \"3\" (the leftmost machine)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sgel eerht htiw enihcam eht fo relleporp",
+    "Hint 2": "short meteorite",
+    "Hint 3": "it's not on the machine with three pipes on the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Capsule Planet, on the center of machine no. 2 (the machine on the near right)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sgel eerht htiw senihcam eht neewteb ni",
+    "Hint 2": "short meteorite",
+    "Hint 3": "not between machine no.1 and no.2 with pipes on the capsule meteorite",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Capsule Planet, go between machines no. 1 and 2 (the two machines on the upper end of the planet) and jump or screw kick to get the emerald piece in the air."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "slian der eht neewteb",
+    "Hint 2": "short meteorite",
+    "Hint 3": "don't break the wooden box between platforms on the capsule meteorite",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Capsule Planet, in the wooden box between two red glowing structures at the top of the capsule."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "snoom owt neewteb",
+    "Hint 2": "the highest place",
+    "Hint 3": "don't dig between the two moons above the lowest platform!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Lower platforms; go out from the red lights of the starting platform. There's a platform with two moon symbols on it; dig in between them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ssarg eht no xob nedoow gnicnad",
+    "Hint 2": "short meteorite",
+    "Hint 3": "it's not in a floating wooden box above the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Capsule Planet, in a floating wooden box to the left of machine no. 1. Screw kick to break the box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "sthgil der yb dednuorrus xob a",
+    "Hint 2": "a low place",
+    "Hint 3": "it's not in a box on a platform under the inverted tower",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. Of the six iron boxes, the piece is in the back-center box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "syug llat eht neewteb",
+    "Hint 2": "meteorite without grass",
+    "Hint 3": "it's not between two lights on the capsule meteorite",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Capsule Planet; right near the lower end of the planet, there are two tall lampposts close together, with a wooden box floating low between them. The piece is in the wooden box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "tghiew repap eguh",
+    "Hint 2": "the highest place",
+    "Hint 3": "don't dig in the center of the lowest platform with the moving weight",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Lower platforms, go out from the red lights of the starting platform. Dig under the center of the weight."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "tghil ylenol and das",
+    "Hint 2": "a flat place",
+    "Hint 3": "don't dig under the only short light high up on the floating meteorite",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "thgil derit",
+    "Hint 2": "a flat place",
+    "Hint 3": "it's not the fallen yellow light on the round meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Spherical Planet, in plain sight next to a yellow light that's fallen over. Locate the open face of the central house, go outward from 90 degrees right (counterclockwise) of that."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "thgil detlit",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "at the base of a long tilted light on the floating meteorite",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Holy Planet, above the base of a light sticking out sideways near the top of the planet. Go out 60 degrees right from the central house's open face."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "thgil detlit eht fo esab eht ta",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "don't dig at the base of the long light near the green rock!",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Holy Planet; after arriving from the capsule planet, go about 120 degrees right around the crater to see a lamppost sticking out sideways near the edge of the crater. Dig under that lamppost."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "thgil eht rednu rats eht",
+    "Hint 2": "a low place",
+    "Hint 3": "it's not under a moon on a yellow platform near an inverted tower",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "ARK, take the second highest rocket and then climb up a bit. On the higher stone platform is a lamppost and a star symbol; dig in the star symbol."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "thgil gnorw",
+    "Hint 2": "a flat place",
+    "Hint 3": "don't dig under the blue light on the round meteorite!",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Spherical Planet, dig next to the lone blue light. Locate the open face of the planet's central house, and go outward from that face's right corner to locate the blue light. Dig on the side of the light that's facing away from the house."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "thgil gnorw",
+    "Hint 2": "a flat place",
+    "Hint 3": "it's not near the lonely blue light on the round light",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Spherical Planet, in plain sight next to the lone blue light. Locate the open face of the planet's central house, and go outward from that face's right corner to locate the blue light."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "trac retarc",
+    "Hint 2": "etiroetem eht dnuora seog that niart eht",
+    "Hint 3": "etiroetem eht dnuora seog that niart eht",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Holy Planet, on a tram that goes around the central house (there are 2 trams there, the piece is on the trailing one)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "wolley ni eulb",
+    "Hint 2": "a low place",
+    "Hint 3": "it's not under the moon on the yellow platform near the hanging blue structure",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "xob kcalb eht rednu",
+    "Hint 2": "the smallest meteorite",
+    "Hint 3": "don't dig under the container in high up on the floating meteorite",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Holy Planet, halfway out the crater and left of the central house, there's a floating black box; dig under it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab reniatnoc kcalb",
+    "Hint 2": "ynoclab reniatnoc eulb",
+    "Hint 3": "reniatnoc deroloc eerht",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "*NONSENSICAL HINTS* Holy Planet, on the tram moving along the rail on the side of the planet."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab reniatnoc kcalb",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not on a platform with a black container on an inverted tower",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK, the balcony with no lights (second balcony on the left, from the highest rocket), in plain sight above the center of the balcony."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab thgil der",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not under the platform with a red light on the inverted tower",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "ARK, red light balcony (first balcony on the right); just off the end of the balcony."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab thgil der",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not on the platform with a red light on an inverted tower",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK, red light balcony (one balcony to the right, from the topmost rocket), on the center of the balcony in plain sight."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab thgil eulb",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not on the platform with a blue light on an inverted tower",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK, blue light balcony (first balcony on the left), on the center of the balcony."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab thgil eulb",
+    "Hint 2": "the lowest place",
+    "Hint 3": "you can't use a rocket on a platform with a yellow light tower",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "ARK, go to the yellow light balcony (second balcony on the right) and take the rocket on that balcony. After letting go of the rocket, glide around to fall slowly to make sure you get the emerald. Alternatively, if you're confident, you can hold forward halfway as you let go of the rocket, and you should fall onto the emerald."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab thgil eulb",
+    "Hint 2": "the lowest place",
+    "Hint 3": "it's not on the platform with a yellow light on an inverted tower",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab thgil wolley",
+    "Hint 2": "gninepo na touhtiw reniatnoc eht",
+    "Hint 3": "erauqs der",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "ynoclab wolley eht fo namhctaw",
+    "Hint 2": "a low place",
+    "Hint 3": "it's not gun's machine on a platform with a yellow light by a blue tower",
+    "Piece #": 2,
+    "Location type": "Enemy",
+    "Description": "ARK, yellow light balcony (second balcony on the right), in the GUN hawk robot."
+  }
+]

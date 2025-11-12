@@ -18,7 +18,6 @@ class _HintScreenState extends State<HintScreen> {
 
   @override
   void dispose() {
-    //en teoria por lo que entendi esto flutter lo llama automaticamente cuando se destruye la pantalla
     hint1Controller.dispose();
     hint2Controller.dispose();
     hint3Controller.dispose();
@@ -42,6 +41,18 @@ class _HintScreenState extends State<HintScreen> {
     );
   }
 
+  void _toLower(TextEditingController controller, String value) {
+    final lowerText = value.toLowerCase();
+    if (controller.text != lowerText) {
+      final cursorPos = controller.selection;
+      controller.value = controller.value.copyWith(
+        text: lowerText,
+        selection: cursorPos,
+        composing: TextRange.empty,
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -54,7 +65,6 @@ class _HintScreenState extends State<HintScreen> {
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
-          //esto soluciona lo del overflow cuando se abre el teclado ya que por defecto todo lo de la pantalla y el teclado no caben
           children: [
             SizedBox(
               width: 300,
@@ -72,6 +82,7 @@ class _HintScreenState extends State<HintScreen> {
                 labelText: 'Hint 1',
                 border: OutlineInputBorder(),
               ),
+              onChanged: (value) => _toLower(hint1Controller, value),
             ),
             const SizedBox(height: 10),
 
@@ -81,6 +92,7 @@ class _HintScreenState extends State<HintScreen> {
                 labelText: 'Hint 2',
                 border: OutlineInputBorder(),
               ),
+              onChanged: (value) => _toLower(hint2Controller, value),
             ),
             const SizedBox(height: 10),
 
@@ -90,6 +102,7 @@ class _HintScreenState extends State<HintScreen> {
                 labelText: 'Hint 3',
                 border: OutlineInputBorder(),
               ),
+              onChanged: (value) => _toLower(hint3Controller, value),
             ),
             const SizedBox(height: 20),
 

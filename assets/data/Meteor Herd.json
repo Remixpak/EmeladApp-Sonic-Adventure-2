@@ -1,0 +1,929 @@
+[
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a container that doesn't float",
+    "Hint 2": "a big floating platform",
+    "Hint 3": "in a container on a platform with six circles",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; on the second-lowest six-circle platform, there's one iron box that's on the platform instead of floating. The piece is inside the iron box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a container within a container",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "in the three huge containers that are next to each other",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "ARK's storage area, inside the back-left storage container; there are three iron boxes, two stacked on the left, and one on the right. The piece is in the lower left box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a fast rotating meteorite",
+    "Hint 2": "a lot of small meteorites",
+    "Hint 3": "try breaking the rotating meteorite near the square stone platform..",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's two square stone platforms (one with the Jump from the star spring). Between these platforms is a fast rotating meteorite; break it to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a fast rotating meteorite",
+    "Hint 2": "a lot of small meteorites",
+    "Hint 3": "try breaking the rotating meteorite near the square stone platform..",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's two square stone platforms (one with the Jump from the star spring). Between these stone platforms and the six-container storage area is a fast rotating meteorite; break it to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "above a blue moon in front of a tank",
+    "Hint 2": "dense meteorite area",
+    "Hint 3": "on a moon symbol located on two connected square stone platforms",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; left of the storage area (near Jump from the star), there's a platform with a blue moon and a small storage tank. The piece is above the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "above a blue moon in front of a tank",
+    "Hint 2": "dense meteorite area",
+    "Hint 3": "on a moon symbol located on two connected square stone platforms",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; left of the storage area (near Jump from the star), there's a platform with a blue moon and a small storage tank. The piece is under the tank."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between the floating containers",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "the fourth big floating platform from the bottom",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; on the six-circle platform with the artificial chaos on it, under the floating black box."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between the floating containers",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "the fourth big floating platform from the bottom",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; on the six-circle platform with the artificial chaos on it, on the left side of the platform (not sure EXACTLY where, since I actually DIED from the artificial chaos before getting a good look at it... but I think it's on one of the two circles on the left, or around there.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between the noisy machines",
+    "Hint 2": "down below",
+    "Hint 3": "near the moving weight",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the gray ground; left of 0-1, there's a steel drilling tower and a moving weight. The piece is between them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between the rotating beacons",
+    "Hint 2": "on the GRAY ground below",
+    "Hint 3": "behind loading dock \"0-1\"",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the gray ground, behind 0-1, in between two rotating beacons."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "drilling tower",
+    "Hint 2": "down below",
+    "Hint 3": "on a tower that contains a moving tube inside",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the yellow ground (with red ground to the right), right of 0-5; in front of the steel drilling tower."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "hot molten lava below",
+    "Hint 2": "down below",
+    "Hint 3": "in front of loading dock \"0-2\"",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the yellow ground, kinda. In front of 0-2, floating above the black ground."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in a wooden box",
+    "Hint 2": "down below",
+    "Hint 3": "a wooden container next to the yellow bulldozer on the GRAY ground",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "On the gray ground (in front of 0-1); to the right of the yellow bulldozer is a wooden box on the ground. The piece is inside."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of a big door that never opens",
+    "Hint 2": "on the YELLOW ground",
+    "Hint 3": "in front of the steel tower",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the yellow ground (with gray ground to the left), in front of 0-5; in front of the big door that's part of the tower structure."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of the shortcut rocket",
+    "Hint 2": "on a square stone platform",
+    "Hint 3": "near the rocket in the big steel tower on the ground",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "In the central steel tower, behind the rocket that takes you to the top of the floating platforms area. (Behind, meaning on the side of the rocket's handle.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of the shortcut rocket",
+    "Hint 2": "on a square stone platform",
+    "Hint 3": "near the rocket in the big steel tower on the ground",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "In the central steel tower, in front of the rocket that takes you to the top of the floating platforms area. (In front of, meaning the side opposite of the rocket's handle.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of the weight elevator",
+    "Hint 2": "a floating platform",
+    "Hint 3": "in front of the moving weight on a square stone platform",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; go two square stone platforms down from the grounded artificial chaos, and you'll find a weight trap there. The piece is on the stone platform underneath, in front of the weight."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in the center of a triangle star",
+    "Hint 2": "down below",
+    "Hint 3": "in the middle of a star symbol on the GRAY ground",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the gray ground, right of 0-1; over the ground between three stars arranged in a triangle."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in the floating containers",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "the fourth big floating platform from the bottom",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; on the six-circle platform with the artificial chaos on it, there's a low-floating iron box; break the box and get the piece inside."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "inside a container which is behind a container",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "in the right one of the two huge containers",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's two large storage containers next to each other. The emerald is in the right storage container, whose opening is blocked by iron boxes that you need to punch through."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "near a moon with a rotating beacon",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "on a square stone platform with one rotating beacon",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; on the square stone platform right below you after you take the shortcut rocket from the steel tower (this platform has the spring to the ARK rocket). The piece is over the moon symbol."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to the rocket pointing at the ARK",
+    "Hint 2": "in the floating containers",
+    "Hint 3": "on top of a big platform with six circles",
+    "Piece #": 1,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; above the six-circle platform pointing at the ARK, there's a single floating iron box; the piece is inside. (Spiral Upper the box to get the piece immediately.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on a rotating beacon above a blue moon",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "on a square stone platform with one rotating beacon",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "The steel tower's rocket drops you above a small stone platform with a moon symbol. The emerald piece is above the rotating beacon on this platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on something strong",
+    "Hint 2": "down below",
+    "Hint 3": "on the yellow bulldozer which is on the GRAY ground below",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the gray ground (in front of 0-1), on top of the yellow bulldozer near the front side."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge storage area",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "a square stone platform near the huge containers",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge storage area",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "a square stone platform near the huge containers",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK's storage area, on the right platform of two square stone platforms between the storage containers; around the center of the platform, in front of and very slightly right of the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge storage area",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "on one of the huge containers",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK's storage area, on top of the near-left storage container."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge storage area",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "on one of the huge containers",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "ARK's storage area, on top of the near-right storage container."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the huge shutter on the steel tower",
+    "Hint 2": "pyramid-shaped base",
+    "Hint 3": "around the base of the big steel tower on the ground",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "In the central steel tower near ground level, on the center of the shutter that covers the Sunglasses area."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "two huge containers",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "on the huge containers next to each other",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's two large storage containers next to each other. The emerald is above the right storage container."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "where two stone platforms are joined",
+    "Hint 2": "dense meteorite area",
+    "Hint 3": "on a steel beam between two connected stone platforms",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's two square stone platforms (one with the Jump from the star spring). Between these platforms is a steel beam, and the piece is above the steel beam."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "zero point five",
+    "Hint 2": "down below",
+    "Hint 3": "in front of loading dock \"0-5\"",
+    "Piece #": 1,
+    "Location type": "Exposed",
+    "Description": "On the yellow ground, right in front of 0-5."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a moon and a missile",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "dig under the moon symbol on a platform with a missile",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; on the square stone platform with the missile pointed at the weight elevator switch's cage, there's a moon and a star. Dig in the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a star and a missile",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "dig under the star symbol on a platform with a missile",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a star between three arches",
+    "Hint 2": "down below",
+    "Hint 3": "under the star symbol near the three arches above the RED ground",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the red ground which is in front of 0-2 and 0-3; between two of the three half-arches connected to the central tower, dig in the star on the red ground."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a switch in a cage",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "dig near the switch in a cage",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the second square stone platform down from the artificial chaos platform, and you'll find the weight elevator and the weight switch in a cage. Dig in front of the caged switch."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "at the base of the rotating beacon",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "dig under the beacon sticking out of the middle of a platform",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; between the lowest and second-lowest six-circle platforms is a square stone platform. The platform has a ring box, a hint monitor, and a beacon. Dig next to the beacon, on the side opposite of the ring box and hint monitor."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "behind something powerful",
+    "Hint 2": "on the GRAY ground below",
+    "Hint 3": "under a moon symbol behind the yellow bulldozer",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the gray ground (in front of 0-1); behind the yellow bulldozer, dig in the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between the moon and stars",
+    "Hint 2": "the tip of the ARK",
+    "Hint 3": "dig between the moon and star symbols on a square platform",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "ARK, the rocket takes you to two small stone platforms. On the higher stone platform is a star and a moon; dig between them."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "black boxes on the black platform",
+    "Hint 2": "a high place",
+    "Hint 3": "on a platform near the inverted blue tower",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "ARK, lower balconies; go to the second balcony on the left. The piece is among the black spinning boxes there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dig into a small meteorite",
+    "Hint 2": "on the huge suspended containers",
+    "Hint 3": "in a small meteorite above a spring above a star symbol",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "floating stone above a moon",
+    "Hint 2": "the tip of the ARK",
+    "Hint 3": "in a stone on a moon symbol on the highest platform",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "ARK, higher balconies; the first high balcony on the right. There's a meteorite floating above a moon symbol; break the meteorite."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "forget to put it in a big container?",
+    "Hint 2": "on a container",
+    "Hint 3": "on the huge suspended containers",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "ARK's storage area, on top of the back-right storage container."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of a big door that never opens",
+    "Hint 2": "yELLOW ground",
+    "Hint 3": "dig under the beacon in front of the pyramid-shaped base",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the yellow ground (with gray ground to the left), in front of 0-5; dig in front of the rotating beacon that's to the LEFT of the big door (the door's part of the central tower structure)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "in front of a big door that never opens",
+    "Hint 2": "yELLOW ground",
+    "Hint 3": "dig under the beacon in front of the pyramid-shaped base",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the yellow ground (with gray ground to the left), in front of 0-5; dig in front of the rotating beacon that's to the RIGHT of the big door (the door's part of the central tower structure)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "lonely moon",
+    "Hint 2": "near the steel tower on the pyramid-shaped base",
+    "Hint 3": "dig in the center of the stone platform with one moon",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; on the very lowest stone platform that's above the tower, there's a single moon; dig IN FRONT OF the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to a rocket aimed at the ARK",
+    "Hint 2": "a big floating platform",
+    "Hint 3": "on top of a platform with six circles",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; on the six-circle platform with the rocket pointing at the ARK, on the opposite side of the rocket's handle."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on top of the steel drilling tower",
+    "Hint 2": "suspended above the YELLOW ground",
+    "Hint 3": "on a tower that contains a moving tube inside",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "On the yellow ground, right of 0-5, on top of the tall steel tower. You might want to grab a second hint if you can, so you make sure you go to the correct tower. Depends how out of the way a hint is though."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "on top of the steel drilling tower",
+    "Hint 2": "suspended above the GRAY ground you see below",
+    "Hint 3": "on a tower that contains a moving tube inside",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "On the gray ground (left of 0-1), on top of the tall steel tower."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "steel guardian",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "in the three huge containers that are next to each other",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "ARK's storage area, inside the back-center storage container; break the iron boxes blocking the opening, then go around the two spikeballs and get the piece at the back of the container."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge container",
+    "Hint 2": "down below",
+    "Hint 3": "try knocking the huge meteorite off loading dock \"0-5\"",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge container",
+    "Hint 2": "down below",
+    "Hint 3": "try knocking the huge meteorite off loading dock \"0-5\"",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the ARK's huge storage area",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "in the left one of the two huge containers",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the first stage",
+    "Hint 2": "down below",
+    "Hint 3": "under a moon symbol in front of loading dock \"0-1\"",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the gray ground, dig in the moon symbol (the left symbol) that's in front of the large platform with \"0-1\"."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the highest rotating beacon",
+    "Hint 2": "the platform below the ARK",
+    "Hint 3": "on a floating stone platform near the inverted blue tower",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "ARK, the rocket takes you to two small stone platforms. On the higher stone platform is a rotating beacon; the emerald piece is above the beacon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "tic-tac-toe!",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "try breaking a container in the steel tower on the ground..",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "too heavy to float",
+    "Hint 2": "a big floating platform",
+    "Hint 3": "under a platform with six circles",
+    "Piece #": 2,
+    "Location type": "Exposed",
+    "Description": "Platforms above the tower; on the side wall of the lowest six-circle platform above the tower; it's on the platform's diagonal wall which is opposite of the square stone platform which is \"one step up\"."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "twin stars",
+    "Hint 2": "down below",
+    "Hint 3": "under two star symbols next to each other above the GRAY ground",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the gray ground (in front of 0-1), there's two star symbols in front of a bulldozer. Dig in the LEFT star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "twin stars",
+    "Hint 2": "down below",
+    "Hint 3": "under two star symbols next to each other above the GRAY ground",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "On the gray ground (in front of 0-1), there's two star symbols in front of a bulldozer. Dig in the RIGHT star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "two against one!",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "two star symbols and one moon symbol on a platform. Dig under moon",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; on the dead-end square stone platform near the two storage containers, there's two stars and one moon. Dig in the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "two stars and one moon",
+    "Hint 2": "a floating square stone platform",
+    "Hint 3": "two star symbols and one moon symbol on a platform. Dig under moon",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "under a star",
+    "Hint 2": "the tip of the ARK",
+    "Hint 3": "try digging behind a balcony with a star on an inverted blue tower",
+    "Piece #": 2,
+    "Location type": "Diggable",
+    "Description": "ARK; take the rocket up the ARK, then drop to the lower square stone platform. Dig in the star on that platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "upper the floating tank!",
+    "Hint 2": "a lot of floating platforms",
+    "Hint 3": "on the platform above the lonely floating container",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; on the square stone platform closest to you after you take the shortcut rocket, there's a single small storage tank. Break the tank (with a Spiral Upper, say) to claim the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "upper the floating tank!",
+    "Hint 2": "a lot of small floating meteorites",
+    "Hint 3": "on a platform above the lonely floating container",
+    "Piece #": 2,
+    "Location type": "Concealed",
+    "Description": "Platforms above the tower; left of the ARK's storage area, there's two square stone platforms: one has a round artificial chaos, one has a small storage tank. Break the tank (with a Spiral Upper, say) to claim the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a container at the top of the ARK",
+    "Hint 2": "a high place",
+    "Hint 3": "on the two huge containers at the bottom of the inverted blue tower",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "ARK's upper storage area with two large storage containers (you'll pass by it if you use the rocket to the ARK). High above the left storage container; you can use Spiral Upper to get it."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a glimpse of the meteorite",
+    "Hint 2": "a high place",
+    "Hint 3": "inside a meteorite you see using a rocket to the ARK's center",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "ARK; take the rocket up the ARK, and you'll past this small meteorite very closely (the radar will turn red). Drop back down and break the meteorite for the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "at the top of the tip of the ARK",
+    "Hint 2": "a high place",
+    "Hint 3": "by the red tip of the inverted blue tower",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "ARK, very bottom of the ARK superstructure; there's a square protrusion jutting out from under the ARK, which you can see from the rocket that goes to the ARK. However, you need to take the rocket to get high enough (or alternatively, use the Jump from the star spring). Once you're high enough, go to the side of the square protrusion that's opposite of the rocket platform. The piece will be there next to the bottom of the protrusion."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "behind a star",
+    "Hint 2": "the tip of the ARK",
+    "Hint 3": "try digging behind a balcony with a star on an inverted blue tower",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "ARK; take the rocket up the ARK, and there'll be two square stone platforms. On the lower one is a single star. Dig on the platform BEHIND the star symbol. (\"Under a star\" makes you dig in the star symbol.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "between two rotating beacons",
+    "Hint 2": "a lot of small meteorites",
+    "Hint 3": "dig between two beacons on a square platform with a spring..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; left of the storage area, there's a square stone platform with a spring and a round artificial chaos on it. Dig behind the spring, between the two rotating beacons."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "center of a square shadow",
+    "Hint 2": "on the GRAY ground below",
+    "Hint 3": "try digging in the middle of a moving weight..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "On the gray ground (near 0-1), on the left of the 0-1 platform, there's a moving weight. Dig in the center of the moving weight's shadow."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "circle the rotating beacon",
+    "Hint 2": "a lot of small meteorites",
+    "Hint 3": "rotating and moving on the square stone platform with a spring",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's a square stone platform with a spring (the Jump from the star spring) and a round artificial chaos. The piece is circling the right beacon on that platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "floating around the moon",
+    "Hint 2": "a lot of small meteorites",
+    "Hint 3": "moving on a square stone platform",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's two square stone platforms (one with the Jump from the star spring). On the platform without the spring, there's a moon; the piece is circling this moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "floating in front of three tanks next to each other",
+    "Hint 2": "a high place",
+    "Hint 3": "a floating big platform above two huge containers",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Platforms above the tower; floating around above the six-circle platform with three small storage tanks (one of the two highest six-circle platforms)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "jump from the star!",
+    "Hint 2": "a lot of meteorites",
+    "Hint 3": "farthest meteorite you see after using the spring",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Platforms above the tower; left of the storage area, use the spring on the dead-end square stone platform with a round artificial chaos on it. Go for the farthest-back meteorite on the left and break it for the emerald. (If the radar doesn't turn up anything at the spring, then it's probably this meteorite.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "jump from the star!",
+    "Hint 2": "a lot of meteorites",
+    "Hint 3": "biggest and fastest rotating meteor you see after using the spring",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Platforms above the tower; left of the storage area, use the spring on the dead-end square stone platform with a round artificial chaos on it. You'll see two fast-rotating meteorites, one high and center, one low and left. Go for the high and center meteorite and break it for the emerald. (If the radar turns green at the spring, then it's probably this meteorite.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "jump from the star!",
+    "Hint 2": "a lot of meteorites",
+    "Hint 3": "smallest and fastest rotating meteor you see after using the spring",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Platforms above the tower; left of the storage area, use the spring on the dead-end square stone platform with a round artificial chaos on it. You'll see two fast-rotating meteorites, one high and center, one low and left. Go for the low and left meteorite and break it for the emerald. (If the radar turns yellow at the spring, then it's probably this meteorite.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "middle of the rotating beacon",
+    "Hint 2": "boundary of the RED and YELLOW ground",
+    "Hint 3": "buried somewhere surrounded by four beacons by loading dock \"0-5\"",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "On the yellow ground, with 0-5 on the left and red ground on the right; dig between four rotating beacons arranged in a square."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "moving around in front of the one floating tank",
+    "Hint 2": "a square stone platform",
+    "Hint 3": "buried in a stone platform with steel beams that go nowhere..",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "The square stone platform nearest to where the shortcut rocket drops you off (just a bit behind and below). The stone platform has one small storage tank; the piece is floating in a circle in front of the tank. (Note the strange hint 3.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "moving around the ARK's huge storage area",
+    "Hint 2": "between the inverted blue tower and the steel tower on the ground",
+    "Hint 3": "moving between the three huge containers next to each other",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "ARK's storage area, moving with path endpoints of (1) the front of the back-center container, and (2) the space between the back-center and back-right containers."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "moving smoothly at the top of the ARK",
+    "Hint 2": "a high place",
+    "Hint 3": "use the rocket to go up, then get to the left side of the platform",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "ARK, lower balconies; go to the first balcony on the left. It's moving between the top of the balcony and the near side of the balcony."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to a mini-steel beam",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig next to a steel beam sticking out of a wall..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the second-lowest six-circle platform. On the side of it near the lower square stone platform, there's a small steel beam jutting out the side of the platform. Dig a bit above and to the RIGHT of this steel beam."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "next to the mini-steel beam",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig next to the steel beam sticking out of a wall..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the second-lowest six-circle platform. On the side of it near the lower square stone platform, there's a small steel beam jutting out the side of the platform. Dig a bit above and to the LEFT of this steel beam."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "powerless by itself",
+    "Hint 2": "yELLOW ground",
+    "Hint 3": "dig under the moving weight in front of the bulldozer..",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "On the yellow ground (with gray ground to the left), left of 0-5; there's a yellow bulldozer and a moving weight right next to it. Dig under the moving weight."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "shadow of a floating tank",
+    "Hint 2": "a lot of small meteorites",
+    "Hint 3": "dig in the shadow of a floating tank on a square stone platform",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "shadow of a floating tank",
+    "Hint 2": "rED ground",
+    "Hint 3": "dig in the shadow of a floating tank under three arches",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "surrounded by spinner containers",
+    "Hint 2": "a high place",
+    "Hint 3": "on a platform with a lot of black containers at the top of the ARK",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "ARK, lower balconies; go to the second balcony on the left. The piece is moving among the black spinning boxes there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "the cage in a container",
+    "Hint 2": "in a storage container",
+    "Hint 3": "use the Triple Punch Upper!",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "ARK's storage area, inside the near-right storage container; the piece is inside the cage. \"Normally\", you'd break the iron box first with a triple-punch combo, then the cage should fall and expose the piece. Alternatively, just Spiral Upper to get the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the moon",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a moon on the wall next to a big platform with a rocket",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the six-circle platform with the rocket to the ARK, locate the platform's moon symbol, and dig into the platform wall under the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the moon",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a moon next to a big platform without a floating container",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the lowest six-circle platform above the tower, locate the platform's moon symbol, and dig into the platform wall under the moon (a bit LOWER than the center line of the platform)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the moon",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a moon next to a big platform without a floating container",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the lowest six-circle platform above the tower, locate the platform's moon symbol, and dig into the platform wall under the moon (a bit HIGHER than the center line of the platform)."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the moon",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a moon on the wall next to a big platform with a steel beam",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the third-lowest six-circle platform above the tower (it has a long steel beam sticking out), locate the platform's moon symbol, and dig into the platform wall under the moon."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the stars",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a star on the wall next to a big platform with a rocket",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the six-circle platform with the rocket to the ARK, locate the platform's star symbol, and dig into the platform wall under the star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the stars",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a star on the wall next to a big platform with a steel beam",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the third-lowest six-circle platform above the tower (it has a long steel beam sticking out), locate the platform's star symbol, and dig into the platform wall under the star. (Unlike the other \"watching the stars\" locations, you can't dig along the center line of this platform because of the steel beam; that's okay, just dig halfway between the top and the steel beam.)"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "try digging while watching the stars",
+    "Hint 2": "a big platform with six circles",
+    "Hint 3": "dig under a star next to a big platform without a floating container",
+    "Piece #": 3,
+    "Location type": "Diggable",
+    "Description": "Platforms above the tower; go to the lowest six-circle platform above the tower, locate the platform's star symbol, and dig into the platform wall under the star."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "use a meteorite that flies when you hit it!",
+    "Hint 2": "pyramid-shaped base",
+    "Hint 3": "try throwing a meteorite at the blinking door..",
+    "Piece #": 3,
+    "Location type": "Difficult",
+    "Description": "Central steel tower, behind a breakable door around the base of the tower. Near the three half-arches on the 0-2/0-3 side, there's two doors with a punchable meteorite in front. The emerald's behind the right door."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "wandering between the second and third levels",
+    "Hint 2": "near the pyramid-shaped base",
+    "Hint 3": "moving up and down along the pillar inside the steel tower",
+    "Piece #": 3,
+    "Location type": "Moving",
+    "Description": "Central steel tower; at the inside of the tower, moving up and down along one of the corner beams between the second and third levels. The corner beam faces the boundary of yellow ground on the left and gray ground on the right."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "a GUN's machine is protecting the ARK",
+    "Hint 2": "a high place",
+    "Hint 3": "destroy GUN's machine at the tip of the ARK",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "ARK, lower balconies; go to the second balcony on the right and defeat the GUN bomb robot there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dangerous liquid",
+    "Hint 2": "a floating big platform",
+    "Hint 3": "defeat the water enemy!",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Platforms above the tower; defeat the grounded artificial chaos on the six-circle platform."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dangerous liquid",
+    "Hint 2": "a part of the ARK",
+    "Hint 3": "destroy the water enemy at the tip of the ARK",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "ARK, lower balconies; go to the first balcony on the left and defeat the ground-attached artificial chaos there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "dangerous water drops",
+    "Hint 2": "a high place",
+    "Hint 3": "destroy the water enemy at the tip of the ARK",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "ARK, lower balconies; go to the first balcony on the right and defeat the round artificial chaos there."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "evil water drops",
+    "Hint 2": "under the group of small meteorites",
+    "Hint 3": "water enemy on a platform with a spring near huge containers",
+    "Piece #": "1,2",
+    "Location type": "Enemy",
+    "Description": "Platforms above the tower; left of the six-container storage area, there's a square stone platform with a spring (the Jump from the star spring) and a round artificial chaos. Defeat the artificial chaos for the piece."
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "something sealed",
+    "Hint 2": "down below",
+    "Hint 3": "try knocking the meteorite into a blue box on loading dock \"0-1\"",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  },
+  {
+    "SM's piece ID": "",
+    "Hint 1": "something sealed",
+    "Hint 2": "down blow",
+    "Hint 3": "try knocking the meteorite into a blue box on loading dock \"0-1\"",
+    "Piece #": "",
+    "Location type": "Enemy",
+    "Description": "Not available yet"
+  }
+]
