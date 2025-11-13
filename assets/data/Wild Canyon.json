@@ -6,7 +6,8 @@
     "Hint 3": "in a treasure chest by a red pillar near the lonely statue",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -15,7 +16,8 @@
     "Hint 3": "the left treasure chest of three next to each other",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Of the three treasure chests behind the start, the piece is in the right chest (relative to the direction you're facing when you start the level)."
+    "Description": "Of the three treasure chests behind the start, the piece is in the right chest (relative to the direction you're facing when you start the level).",
+    "locationImage": ""
   },
   {
     "": "",
@@ -24,7 +26,8 @@
     "Hint 3": "the middle one among three treasure chests next to each other",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Of the three treasure chests behind the start, the piece is in the middle chest."
+    "Description": "Of the three treasure chests behind the start, the piece is in the middle chest.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -33,7 +36,8 @@
     "Hint 3": "the right one among three treasure chests next to each other",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Of the three treasure chests behind the start, the piece is in the left chest (relative to the direction you're facing when you start the level)."
+    "Description": "Of the three treasure chests behind the start, the piece is in the left chest (relative to the direction you're facing when you start the level).",
+    "locationImage": ""
   },
   {
     "": "",
@@ -42,7 +46,8 @@
     "Hint 3": "in a treasure chest near an opening you can go down",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -51,7 +56,8 @@
     "Hint 3": "on the square building in the upper valley",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Stone face apartments; on top of the second apartment."
+    "Description": "Stone face apartments; on top of the second apartment.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -60,7 +66,8 @@
     "Hint 3": "inside a wooden container at the bottom of a red pillar",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -69,7 +76,8 @@
     "Hint 3": "by the stone statue face",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Stone statue head, where the head's right ear would be. (That means the left side from your view.)"
+    "Description": "Stone statue head, where the head's right ear would be. (That means the left side from your view.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -78,7 +86,8 @@
     "Hint 3": "on the left shoulder of a lonely stone statue",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Lonely statue (dead end past the stone face apartments), on the left shoulder of the statue."
+    "Description": "Lonely statue (dead end past the stone face apartments), on the left shoulder of the statue.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -87,7 +96,8 @@
     "Hint 3": "the tallest one among the six pillars underground",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Down below, on the pillar with the chao box on it."
+    "Description": "Down below, on the pillar with the chao box on it.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -96,7 +106,8 @@
     "Hint 3": "in a wooden container by a stone container",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Stone statue head, to the left of the head on top of the red-pillar “gate”, in the wooden box."
+    "Description": "Stone statue head, to the left of the head on top of the red-pillar “gate”, in the wooden box.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -105,7 +116,8 @@
     "Hint 3": "in the treasure chest by the head of a stone statue",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Stone statue head, to the right of the head under the red-pillar “gate”, inside the treasure chest."
+    "Description": "Stone statue head, to the right of the head under the red-pillar “gate”, inside the treasure chest.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -114,7 +126,8 @@
     "Hint 3": "move around in the armored carpool",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Lonely statue area, floating around in the sand pit with two GUN tanks."
+    "Description": "Lonely statue area, floating around in the sand pit with two GUN tanks.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -123,7 +136,8 @@
     "Hint 3": "under the weight that is moving up and down by the wall",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Stone statue head, under the weight to the left of the head (around the center of the weight’s shadow)."
+    "Description": "Stone statue head, under the weight to the left of the head (around the center of the weight’s shadow).",
+    "locationImage": ""
   },
   {
     "": "",
@@ -132,16 +146,18 @@
     "Hint 3": "inside of a statue sealed with a container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Inside the closest stone face apartment to the wind tunnel, in the back-center part of the inside."
+    "Description": "Inside the closest stone face apartment to the wind tunnel, in the back-center part of the inside.",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "a suspended ceiling",
     "Hint 2": "a high place",
-    "Hint 3": "can you get it if you defeat the GUN's military weapons?",
+    "Hint 3": "can you get it if you defeat the gun's military weapons?",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Lonely statue area; in the hawk robot above the high \"X\" platform."
+    "Description": "Lonely statue area; in the hawk robot above the high \"X\" platform.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -150,7 +166,8 @@
     "Hint 3": "on top of a statue head deep in the valley",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Lonely statue area; on top of the high \"X\" platform. (Note the weird hint 3.)"
+    "Description": "Lonely statue area; on top of the high \"X\" platform. (Note the weird hint 3.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -159,7 +176,8 @@
     "Hint 3": "follow the swirl tiles on the wall",
     "Piece #": "2 (1?)",
     "Location type": "Exposed",
-    "Description": "Stone face apartments; halfway down the apartment path, high on the left wall, above a “pyramid” of swirl tiles."
+    "Description": "Stone face apartments; halfway down the apartment path, high on the left wall, above a “pyramid” of swirl tiles.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -168,7 +186,8 @@
     "Hint 3": "in a treasure chest under an arrow in a windy hall",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Down below at mid-height, above the start; in the treasure chest left of the swirl-tile arrow that points upward."
+    "Description": "Down below at mid-height, above the start; in the treasure chest left of the swirl-tile arrow that points upward.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -177,7 +196,8 @@
     "Hint 3": "in a wooden container surrounded by swirling panels down below",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Down below; go across the room from the start, and there’s two wooden boxes with swirl tiles around them. The emerald’s in the RIGHT box."
+    "Description": "Down below; go across the room from the start, and there’s two wooden boxes with swirl tiles around them. The emerald’s in the RIGHT box.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -186,7 +206,8 @@
     "Hint 3": "in a wooden container surrounded by swirling panels down below",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Down below; go across the room from the start, and there’s two wooden boxes with swirl tiles around them. The emerald’s in the LEFT box."
+    "Description": "Down below; go across the room from the start, and there’s two wooden boxes with swirl tiles around them. The emerald’s in the LEFT box.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -195,7 +216,8 @@
     "Hint 3": "between the two pillars near a area where wind blows",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Upper area near the wind tunnel, between the two pillars of the terrace that has the moving weight on it."
+    "Description": "Upper area near the wind tunnel, between the two pillars of the terrace that has the moving weight on it.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -204,7 +226,8 @@
     "Hint 3": "under the weight that is moving up and down by a wall",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Upper area near the wind tunnel, under the moving weight that’s on top of one of the terraces."
+    "Description": "Upper area near the wind tunnel, under the moving weight that’s on top of one of the terraces.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -213,7 +236,8 @@
     "Hint 3": "under the weight that is moving up and down by a wall",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -222,7 +246,8 @@
     "Hint 3": "in a treasure chest up where the wind blows",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Upper area near the wind tunnel, in a treasure chest on the ground; on the side nearer to the path to the stone statue head."
+    "Description": "Upper area near the wind tunnel, in a treasure chest on the ground; on the side nearer to the path to the stone statue head.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -231,7 +256,8 @@
     "Hint 3": "a square sandpit, which is blocked by a red pillar",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Near the lonely statue, in plain sight in the sand pit with the two tanks; in the center of the sand pit."
+    "Description": "Near the lonely statue, in plain sight in the sand pit with the two tanks; in the center of the sand pit.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -240,7 +266,8 @@
     "Hint 3": "a square sandpit, which is blocked by a red pillar",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Near the lonely statue, in plain sight in the sand pit with the two tanks; in the back-right corner of the sand pit."
+    "Description": "Near the lonely statue, in plain sight in the sand pit with the two tanks; in the back-right corner of the sand pit.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -249,7 +276,8 @@
     "Hint 3": "on the green and red striped stand",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Down below, at the bottom of the wall painting which is mid-height at the left wall from the start."
+    "Description": "Down below, at the bottom of the wall painting which is mid-height at the left wall from the start.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -258,7 +286,8 @@
     "Hint 3": "a hidden place in front of a lonely statue",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Lonely statue area, in front of the statue; under the overhang, nearer to the overhang than to the ground."
+    "Description": "Lonely statue area, in front of the statue; under the overhang, nearer to the overhang than to the ground.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -267,7 +296,8 @@
     "Hint 3": "at the bottom of a tilted pillar near the weight that's moving up and down",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red pillars area, under the tilted pillar at the center of the path."
+    "Description": "Red pillars area, under the tilted pillar at the center of the path.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -276,7 +306,8 @@
     "Hint 3": "a valley with a lot of square buildings, near the swirl tiles",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Stone face apartments, in front of the apartment in the back, next to the left wall on top of a swirl tile. (There’s four swirl tiles on the wall above it, in the form of a pyramid.)"
+    "Description": "Stone face apartments, in front of the apartment in the back, next to the left wall on top of a swirl tile. (There’s four swirl tiles on the wall above it, in the form of a pyramid.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -285,7 +316,8 @@
     "Hint 3": "a hiding place in front of a lonely statue",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Lonely statue area, in front of the statue; under the overhang, near the ground."
+    "Description": "Lonely statue area, in front of the statue; under the overhang, near the ground.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -294,7 +326,8 @@
     "Hint 3": "a treasure chest behind a rock that you can push",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Upper part of the lower room, above the start; in a treasure chest behind two face blocks."
+    "Description": "Upper part of the lower room, above the start; in a treasure chest behind two face blocks.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -303,7 +336,8 @@
     "Hint 3": "a treasure chest behind a rock that you can push",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Upper part of the lower room, above the start; in a treasure chest to the right of two face blocks."
+    "Description": "Upper part of the lower room, above the start; in a treasure chest to the right of two face blocks.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -312,7 +346,8 @@
     "Hint 3": "at the bottom of a huge swirl arrow",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Down below, on the ledge above the start, between two treasure chests. Radar will be yellow when you start."
+    "Description": "Down below, on the ledge above the start, between two treasure chests. Radar will be yellow when you start.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -321,7 +356,8 @@
     "Hint 3": "between two pillars by a passageway by a wall downstairs",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper part of the lower room, far-left corner of the room from the start, between two face blocks and striped pillars."
+    "Description": "Upper part of the lower room, far-left corner of the room from the start, between two face blocks and striped pillars.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -330,7 +366,8 @@
     "Hint 3": "under the weight that is moving up and down by the wall",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Red pillars area, under the weight on the right... well, against the wall, actually just outside the weight's shadow. (**TODO** Check if this piece corresponds to this exact hint 3.)"
+    "Description": "Red pillars area, under the weight on the right... well, against the wall, actually just outside the weight's shadow. (**TODO** Check if this piece corresponds to this exact hint 3.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -339,7 +376,8 @@
     "Hint 3": "under the weight that is moving up and down by the wall",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Red pillars area, under the weight on the right, about at the center of the weight’s shadow. (**TODO** Check if this piece corresponds to this exact hint 3.)"
+    "Description": "Red pillars area, under the weight on the right, about at the center of the weight’s shadow. (**TODO** Check if this piece corresponds to this exact hint 3.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -348,7 +386,8 @@
     "Hint 3": "between two red springs",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper area near the wind tunnel, between the two springs on a terrace."
+    "Description": "Upper area near the wind tunnel, between the two springs on a terrace.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -357,7 +396,8 @@
     "Hint 3": "are the stone statues facing each other playing catch?",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Down below, floating back and forth between the two statues that are right of the start."
+    "Description": "Down below, floating back and forth between the two statues that are right of the start.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -366,7 +406,8 @@
     "Hint 3": "by the tallest one pillar among six",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Down below, next to the upper part of the pillar with a chao box on it."
+    "Description": "Down below, next to the upper part of the pillar with a chao box on it.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -375,7 +416,8 @@
     "Hint 3": "up from where the wind blows",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -384,7 +426,8 @@
     "Hint 3": "two wooden containers next to each other",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Upper area near the wind tunnel; go to the high ledge (behind you, if you start from the start) with two wooden boxes. The emerald’s in the LEFT box."
+    "Description": "Upper area near the wind tunnel; go to the high ledge (behind you, if you start from the start) with two wooden boxes. The emerald’s in the LEFT box.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -393,7 +436,8 @@
     "Hint 3": "two wooden containers next to each other",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Upper area near the wind tunnel; go to the high ledge (behind you, if you start from the start) with two wooden boxes. The emerald’s in the RIGHT box."
+    "Description": "Upper area near the wind tunnel; go to the high ledge (behind you, if you start from the start) with two wooden boxes. The emerald’s in the RIGHT box.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -402,7 +446,8 @@
     "Hint 3": "inside of a wooden container under the eye windmill",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Stone statue head area, on top of the red arch on the right, in the left box of two wooden boxes."
+    "Description": "Stone statue head area, on top of the red arch on the right, in the left box of two wooden boxes.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -411,7 +456,8 @@
     "Hint 3": "inside a wooden container under the eye windmill",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -420,7 +466,8 @@
     "Hint 3": "under the eye windmill",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area near the wind tunnel, LEFT of the ledge with the two wooden containers, behind a fan."
+    "Description": "Upper area near the wind tunnel, LEFT of the ledge with the two wooden containers, behind a fan.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -429,7 +476,8 @@
     "Hint 3": "under the eye windmill",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area near the wind tunnel, RIGHT of the ledge with the two wooden containers, behind a fan."
+    "Description": "Upper area near the wind tunnel, RIGHT of the ledge with the two wooden containers, behind a fan.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -438,7 +486,8 @@
     "Hint 3": "on the lap of a lonely stone statue",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Lonely statue, on the box that the lonely statue is holding."
+    "Description": "Lonely statue, on the box that the lonely statue is holding.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -447,7 +496,8 @@
     "Hint 3": "the lower area where the wind is generated",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Down below, in front of the start, right next to the wind tunnel opening."
+    "Description": "Down below, in front of the start, right next to the wind tunnel opening.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -456,7 +506,8 @@
     "Hint 3": "the lower area where wind is generated",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Upper area next to the wind tunnel, right next to the wind tunnel opening, on the side with the terrace with the moving weight."
+    "Description": "Upper area next to the wind tunnel, right next to the wind tunnel opening, on the side with the terrace with the moving weight.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -465,7 +516,8 @@
     "Hint 3": "the lower area where wind is generated",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Upper area next to the wind tunnel, right next to the wind tunnel opening, on the side with the terrace with two springs."
+    "Description": "Upper area next to the wind tunnel, right next to the wind tunnel opening, on the side with the terrace with two springs.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -474,7 +526,8 @@
     "Hint 3": "a cliff with two item boxes",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -483,7 +536,8 @@
     "Hint 3": "a cliff sticking out under a windmill in the middle of the upper area",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area near the wind tunnel, in front of the high ledge that has a fan above it; a few Knuckles-lengths away from the ledge."
+    "Description": "Upper area near the wind tunnel, in front of the high ledge that has a fan above it; a few Knuckles-lengths away from the ledge.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -492,7 +546,8 @@
     "Hint 3": "a cliff sticking out under a windmill in the middle of the upper area",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Upper area near the wind tunnel, in front of the ledge with the two wooden boxes."
+    "Description": "Upper area near the wind tunnel, in front of the ledge with the two wooden boxes.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -501,7 +556,8 @@
     "Hint 3": "a cliff sticking out under a windmill in the middle of the upper area",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Upper area near the wind tunnel, in front of the high ledge that has a fan above it; right in front of the ledge."
+    "Description": "Upper area near the wind tunnel, in front of the high ledge that has a fan above it; right in front of the ledge.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -510,7 +566,8 @@
     "Hint 3": "on the cliff sticking out of the middle",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -519,7 +576,8 @@
     "Hint 3": "on the cliff sticking out of the middle",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper area near the wind tunnel, go to a high ledge (behind you, if you start from the start) with two wooden boxes. The emerald’s in front of the RIGHT box."
+    "Description": "Upper area near the wind tunnel, go to a high ledge (behind you, if you start from the start) with two wooden boxes. The emerald’s in front of the RIGHT box.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -528,7 +586,8 @@
     "Hint 3": "between two windmills on the head of a stone statue",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Stone statue head; high above the head. Too high for spiral upper, so glide into it."
+    "Description": "Stone statue head; high above the head. Too high for spiral upper, so glide into it.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -537,7 +596,8 @@
     "Hint 3": "inside a statue sealed in a container",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -546,7 +606,8 @@
     "Hint 3": "inside of a statue sealed with a container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Stone face apartments; inside the farthest-back apartment, in the back-LEFT corner of the apartment."
+    "Description": "Stone face apartments; inside the farthest-back apartment, in the back-LEFT corner of the apartment.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -555,7 +616,8 @@
     "Hint 3": "inside of a statue sealed with a container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Stone face apartments; inside the farthest-back apartment, in the back-RIGHT corner of the apartment."
+    "Description": "Stone face apartments; inside the farthest-back apartment, in the back-RIGHT corner of the apartment.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -564,43 +626,48 @@
     "Hint 3": "at the bottom of the statue with one swirl tile",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "near the six pillars",
     "Hint 2": "a dark place",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Down below, in the floating rock that’s above the 20-ring-box pillar (far-right corner from the start)."
+    "Description": "Down below, in the floating rock that’s above the 20-ring-box pillar (far-right corner from the start).",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "near the six pillars",
     "Hint 2": "a dark place",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": 1,
     "Location type": "Enemy",
-    "Description": "Down below, in the floating rock that’s above the Chao box pillar (far-left corner from the start)."
+    "Description": "Down below, in the floating rock that’s above the Chao box pillar (far-left corner from the start).",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "near the six pillars",
     "Hint 2": "a dark place",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Down below, in the floating rock that’s above the 1-up pillar (near-right corner from the start)."
+    "Description": "Down below, in the floating rock that’s above the 1-up pillar (near-right corner from the start).",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "near the six pillars",
     "Hint 2": "a dark place",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -609,7 +676,8 @@
     "Hint 3": "move a rock with a square face",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Down below, on a mid-height ledge, right side of the room from the start; pull a face block toward the center of the platform to uncover the emerald."
+    "Description": "Down below, on a mid-height ledge, right side of the room from the start; pull a face block toward the center of the platform to uncover the emerald.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -618,7 +686,8 @@
     "Hint 3": "move a rock with a square face",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Down below, on a mid-height ledge, right side of the room from the start; push a face block away from the center of the platform to uncover the emerald."
+    "Description": "Down below, on a mid-height ledge, right side of the room from the start; push a face block away from the center of the platform to uncover the emerald.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -627,16 +696,18 @@
     "Hint 3": "move a rock with a square face",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "on a red circle",
-    "Hint 2": "wild Canyon Track",
+    "Hint 2": "wild canyon track",
     "Hint 3": "on a square building",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper part of the lower room, back-right corner of the room from the start; on top of a stone face apartment whose inside is blocked by a movable face block."
+    "Description": "Upper part of the lower room, back-right corner of the room from the start; on top of a stone face apartment whose inside is blocked by a movable face block.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -645,7 +716,8 @@
     "Hint 3": "under the weight that is moving up and down by a wall",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Stone statue head area, under the moving weight to the left (against the wall, so fairly dangerous to get)."
+    "Description": "Stone statue head area, under the moving weight to the left (against the wall, so fairly dangerous to get).",
+    "locationImage": ""
   },
   {
     "": "",
@@ -654,34 +726,38 @@
     "Hint 3": "go in between red pillars",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Red pillars area, hovering back and forth along the sandy path, going around the tilted pillar at mid-height."
+    "Description": "Red pillars area, hovering back and forth along the sandy path, going around the tilted pillar at mid-height.",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "on a sandy path to a stone statue head",
     "Hint 2": "a high place",
-    "Hint 3": "can you get it if you defeat the GUN's weapons?",
+    "Hint 3": "can you get it if you defeat the gun's weapons?",
     "Piece #": 2,
     "Location type": "Enemy",
-    "Description": "Red pillars area, in the hawk enemy above the middle of the sandy path. **TODO** Check if this piece has this exact hint 3."
+    "Description": "Red pillars area, in the hawk enemy above the middle of the sandy path. **TODO** Check if this piece has this exact hint 3.",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "on a sandy path to a stone statue head",
     "Hint 2": "a high place",
-    "Hint 3": "can you get it if you defeat the GUN's weapons?",
+    "Hint 3": "can you get it if you defeat the gun's weapons?",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Stone statue head area, in the hawk enemy above the platform behind the head. **TODO** Check if this piece has this exact hint 3."
+    "Description": "Stone statue head area, in the hawk enemy above the platform behind the head. **TODO** Check if this piece has this exact hint 3.",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "on a sandy path to a stone statue head",
     "Hint 2": "a high place",
-    "Hint 3": "do the GUN weapons have...?",
+    "Hint 3": "do the gun weapons have...?",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Red pillars area, in the tank enemy at the start of the sandy path. **TODO** Check if this piece has this exact hint 3."
+    "Description": "Red pillars area, in the tank enemy at the start of the sandy path. **TODO** Check if this piece has this exact hint 3.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -690,7 +766,8 @@
     "Hint 3": "follow the arrow between two treasure chests",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Down below, wall painting to the left of the start; on the upper-right part of the wall painting, aligned with the lap of a person in the painting."
+    "Description": "Down below, wall painting to the left of the start; on the upper-right part of the wall painting, aligned with the lap of a person in the painting.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -699,16 +776,18 @@
     "Hint 3": "on the red pillar by the weight that's moving up and down",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red pillars area, on the straight-up red pillar (the taller one) on the right side of the sandy path."
+    "Description": "Red pillars area, on the straight-up red pillar (the taller one) on the right side of the sandy path.",
+    "locationImage": ""
   },
   {
     "": "",
-    "Hint 1": "on the scary eyes in the \"Wild Canyon Track",
+    "Hint 1": "on the scary eyes in the \"wild canyon track",
     "Hint 2": "a windy hall",
     "Hint 3": "on the square building",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper part of the lower room, near-left corner of the room from the start; on top of a stone face apartment."
+    "Description": "Upper part of the lower room, near-left corner of the room from the start; on top of a stone face apartment.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -717,7 +796,8 @@
     "Hint 3": "a cliff with two item boxes",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper area near the wind tunnel, on the high ledge that’s under a fan, the emerald’s on the left of the treasure chest."
+    "Description": "Upper area near the wind tunnel, on the high ledge that’s under a fan, the emerald’s on the left of the treasure chest.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -726,7 +806,8 @@
     "Hint 3": "under three swirl tiles near the huge statue head",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -735,7 +816,8 @@
     "Hint 3": "on the lap of a sitting statue",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Down below; forward and left from the start, above the statue’s toes. (Note the weird hint 3.)"
+    "Description": "Down below; forward and left from the start, above the statue’s toes. (Note the weird hint 3.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -744,7 +826,8 @@
     "Hint 3": "around a stone statue head",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Stone statue head; orbiting clockwise around (not above) the head."
+    "Description": "Stone statue head; orbiting clockwise around (not above) the head.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -753,7 +836,8 @@
     "Hint 3": "on the top of the statue's head",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Stone statue head; on top of the head."
+    "Description": "Stone statue head; on top of the head.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -762,7 +846,8 @@
     "Hint 3": "the path to the head of a stone statue, on the tilted pillar",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Red pillars area, above the tilted red pillar in the center of the path. Spiral Upper gets it, or just go up high and glide into it."
+    "Description": "Red pillars area, above the tilted red pillar in the center of the path. Spiral Upper gets it, or just go up high and glide into it.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -771,52 +856,58 @@
     "Hint 3": "two pillars on the cliff with two red springs",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "stone statue quartet",
     "Hint 2": "a bright place",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": 2,
     "Location type": "Enemy",
-    "Description": "Upper area near the wind tunnel, in the floating rock near the path to the stone face apartments. **TODO** Check if this location has this exact hint 2."
+    "Description": "Upper area near the wind tunnel, in the floating rock near the path to the stone face apartments. **TODO** Check if this location has this exact hint 2.",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "stone statue quartet",
     "Hint 2": "a bright place",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "stone statue quartet",
-    "Hint 2": "a Stone landing ",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 2": "a stone landing",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": 1,
     "Location type": "Enemy",
-    "Description": "Upper area near the wind tunnel, in the floating rock near the path to the stone statue head. **TODO** Check if this location has this exact hint 2."
+    "Description": "Upper area near the wind tunnel, in the floating rock near the path to the stone statue head. **TODO** Check if this location has this exact hint 2.",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "stone statue quartet",
     "Hint 2": "a windy area",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
     "Hint 1": "stone statue quartet",
     "Hint 2": "a windy area",
-    "Hint 3": "try breaking the floating rocks with a Glide attack",
+    "Hint 3": "try breaking the floating rocks with a glide attack",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -825,7 +916,8 @@
     "Hint 3": "on the three swirling tiles near the head of a stone statue",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Red pillars area, halfway down the sandy path, high on the right wall behind a fan. (There’s a line of swirl tiles a little ways below it.)"
+    "Description": "Red pillars area, halfway down the sandy path, high on the right wall behind a fan. (There’s a line of swirl tiles a little ways below it.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -834,7 +926,8 @@
     "Hint 3": "the shorter one among six pillars",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Down below, on the leftmost pillar from the start; the pillar has six rings on it."
+    "Description": "Down below, on the leftmost pillar from the start; the pillar has six rings on it.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -843,7 +936,8 @@
     "Hint 3": "go in between six pillars",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Down below, floating in a path that goes near all six pillars (near the tops of the pillars)."
+    "Description": "Down below, floating in a path that goes near all six pillars (near the tops of the pillars).",
+    "locationImage": ""
   },
   {
     "": "",
@@ -852,7 +946,8 @@
     "Hint 3": "the arrow pointing to the right made of swirling panels",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Down below, high on the wall, in plain sight in front of the swirl-tile arrow pointing right."
+    "Description": "Down below, high on the wall, in plain sight in front of the swirl-tile arrow pointing right.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -861,7 +956,8 @@
     "Hint 3": "between the two pillars where there are three treasure chests",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Down below, above the starting point. You can get a glimpse of this emerald as the screen fades in when you start the level."
+    "Description": "Down below, above the starting point. You can get a glimpse of this emerald as the screen fades in when you start the level.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -870,7 +966,8 @@
     "Hint 3": "between the tall pillars in a hall downstairs",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Down below, between the tops of the two pillars in front of the start (they have a 1-up and 10-ring box), in the middle of the trail of rings."
+    "Description": "Down below, between the tops of the two pillars in front of the start (they have a 1-up and 10-ring box), in the middle of the trail of rings.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -879,7 +976,8 @@
     "Hint 3": "on a statue that holds four swirl tiles",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper area near the wind tunnel, on top of the statue that has four swirl tiles above it. (This statue is left of the terrace with the moving weight.)"
+    "Description": "Upper area near the wind tunnel, on top of the statue that has four swirl tiles above it. (This statue is left of the terrace with the moving weight.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -888,7 +986,8 @@
     "Hint 3": "in front of a wall painting near an opening that you can go down",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper area near the wind tunnel, above one of the holes leading to the lower area, in front of a wall painting. (Relative to the level start, It’s the hole on the right.)"
+    "Description": "Upper area near the wind tunnel, above one of the holes leading to the lower area, in front of a wall painting. (Relative to the level start, It’s the hole on the right.)",
+    "locationImage": ""
   },
   {
     "": "",
@@ -897,7 +996,8 @@
     "Hint 3": "under the elbow of a statue that is sitting on a chair",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Upper area near the wind tunnel, under the left elbow of the statue with one swirl tile above it (it’s on the right of the terrace with the moving weight). This is really awkward to get; climb up from the bottom of the statue and get up onto the tiny “ledge” where the emerald is, then punch at the emerald. https://youtu.be/SzpzO_jharw\n**TODO** Wasn't able to confirm what hint 2 was, so this may need to be moved to the other row."
+    "Description": "Upper area near the wind tunnel, under the left elbow of the statue with one swirl tile above it (it’s on the right of the terrace with the moving weight). This is really awkward to get; climb up from the bottom of the statue and get up onto the tiny “ledge” where the emerald is, then punch at the emerald. https://youtu.be/SzpzO_jharw\n**TODO** Wasn't able to confirm what hint 2 was, so this may need to be moved to the other row.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -906,7 +1006,8 @@
     "Hint 3": "under the elbow of a statue that is sitting on a chair",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
@@ -915,7 +1016,8 @@
     "Hint 3": "behind the head of a stone statue",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Stone statue head; behind the head, in a treasure chest."
+    "Description": "Stone statue head; behind the head, in a treasure chest.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -924,7 +1026,8 @@
     "Hint 3": "circle around a windy area",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Upper area near the wind tunnel, floating counter-clockwise around the wind tunnel opening."
+    "Description": "Upper area near the wind tunnel, floating counter-clockwise around the wind tunnel opening.",
+    "locationImage": ""
   },
   {
     "": "",
@@ -933,7 +1036,8 @@
     "Hint 3": "in a treasure chest at the bottom of a pillar",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Down below, on the ground in a treasure chest (relative to the level start, left of the wind tunnel opening)."
+    "Description": "Down below, on the ground in a treasure chest (relative to the level start, left of the wind tunnel opening).",
+    "locationImage": ""
   },
   {
     "": "",
@@ -942,42 +1046,47 @@
     "Hint 3": "near an area where the wind is generated upwards",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area near the wind tunnel, on the ground between the wind tunnel and one of the holes leading to the lower area. It’s on the side near the path to the stone face apartments."
+    "Description": "Upper area near the wind tunnel, on the ground between the wind tunnel and one of the holes leading to the lower area. It’s on the side near the path to the stone face apartments.",
+    "locationImage": ""
   },
   {
     "": "",
-    "Hint 1": "wild Canyon Track",
+    "Hint 1": "wild canyon track",
     "Hint 2": "a dark place",
     "Hint 3": "in front of a twin's head",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Upper part of the lower room, above the level start, in front of two movable face blocks."
+    "Description": "Upper part of the lower room, above the level start, in front of two movable face blocks.",
+    "locationImage": ""
   },
   {
     "": "",
-    "Hint 1": "wild Canyon Track",
+    "Hint 1": "wild canyon track",
     "Hint 2": "a small place",
     "Hint 3": "in a square statue on a passageway by a wall downstairs",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "": "",
-    "Hint 1": "wild Canyon Track",
+    "Hint 1": "wild canyon track",
     "Hint 2": "a small place",
     "Hint 3": "in a square statue on a passageway by the wall downstairs",
     "Piece #": 2,
     "Location type": "Assorted",
-    "Description": "Upper part of the lower room, near-left corner from the level start, inside the stone face apartment at the back-right corner."
+    "Description": "Upper part of the lower room, near-left corner from the level start, inside the stone face apartment at the back-right corner.",
+    "locationImage": ""
   },
   {
     "": "",
-    "Hint 1": "wild Canyon Track",
+    "Hint 1": "wild canyon track",
     "Hint 2": "near the ceiling",
     "Hint 3": "circle along a path outside the wall",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   }
 ]

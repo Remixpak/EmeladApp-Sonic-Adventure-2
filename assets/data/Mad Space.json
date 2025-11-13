@@ -6,7 +6,8 @@
     "Hint 3": "don't dig behind the moon symbol on the lowest platform with green rocks",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Lower platforms, go out just a little bit left from the starting platform's yellow balcony. Find a platform with green crystals growing out of it; dig behind the moon symbol that has a green crystal in it."
+    "Description": "Lower platforms, go out just a little bit left from the starting platform's yellow balcony. Find a platform with green crystals growing out of it; dig behind the moon symbol that has a green crystal in it.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -15,7 +16,8 @@
     "Hint 3": "don't dig under the sign \"1\" of the pipe machine on the capsule meteorite!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Capsule Planet, dig at the end of the rightmost leg of the machine labeled \"1\"."
+    "Description": "Capsule Planet, dig at the end of the rightmost leg of the machine labeled \"1\".",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -24,7 +26,8 @@
     "Hint 3": "don't dig under the sign \"3\" of the pipe machine on the capsule meteorite!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Capsule Planet, dig at the end of the farthest leg of the machine labeled \"3\"."
+    "Description": "Capsule Planet, dig at the end of the farthest leg of the machine labeled \"3\".",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -33,7 +36,8 @@
     "Hint 3": "in the burning red rock on the floating meteorite",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -42,7 +46,8 @@
     "Hint 3": "it's not on a platform you can reach using a rocket on a crater meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Take the rocket from the Holy Planet; the emerald's on the platform with the next rocket. If the rocket's on circle 3A, then the emerald's on circle 1A."
+    "Description": "Take the rocket from the Holy Planet; the emerald's on the platform with the next rocket. If the rocket's on circle 3A, then the emerald's on circle 1A.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -51,7 +56,8 @@
     "Hint 3": "it's not on a platform you can reach using a rocket on a crater meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Take the rocket from the Holy Planet; the emerald's on the platform with the next rocket. If the rocket's on circle 3A, then the emerald's on circle 3B."
+    "Description": "Take the rocket from the Holy Planet; the emerald's on the platform with the next rocket. If the rocket's on circle 3A, then the emerald's on circle 3B.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -60,7 +66,8 @@
     "Hint 3": "dnats eulb eht no ymene eulb eht",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "(DREAMCAST ONLY)"
+    "Description": "(DREAMCAST ONLY)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -69,7 +76,8 @@
     "Hint 3": "an enemy on a big platform near a blue tower doesn't have it",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "ARK, defeat the artificial chaos on the Mystic Melody platform (go left from the highest rocket)."
+    "Description": "ARK, defeat the artificial chaos on the Mystic Melody platform (go left from the highest rocket).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -78,7 +86,8 @@
     "Hint 3": "don't bother the water enemy on the platform with a blue light below!",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Lower platforms, go out just a little bit right from the blue lights of the starting platform. Defeat the Artificial Chaos on the platform with blue lights."
+    "Description": "Lower platforms, go out just a little bit right from the blue lights of the starting platform. Defeat the Artificial Chaos on the platform with blue lights.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -87,7 +96,8 @@
     "Hint 3": "don't dig in the area above the green rockes in the shadow of the flying train",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -96,7 +106,8 @@
     "Hint 3": "it's not in the burning rock above the floating meteorite",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Holy Planet, inside a meteorite stuck into the crater's ground, on the opposite side of the central house. The meteorite will explode in a couple of seconds if you get close; alternatively, you can just ram the meteorite."
+    "Description": "Holy Planet, inside a meteorite stuck into the crater's ground, on the opposite side of the central house. The meteorite will explode in a couple of seconds if you get close; alternatively, you can just ram the meteorite.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -105,7 +116,8 @@
     "Hint 3": "it's not in the two connected storage containers which are floating",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "ARK, group of 2 large storage containers (near the highest rocket); it's in the iron box in the back of the storage container on the right."
+    "Description": "ARK, group of 2 large storage containers (near the highest rocket); it's in the iron box in the back of the storage container on the right.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -114,7 +126,8 @@
     "Hint 3": "don't dig under the star symbol on the meteorite with grass!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Capsule Planet, dig in the star between the three three-legged machines. (ACTUALLY, dig on the metal on the left side of the star symbol structure.)"
+    "Description": "Capsule Planet, dig in the star between the three three-legged machines. (ACTUALLY, dig on the metal on the left side of the star symbol structure.)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -123,7 +136,8 @@
     "Hint 3": "it's not the area near the farthest blue light on the biggest meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Holy Planet, in plain sight at the edge of the crater; go out from the open face of the central house."
+    "Description": "Holy Planet, in plain sight at the edge of the crater; go out from the open face of the central house.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -132,7 +146,8 @@
     "Hint 3": "it's not in the burning rock above the floating meteorite",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -141,7 +156,8 @@
     "Hint 3": "it's not near the yellow light on the round meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Spherical Planet, in plain sight next to a yellow light near the central house. It's 90 degrees left from taking the rocket from the start, and 120 degrees right from the central house's open face."
+    "Description": "Spherical Planet, in plain sight next to a yellow light near the central house. It's 90 degrees left from taking the rocket from the start, and 120 degrees right from the central house's open face.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -150,7 +166,8 @@
     "Hint 3": "it's not near the yellow light on the round meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Spherical Planet, in plain sight next to a yellow light near the central house. It's the closest light from taking the rocket from the start."
+    "Description": "Spherical Planet, in plain sight next to a yellow light near the central house. It's the closest light from taking the rocket from the start.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -159,7 +176,8 @@
     "Hint 3": "it's not the top of the capsule under the capsule meteorite",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, the lower tip of the capsule."
+    "Description": "Capsule Planet, the lower tip of the capsule.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -168,7 +186,8 @@
     "Hint 3": "it's not the top of the capsule under the capsule meteorite",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, the upper tip of the capsule."
+    "Description": "Capsule Planet, the upper tip of the capsule.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -177,7 +196,8 @@
     "Hint 3": "under a blinking red light at the top of an inverted tower",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Above the Holy Planet; take the rocket from the planet, then turn right to the lowest-jutting part of the ARK. The piece is under that part of the ARK, so glide over there."
+    "Description": "Above the Holy Planet; take the rocket from the planet, then turn right to the lowest-jutting part of the ARK. The piece is under that part of the ARK, so glide over there.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -186,7 +206,8 @@
     "Hint 3": "it's not between the floating black containers down below",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Lower platforms, go out from the yellow lights of the starting platform. The emerald's floating in place among the black boxes."
+    "Description": "Lower platforms, go out from the yellow lights of the starting platform. The emerald's floating in place among the black boxes.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -195,7 +216,8 @@
     "Hint 3": "it's not next to the green stone by a hut on the floating meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Holy Planet, next to a green crystal that's next to the central house."
+    "Description": "Holy Planet, next to a green crystal that's next to the central house.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -204,7 +226,8 @@
     "Hint 3": "it's not in front of the building on the biggest planet",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Holy Planet, next to the central house in plain sight; it's on the opposite side of the house if you're coming from the Capsule Planet."
+    "Description": "Holy Planet, next to the central house in plain sight; it's on the opposite side of the house if you're coming from the Capsule Planet.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -213,7 +236,8 @@
     "Hint 3": "in the floating white box above the floating meteorite",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -222,7 +246,8 @@
     "Hint 3": "it's not on the glowing square stone which is floating",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Spherical Planet, on a semi-high platform; go out 150 degrees right of the central house's open face. Any nearby spring should send you high enough to get on the platform."
+    "Description": "Spherical Planet, on a semi-high platform; go out 150 degrees right of the central house's open face. Any nearby spring should send you high enough to get on the platform.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -231,7 +256,8 @@
     "Hint 3": "it's not on the glowing square stone which is floating",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -240,7 +266,8 @@
     "Hint 3": "don't dig under a star symbol under a building on the round meteorite!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Spherical Planet, dig in the star under the central house."
+    "Description": "Spherical Planet, dig in the star under the central house.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -249,7 +276,8 @@
     "Hint 3": "it's not on the top of the machine with pipes on the capsule meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, on the end of the right leg of machine no.2 (the near-right machine)."
+    "Description": "Capsule Planet, on the end of the right leg of machine no.2 (the near-right machine).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -258,7 +286,8 @@
     "Hint 3": "don't dig under a moon symbol under the capsule meteorite",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Capsule Planet, near the bottom side of it, there's a moon symbol; dig into it. Note that you can (usually) glide and grab onto the planet right near the moon symbol, even though it doesn't look like the angle is right for it."
+    "Description": "Capsule Planet, near the bottom side of it, there's a moon symbol; dig into it. Note that you can (usually) glide and grab onto the planet right near the moon symbol, even though it doesn't look like the angle is right for it.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -267,7 +296,8 @@
     "Hint 3": "don't dig into a moon symbol on a platform with many red lights",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. At the front side of that platform are one moon symbol and two star symbols; dig into the moon symbol (which is between the stars)."
+    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. At the front side of that platform are one moon symbol and two star symbols; dig into the moon symbol (which is between the stars).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -276,7 +306,8 @@
     "Hint 3": "not between a storage container below on the inverted tower",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. The piece is between the two lower storage containers."
+    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. The piece is between the two lower storage containers.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -285,7 +316,8 @@
     "Hint 3": "it's not on the connected containers under the inverted tower",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. The piece is floating above the container closest to the ARK."
+    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. The piece is floating above the container closest to the ARK.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -294,7 +326,8 @@
     "Hint 3": "it's not a box on a platform with a red light on an inverted tower",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "ARK, red light balcony (first balcony on the right); in the non-floating iron crate near the base of the balcony."
+    "Description": "ARK, red light balcony (first balcony on the right); in the non-floating iron crate near the base of the balcony.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -303,7 +336,8 @@
     "Hint 3": "don't dig into the star symbol on the lowest platform!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -312,7 +346,8 @@
     "Hint 3": "ynoclab wolley eht fo namhctaw",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -321,7 +356,8 @@
     "Hint 3": "it's not far away from a green rock above a floating meteorite",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Crater planet, fairly low on the side, in plain sight under a large green crystal with six points. The crater planet house's open face is facing near the direction that this piece is in."
+    "Description": "Crater planet, fairly low on the side, in plain sight under a large green crystal with six points. The crater planet house's open face is facing near the direction that this piece is in.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -330,7 +366,8 @@
     "Hint 3": "far away from a green rock above a floating meteorite",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Crater planet, high on the side, in plain sight under a large green crystal with six points. The crater planet house's open face is facing in the direction that this piece is in."
+    "Description": "Crater planet, high on the side, in plain sight under a large green crystal with six points. The crater planet house's open face is facing in the direction that this piece is in.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -339,7 +376,8 @@
     "Hint 3": "don't dig under the lonely light on the floating meteorite",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Holy Planet, go out 90 degrees left from the central house's open face. Low on the side of the planet, there's a lamppost; dig under it."
+    "Description": "Holy Planet, go out 90 degrees left from the central house's open face. Low on the side of the planet, there's a lamppost; dig under it.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -348,7 +386,8 @@
     "Hint 3": "it's not the area that is glowing on the capsule meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, on top of a red glowing structure sticking out near the top of the capsule."
+    "Description": "Capsule Planet, on top of a red glowing structure sticking out near the top of the capsule.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -357,7 +396,8 @@
     "Hint 3": "don't defeat the water enemy on the meteorite with a crater!",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "(DREAMCAST ONLY)"
+    "Description": "(DREAMCAST ONLY)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -366,7 +406,8 @@
     "Hint 3": "it's far away from the green stone above the floating meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Holy Planet, right next to a green crystal. The crystal's the closest crystal after you take the spring from the Capsule Planet."
+    "Description": "Holy Planet, right next to a green crystal. The crystal's the closest crystal after you take the spring from the Capsule Planet.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -375,7 +416,8 @@
     "Hint 3": "it's not an enemy you can reach using a rocket on a crater meteorite",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "(DREAMCAST ONLY)"
+    "Description": "(DREAMCAST ONLY)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -384,7 +426,8 @@
     "Hint 3": "it's not in the white box that the cage is on top of",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -393,7 +436,8 @@
     "Hint 3": "it's not on a platform with yellow lights on the round meteorite",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Spherical Planet, on a high platform with two yellow lights on it. Go out about 90 degrees right from the central house. You can use the spring between the house and the platform (a bit right of that, actually) to get high enough."
+    "Description": "Spherical Planet, on a high platform with two yellow lights on it. Go out about 90 degrees right from the central house. You can use the spring between the house and the platform (a bit right of that, actually) to get high enough.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -402,7 +446,8 @@
     "Hint 3": "aera lortnoc fo tou eht ni mroftalp eht",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -411,7 +456,8 @@
     "Hint 3": "don't dig near a star on the lowest platform with burning meteorites",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Lower platforms, go out from the blue lights of the starting platform. There's a platform that's being circled by a meteor. Dig in the star on that platform."
+    "Description": "Lower platforms, go out from the blue lights of the starting platform. There's a platform that's being circled by a meteor. Dig in the star on that platform.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -420,7 +466,8 @@
     "Hint 3": "don't dig in different star symbols on a platform wall with blue lights",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find a star symbol on the far side of the platform; it has two red lights under it and it's left of the spikeball trap. Dig into this star."
+    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find a star symbol on the far side of the platform; it has two red lights under it and it's left of the spikeball trap. Dig into this star.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -429,7 +476,8 @@
     "Hint 3": "don't dig into different moon symbols on a platform wall with red lights",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. Go to the rear side of that platform and dig into the left moon (the one that's facing up instead of down like the other two moons there)."
+    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. Go to the rear side of that platform and dig into the left moon (the one that's facing up instead of down like the other two moons there).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -438,7 +486,8 @@
     "Hint 3": "it's not in a floating white box behind the moon symbol",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -447,7 +496,8 @@
     "Hint 3": "don't dig into a moon symbol near a steel ball with blue lights",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Above the Holy Planet; beside the large six-circle platform with the rocket, there's a small stone platform with a spinning spike ball trap. Dig into the moon on that platform."
+    "Description": "Above the Holy Planet; beside the large six-circle platform with the rocket, there's a small stone platform with a spinning spike ball trap. Dig into the moon on that platform.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -456,7 +506,8 @@
     "Hint 3": "don't dig into a moon symbol near a steel ball with blue lights",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Above the Holy Planet; beside the large six-circle platform with the rocket, there's a small stone platform with a spinning spike ball trap. Right next to that platform, dig into the moon on the side of the larger platform."
+    "Description": "Above the Holy Planet; beside the large six-circle platform with the rocket, there's a small stone platform with a spinning spike ball trap. Right next to that platform, dig into the moon on the side of the larger platform.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -465,7 +516,8 @@
     "Hint 3": "don't dig under a moon symbol near a trap on the capsule meteorite!",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Platform near the Capsule Planet; dig in a moon that's guarded by rotating spikeballs."
+    "Description": "Platform near the Capsule Planet; dig in a moon that's guarded by rotating spikeballs.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -474,7 +526,8 @@
     "Hint 3": "don't dig under the only short light high up on the floating meteorite",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Holy Planet, go out from the central house's open face to find a shorter-than-normal, sideways sticking light at the side of the planet. Dig under this light."
+    "Description": "Holy Planet, go out from the central house's open face to find a shorter-than-normal, sideways sticking light at the side of the planet. Dig under this light.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -483,7 +536,8 @@
     "Hint 3": "don't dig into a star symbol on a wall of a platform with six circles",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "ARK, Mystic Melody platform (go left from the topmost rocket). Dig in the star at the side of the platform."
+    "Description": "ARK, Mystic Melody platform (go left from the topmost rocket). Dig in the star at the side of the platform.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -492,7 +546,8 @@
     "Hint 3": "don't dig under a star on a platform with many blue lights",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find the star symbol farthest from the bottom of the ARK (and right of the spikeballs) and dig in the star."
+    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find the star symbol farthest from the bottom of the ARK (and right of the spikeballs) and dig in the star.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -501,7 +556,8 @@
     "Hint 3": "don't dig under a star on a platform with many blue lights",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find the star symbol nearest to the bottom of the ARK (\"erauqs der\"), and dig in the star."
+    "Description": "Take the rocket from the Holy Planet; on the sides of the platform with the next rocket, there are some star symbols. Find the star symbol nearest to the bottom of the ARK (\"erauqs der\"), and dig in the star.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -510,7 +566,8 @@
     "Hint 3": "don't dig under a star symbol on a platform with many blue lights",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -519,7 +576,8 @@
     "Hint 3": "don't dig near a star next to the spheres on the platform by the capsule meteorite",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Platform near the Capsule Planet; dig in a star that's guarded by rotating spikeballs."
+    "Description": "Platform near the Capsule Planet; dig in a star that's guarded by rotating spikeballs.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -528,7 +586,8 @@
     "Hint 3": "it's not in a wall under a star symbol on a yellow platform with lights",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "ARK, past the red balcony (which is the first balcony on the right from the topmost rocket), a stone platform with red, blue, and yellow lights and a lamppost - dig at the side of the platform under where the star is."
+    "Description": "ARK, past the red balcony (which is the first balcony on the right from the topmost rocket), a stone platform with red, blue, and yellow lights and a lamppost - dig at the side of the platform under where the star is.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -537,7 +596,8 @@
     "Hint 3": "not under a black container above a platform with a red light tower",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -546,7 +606,8 @@
     "Hint 3": "it's not in the box in the storage container with a yellow light",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). Go into the left storage container (the one with yellow lights) and break the iron box inside to get the piece."
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). Go into the left storage container (the one with yellow lights) and break the iron box inside to get the piece.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -555,7 +616,8 @@
     "Hint 3": "it's not in the two connected storage containers which are floating",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "ARK, the 2 storage containers next to each other (near the highest rocket); go in the left storage container and break the iron box inside."
+    "Description": "ARK, the 2 storage containers next to each other (near the highest rocket); go in the left storage container and break the iron box inside.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -564,7 +626,8 @@
     "Hint 3": "ynoclab lhgil der eht morf renaitnoc kcalb nellaf eht",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "*NONSENSICAL HINTS* Round planet, bottom side, riding the cart that's moving along the rail. (The cart is moving left, so fly right to meet it fastest; but you may have an easier time landing on it while moving left.)"
+    "Description": "*NONSENSICAL HINTS* Round planet, bottom side, riding the cart that's moving along the rail. (The cart is moving left, so fly right to meet it fastest; but you may have an easier time landing on it while moving left.)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -573,7 +636,8 @@
     "Hint 3": "it's not in the storage container with blue lights",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). Go into the middle storage container (the one with blue lights), it's in plain sight there."
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). Go into the middle storage container (the one with blue lights), it's in plain sight there.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -582,7 +646,8 @@
     "Hint 3": "it's not on the storage container with yellow lights",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). It's on top of the left storage container (the one with yellow lights)."
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). It's on top of the left storage container (the one with yellow lights).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -591,7 +656,8 @@
     "Hint 3": "it's not in the box in the storage container with a red light",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). On top of the right storage container (the one with red lights), break the iron box and get the piece."
+    "Description": "Above the Holy Planet, in the lower 3 storage containers (take the rocket from the planet and then fly forward). On top of the right storage container (the one with red lights), break the iron box and get the piece.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -600,7 +666,8 @@
     "Hint 3": "don't defeat gun's machine on the connected storage containers!",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. Defeat the GUN hawk robot that's on top of the outermost storage container."
+    "Description": "ARK, the higher group of 3 large storage containers. Take the Holy Planet rocket and the next rocket, then go halfway around the ARK to see the storage containers. Defeat the GUN hawk robot that's on top of the outermost storage container.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -609,7 +676,8 @@
     "Hint 3": "it's not in the floating box above a platform on an inverted tower",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "ARK, balcony with no lights (second balcony on the left); in the floating iron crate near the end of the balcony. A screw kick can break the box and get the emerald in one shot."
+    "Description": "ARK, balcony with no lights (second balcony on the left); in the floating iron crate near the end of the balcony. A screw kick can break the box and get the emerald in one shot.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -618,7 +686,8 @@
     "Hint 3": "it's not a box on a platform with a red light on an inverted tower",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "ARK, red light balcony (first balcony on the right); in the floating iron crate near the end of the balcony. A screw kick can break the box and get the emerald in one shot."
+    "Description": "ARK, red light balcony (first balcony on the right); in the floating iron crate near the end of the balcony. A screw kick can break the box and get the emerald in one shot.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -627,7 +696,8 @@
     "Hint 3": "it's not under the building on the round meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Spherical Planet, in plain sight under the central house."
+    "Description": "Spherical Planet, in plain sight under the central house.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -636,7 +706,8 @@
     "Hint 3": "it's not below the starting point",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Platform below the start, in plain sight, between the blue and yellow sides."
+    "Description": "Platform below the start, in plain sight, between the blue and yellow sides.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -645,7 +716,8 @@
     "Hint 3": "it's not the base of a growing stone above the dented meteorite",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -654,7 +726,8 @@
     "Hint 3": "it's not on the top of the machine with pipes on the capsule meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, on the end of the closest segment of the three-legged machine labeled \"1\"."
+    "Description": "Capsule Planet, on the end of the closest segment of the three-legged machine labeled \"1\".",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -663,7 +736,8 @@
     "Hint 3": "it's not on the top of the machine with pipes on the capsule meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, on the left end of the machine labeled \"3\" (the leftmost machine)."
+    "Description": "Capsule Planet, on the left end of the machine labeled \"3\" (the leftmost machine).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -672,7 +746,8 @@
     "Hint 3": "it's not on the machine with three pipes on the capsule meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Capsule Planet, on the center of machine no. 2 (the machine on the near right)."
+    "Description": "Capsule Planet, on the center of machine no. 2 (the machine on the near right).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -681,7 +756,8 @@
     "Hint 3": "not between machine no.1 and no.2 with pipes on the capsule meteorite",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Capsule Planet, go between machines no. 1 and 2 (the two machines on the upper end of the planet) and jump or screw kick to get the emerald piece in the air."
+    "Description": "Capsule Planet, go between machines no. 1 and 2 (the two machines on the upper end of the planet) and jump or screw kick to get the emerald piece in the air.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -690,7 +766,8 @@
     "Hint 3": "don't break the wooden box between platforms on the capsule meteorite",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Capsule Planet, in the wooden box between two red glowing structures at the top of the capsule."
+    "Description": "Capsule Planet, in the wooden box between two red glowing structures at the top of the capsule.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -699,7 +776,8 @@
     "Hint 3": "don't dig between the two moons above the lowest platform!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Lower platforms; go out from the red lights of the starting platform. There's a platform with two moon symbols on it; dig in between them."
+    "Description": "Lower platforms; go out from the red lights of the starting platform. There's a platform with two moon symbols on it; dig in between them.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -708,7 +786,8 @@
     "Hint 3": "it's not in a floating wooden box above the capsule meteorite",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Capsule Planet, in a floating wooden box to the left of machine no. 1. Screw kick to break the box."
+    "Description": "Capsule Planet, in a floating wooden box to the left of machine no. 1. Screw kick to break the box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -717,7 +796,8 @@
     "Hint 3": "it's not in a box on a platform under the inverted tower",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. Of the six iron boxes, the piece is in the back-center box."
+    "Description": "Above the Holy Planet, there's a platform with boxes near the bottom of the ARK. Of the six iron boxes, the piece is in the back-center box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -726,7 +806,8 @@
     "Hint 3": "it's not between two lights on the capsule meteorite",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Capsule Planet; right near the lower end of the planet, there are two tall lampposts close together, with a wooden box floating low between them. The piece is in the wooden box."
+    "Description": "Capsule Planet; right near the lower end of the planet, there are two tall lampposts close together, with a wooden box floating low between them. The piece is in the wooden box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -735,7 +816,8 @@
     "Hint 3": "don't dig in the center of the lowest platform with the moving weight",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Lower platforms, go out from the red lights of the starting platform. Dig under the center of the weight."
+    "Description": "Lower platforms, go out from the red lights of the starting platform. Dig under the center of the weight.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -744,7 +826,8 @@
     "Hint 3": "don't dig under the only short light high up on the floating meteorite",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -753,7 +836,8 @@
     "Hint 3": "it's not the fallen yellow light on the round meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Spherical Planet, in plain sight next to a yellow light that's fallen over. Locate the open face of the central house, go outward from 90 degrees right (counterclockwise) of that."
+    "Description": "Spherical Planet, in plain sight next to a yellow light that's fallen over. Locate the open face of the central house, go outward from 90 degrees right (counterclockwise) of that.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -762,7 +846,8 @@
     "Hint 3": "at the base of a long tilted light on the floating meteorite",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Holy Planet, above the base of a light sticking out sideways near the top of the planet. Go out 60 degrees right from the central house's open face."
+    "Description": "Holy Planet, above the base of a light sticking out sideways near the top of the planet. Go out 60 degrees right from the central house's open face.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -771,7 +856,8 @@
     "Hint 3": "don't dig at the base of the long light near the green rock!",
     "Piece #": 3,
     "Location type": "Diggable",
-    "Description": "Holy Planet; after arriving from the capsule planet, go about 120 degrees right around the crater to see a lamppost sticking out sideways near the edge of the crater. Dig under that lamppost."
+    "Description": "Holy Planet; after arriving from the capsule planet, go about 120 degrees right around the crater to see a lamppost sticking out sideways near the edge of the crater. Dig under that lamppost.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -780,7 +866,8 @@
     "Hint 3": "it's not under a moon on a yellow platform near an inverted tower",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "ARK, take the second highest rocket and then climb up a bit. On the higher stone platform is a lamppost and a star symbol; dig in the star symbol."
+    "Description": "ARK, take the second highest rocket and then climb up a bit. On the higher stone platform is a lamppost and a star symbol; dig in the star symbol.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -789,7 +876,8 @@
     "Hint 3": "don't dig under the blue light on the round meteorite!",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Spherical Planet, dig next to the lone blue light. Locate the open face of the planet's central house, and go outward from that face's right corner to locate the blue light. Dig on the side of the light that's facing away from the house."
+    "Description": "Spherical Planet, dig next to the lone blue light. Locate the open face of the planet's central house, and go outward from that face's right corner to locate the blue light. Dig on the side of the light that's facing away from the house.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -798,7 +886,8 @@
     "Hint 3": "it's not near the lonely blue light on the round light",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Spherical Planet, in plain sight next to the lone blue light. Locate the open face of the planet's central house, and go outward from that face's right corner to locate the blue light."
+    "Description": "Spherical Planet, in plain sight next to the lone blue light. Locate the open face of the planet's central house, and go outward from that face's right corner to locate the blue light.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -807,7 +896,8 @@
     "Hint 3": "etiroetem eht dnuora seog that niart eht",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Holy Planet, on a tram that goes around the central house (there are 2 trams there, the piece is on the trailing one)."
+    "Description": "Holy Planet, on a tram that goes around the central house (there are 2 trams there, the piece is on the trailing one).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -816,7 +906,8 @@
     "Hint 3": "it's not under the moon on the yellow platform near the hanging blue structure",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -825,7 +916,8 @@
     "Hint 3": "don't dig under the container in high up on the floating meteorite",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Holy Planet, halfway out the crater and left of the central house, there's a floating black box; dig under it."
+    "Description": "Holy Planet, halfway out the crater and left of the central house, there's a floating black box; dig under it.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -834,7 +926,8 @@
     "Hint 3": "reniatnoc deroloc eerht",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "*NONSENSICAL HINTS* Holy Planet, on the tram moving along the rail on the side of the planet."
+    "Description": "*NONSENSICAL HINTS* Holy Planet, on the tram moving along the rail on the side of the planet.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -843,7 +936,8 @@
     "Hint 3": "it's not on a platform with a black container on an inverted tower",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "ARK, the balcony with no lights (second balcony on the left, from the highest rocket), in plain sight above the center of the balcony."
+    "Description": "ARK, the balcony with no lights (second balcony on the left, from the highest rocket), in plain sight above the center of the balcony.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -852,7 +946,8 @@
     "Hint 3": "it's not under the platform with a red light on the inverted tower",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "ARK, red light balcony (first balcony on the right); just off the end of the balcony."
+    "Description": "ARK, red light balcony (first balcony on the right); just off the end of the balcony.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -861,7 +956,8 @@
     "Hint 3": "it's not on the platform with a red light on an inverted tower",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "ARK, red light balcony (one balcony to the right, from the topmost rocket), on the center of the balcony in plain sight."
+    "Description": "ARK, red light balcony (one balcony to the right, from the topmost rocket), on the center of the balcony in plain sight.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -870,7 +966,8 @@
     "Hint 3": "it's not on the platform with a blue light on an inverted tower",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "ARK, blue light balcony (first balcony on the left), on the center of the balcony."
+    "Description": "ARK, blue light balcony (first balcony on the left), on the center of the balcony.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -879,7 +976,8 @@
     "Hint 3": "you can't use a rocket on a platform with a yellow light tower",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "ARK, go to the yellow light balcony (second balcony on the right) and take the rocket on that balcony. After letting go of the rocket, glide around to fall slowly to make sure you get the emerald. Alternatively, if you're confident, you can hold forward halfway as you let go of the rocket, and you should fall onto the emerald."
+    "Description": "ARK, go to the yellow light balcony (second balcony on the right) and take the rocket on that balcony. After letting go of the rocket, glide around to fall slowly to make sure you get the emerald. Alternatively, if you're confident, you can hold forward halfway as you let go of the rocket, and you should fall onto the emerald.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -888,7 +986,8 @@
     "Hint 3": "it's not on the platform with a yellow light on an inverted tower",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -897,7 +996,8 @@
     "Hint 3": "erauqs der",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "",
@@ -906,6 +1006,7 @@
     "Hint 3": "it's not gun's machine on a platform with a yellow light by a blue tower",
     "Piece #": 2,
     "Location type": "Enemy",
-    "Description": "ARK, yellow light balcony (second balcony on the right), in the GUN hawk robot."
+    "Description": "ARK, yellow light balcony (second balcony on the right), in the GUN hawk robot.",
+    "locationImage": ""
   }
 ]

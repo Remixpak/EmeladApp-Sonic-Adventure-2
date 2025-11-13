@@ -5,6 +5,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 import 'package:path_provider/path_provider.dart';
 import 'package:path/path.dart' as path;
+import 'package:crypto/crypto.dart';
 import '../models/levels.dart';
 
 class ResulScreen extends StatefulWidget {
@@ -30,13 +31,24 @@ class _ResultScreenState extends State<ResulScreen> {
   String? locationType;
   String? description;
   String? errorMessage;
+  
+  // Imagen local para ESTA pantalla específica (no compartida)
+  Image? _localImageLocation;
+
+  /// Genera un identificador único basado en los hints
+  String _generateHintHash() {
+    final hintsString = '${widget.hint1}|${widget.hint2}|${widget.hint3}';
+    return hintsString.hashCode.toString().replaceAll('-', '');
+  }
 
   @override
   void initState() {
     super.initState();
     _loadLevelData();
+    _loadStoredImage();
   }
 
+  /// Cargar datos del nivel (location type y description)
   Future<void> _loadLevelData() async {
     try {
       final fileName = widget.level.name;
@@ -70,46 +82,67 @@ class _ResultScreenState extends State<ResulScreen> {
     }
   }
 
+  /// Cargar la imagen guardada desde el JSON local
+  Future<void> _loadStoredImage() async {
+    try {
+      final fileName = widget.level.name;
+      final dir = await getApplicationDocumentsDirectory();
+      final localJsonPath = path.join(dir.path, '$fileName.json');
+
+      // Si el archivo local existe, cargar la imagen desde allí
+      if (File(localJsonPath).existsSync()) {
+        final file = File(localJsonPath);
+        final List<dynamic> jsonData = jsonDecode(await file.readAsString());
+
+        final match = jsonData.firstWhere(
+          (entry) =>
+              entry['Hint 1']?.trim() == widget.hint1.trim() &&
+              entry['Hint 2']?.trim() == widget.hint2.trim() &&
+              entry['Hint 3']?.trim() == widget.hint3.trim(),
+          orElse: () => null,
+        );
+
+        if (match != null && match['locationImage'] != null) {
+          final imagePath = match['locationImage'] as String;
+          if (File(imagePath).existsSync()) {
+            setState(() {
+              _localImageLocation = Image.file(File(imagePath), fit: BoxFit.cover);
+            });
+          }
+        }
+      }
+    } catch (e) {
+      debugPrint('Error al cargar imagen almacenada: $e');
+    }
+  }
+
   Future<void> _takePhoto() async {
     try {
-      _picker
-          .pickImage(source: ImageSource.camera)
-          .then((XFile? photo) async {
-            if (photo == null) return; // Usuario canceló
+      final XFile? photo = await _picker.pickImage(source: ImageSource.camera);
+      if (photo == null) return; // Usuario canceló
 
-            final Directory appDir = await getApplicationDocumentsDirectory();
-            final String fileName = '${widget.level.name}Location.jpg';
-            final String filePath = path.join(appDir.path, fileName);
+      final Directory appDir = await getApplicationDocumentsDirectory();
+      // Generar nombre único basado en los hints
+      final String hintHash = _generateHintHash();
+      final String fileName = '${widget.level.name}_${hintHash}.jpg';
+      final String filePath = path.join(appDir.path, fileName);
 
-            // Copiamos la imagen
-            await File(photo.path).copy(filePath);
+      // Copiar la imagen
+      await File(photo.path).copy(filePath);
 
-            // Actualizamos el estado inmediatamente
-            setState(() {
-              widget.level.updateLocationImage(filePath);
-            });
-          })
-          .catchError((e) {
-            showDialog(
-              context: context,
-              builder: (context) => AlertDialog(
-                title: const Text('Error'),
-                content: Text('No se pudo tomar la foto: $e'),
-                actions: [
-                  TextButton(
-                    onPressed: () => Navigator.pop(context),
-                    child: const Text('OK'),
-                  ),
-                ],
-              ),
-            );
-          });
+      // Guardar la ruta en el JSON
+      await _saveLocationImage(filePath);
+
+      // Actualizar la imagen local de ESTA pantalla
+      setState(() {
+        _localImageLocation = Image.file(File(filePath), fit: BoxFit.cover);
+      });
     } catch (e) {
       showDialog(
         context: context,
         builder: (context) => AlertDialog(
           title: const Text('Error'),
-          content: Text('No se pudo acceder a la cámara: $e'),
+          content: Text('No se pudo tomar la foto: $e'),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(context),
@@ -118,6 +151,54 @@ class _ResultScreenState extends State<ResulScreen> {
           ],
         ),
       );
+    }
+  }
+
+  Future<void> _saveLocationImage(String newImagePath) async {
+    try {
+      final fileName = widget.level.name;
+      final dir = await getApplicationDocumentsDirectory();
+      final localJsonPath = path.join(dir.path, '$fileName.json');
+
+      // Verificamos si ya existe una copia local del JSON, si no la copiamos desde assets
+      if (!File(localJsonPath).existsSync()) {
+        final assetData = await rootBundle.loadString(
+          'assets/data/$fileName.json',
+        );
+        await File(localJsonPath).writeAsString(assetData);
+      }
+
+      // Leemos el JSON local
+      final file = File(localJsonPath);
+      final List<dynamic> jsonData = jsonDecode(await file.readAsString());
+
+      // Buscamos la entrada correspondiente
+      final match = jsonData.firstWhere(
+        (entry) =>
+            entry['Hint 1']?.trim() == widget.hint1.trim() &&
+            entry['Hint 2']?.trim() == widget.hint2.trim() &&
+            entry['Hint 3']?.trim() == widget.hint3.trim(),
+        orElse: () => null,
+      );
+
+      if (match != null) {
+        // Si ya hay una imagen guardada para ESTA entrada específica, la eliminamos
+        final oldImagePath = match['locationImage'];
+        if (oldImagePath != null && oldImagePath.toString().isNotEmpty) {
+          final oldFile = File(oldImagePath);
+          if (await oldFile.exists()) {
+            await oldFile.delete();
+          }
+        }
+
+        // Actualizamos con la nueva ruta
+        match['locationImage'] = newImagePath;
+
+        // Guardamos el JSON actualizado
+        await file.writeAsString(jsonEncode(jsonData));
+      }
+    } catch (e) {
+      debugPrint('Error al guardar la imagen en JSON: $e');
     }
   }
 
@@ -170,14 +251,15 @@ class _ResultScreenState extends State<ResulScreen> {
 
                 const SizedBox(height: 20),
 
-                if (widget.level.imageLocation != null)
+                // Solo mostrar la imagen local de esta pantalla
+                if (_localImageLocation != null)
                   Container(
                     width: 200,
                     height: 200,
                     decoration: BoxDecoration(
                       border: Border.all(color: Colors.grey),
                     ),
-                    child: widget.level.imageLocation!,
+                    child: _localImageLocation!,
                   ),
                 const SizedBox(height: 20),
                 ElevatedButton.icon(

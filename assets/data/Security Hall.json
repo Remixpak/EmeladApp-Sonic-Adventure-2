@@ -6,7 +6,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": 1,
     "Location type": "Enemy",
-    "Description": "Yellow C, in the GUN electric beetle robot on the right (closer to B block)."
+    "Description": "Yellow C, in the GUN electric beetle robot on the right (closer to B block).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 33,
@@ -15,7 +16,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 2,
@@ -24,7 +26,8 @@
     "Hint 3": "at the end of \"c\" block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Yellow C, at the end of the ledge behind the cylinder container."
+    "Description": "Yellow C, at the end of the ledge behind the cylinder container.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 46,
@@ -33,16 +36,18 @@
     "Hint 3": "between the boxes",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Red A, between the large boxes on the left and middle, on the chao box."
+    "Description": "Red A, between the large boxes on the left and middle, on the chao box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 77,
     "Hint 1": "a place which is protected by lasers",
-    "Hint 2": "very carefully..",
+    "Hint 2": "very carefully.",
     "Hint 3": "the floor in the middle of the switch room",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Upper area, yellow (center), floating in an \"L\" path: it goes between the two north boxes, and between the two east boxes."
+    "Description": "Upper area, yellow (center), floating in an \"L\" path: it goes between the two north boxes, and between the two east boxes.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 75,
@@ -51,7 +56,8 @@
     "Hint 3": "yellow \"a\"",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Yellow A, rightmost group of safes, in the lower-left safe."
+    "Description": "Yellow A, rightmost group of safes, in the lower-left safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 3,
@@ -60,7 +66,8 @@
     "Hint 3": "at the end of \"a\" block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 47,
@@ -69,7 +76,8 @@
     "Hint 3": "in the tank",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 74,
@@ -78,16 +86,18 @@
     "Hint 3": "blue \"a\"",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 76,
     "Hint 1": "a place which is protected by lasers",
-    "Hint 2": "very carefully..",
+    "Hint 2": "very carefully.",
     "Hint 3": "the floor in the middle of the switch room",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 4,
@@ -96,7 +106,8 @@
     "Hint 3": "at the end of \"a\" block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red A, floating near the spiked car at the side of the room."
+    "Description": "Red A, floating near the spiked car at the side of the room.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 78,
@@ -105,16 +116,18 @@
     "Hint 3": "blue \"c\"",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 79,
     "Hint 1": "a shady place",
-    "Hint 2": "very carefully..",
+    "Hint 2": "very carefully.",
     "Hint 3": "the floor in the middle of the switch room",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Upper area, yellow (center), under the left side of the weight."
+    "Description": "Upper area, yellow (center), under the left side of the weight.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 48,
@@ -123,7 +136,8 @@
     "Hint 3": "on the air duct on the yellow floor",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Yellow C, on the square air duct under the divider between yellow and blue."
+    "Description": "Yellow C, on the square air duct under the divider between yellow and blue.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 49,
@@ -132,7 +146,8 @@
     "Hint 3": "in the tank",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Red A, on the ground near B block, in the cylinder tank."
+    "Description": "Red A, on the ground near B block, in the cylinder tank.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 37,
@@ -141,7 +156,8 @@
     "Hint 3": "in the spiked car",
     "Piece #": 2,
     "Location type": "Enemy",
-    "Description": "Red between A and B blocks, in the spiked car."
+    "Description": "Red between A and B blocks, in the spiked car.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 50,
@@ -150,7 +166,8 @@
     "Hint 3": "on the red switch",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Upper area, red (left), floating high above the safe-opening switch (about at the height of the yellow area's floor)."
+    "Description": "Upper area, red (left), floating high above the safe-opening switch (about at the height of the yellow area's floor).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 36,
@@ -159,7 +176,8 @@
     "Hint 3": "in the spiked car",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Upper area, red (left), in the spiked car enemy."
+    "Description": "Upper area, red (left), in the spiked car enemy.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 1,
@@ -168,7 +186,8 @@
     "Hint 3": "in the container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 35,
@@ -177,7 +196,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 80,
@@ -186,7 +206,8 @@
     "Hint 3": "switch room",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 5,
@@ -195,7 +216,8 @@
     "Hint 3": "in the corner of \"a\" block and \"b\" block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Between A and B blocks, away from the safes, low on the wall next to the corner."
+    "Description": "Between A and B blocks, away from the safes, low on the wall next to the corner.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 6,
@@ -204,52 +226,58 @@
     "Hint 3": "in the corner of \"b\" block and \"c\" block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Between B and C blocks, away from the safes, high on the wall next to the corner."
+    "Description": "Between B and C blocks, away from the safes, high on the wall next to the corner.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 38,
-    "Hint 1": "everyone has seen it at least once before..",
+    "Hint 1": "everyone has seen it at least once before.",
     "Hint 2": "down below",
     "Hint 3": "in the spiked car",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 51,
-    "Hint 1": "hiding up there..",
+    "Hint 1": "hiding up there.",
     "Hint 2": "a block",
     "Hint 3": "on the square air duct",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Near the ceiling in A block, on the air duct closest to the ceiling."
+    "Description": "Near the ceiling in A block, on the air duct closest to the ceiling.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 7,
-    "Hint 1": "hiding up there..",
+    "Hint 1": "hiding up there.",
     "Hint 2": "a block",
     "Hint 3": "below the square air duct",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 52,
-    "Hint 1": "hiding up there..",
+    "Hint 1": "hiding up there.",
     "Hint 2": "c block",
     "Hint 3": "near the ceiling",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "NOT YET ON MAP",
-    "Hint 1": "hiding up there..",
+    "Hint 1": "hiding up there.",
     "Hint 2": "b block",
     "Hint 3": "on the square air duct",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 53,
@@ -258,7 +286,8 @@
     "Hint 3": "a tank near the blue switch",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Upper area, blue (right), in the cylinder tank to the left of the blue switch."
+    "Description": "Upper area, blue (right), in the cylinder tank to the left of the blue switch.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 54,
@@ -267,7 +296,8 @@
     "Hint 3": "a tank in \"c\" block",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 55,
@@ -276,7 +306,8 @@
     "Hint 3": "a safe in \"a\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Blue A, middle group of safes, in the upper-right safe."
+    "Description": "Blue A, middle group of safes, in the upper-right safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 82,
@@ -285,7 +316,8 @@
     "Hint 3": "c block",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Red C, between the fans. Doesn't need drill drive, you can get it at the lowest point of your floating."
+    "Description": "Red C, between the fans. Doesn't need drill drive, you can get it at the lowest point of your floating.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 81,
@@ -294,7 +326,8 @@
     "Hint 3": "a block",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 8,
@@ -303,7 +336,8 @@
     "Hint 3": "entrance to the red switch",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 83,
@@ -312,7 +346,8 @@
     "Hint 3": "switch room",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Upper area, red (left), floating in a circle around the beetle enemy in the back."
+    "Description": "Upper area, red (left), floating in a circle around the beetle enemy in the back.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 84,
@@ -321,7 +356,8 @@
     "Hint 3": "a safe in \"c\" block",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Yellow C, middle group of safes, in the lower-left safe (the one that the invisible ring arrow is pointing at)."
+    "Description": "Yellow C, middle group of safes, in the lower-left safe (the one that the invisible ring arrow is pointing at).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 85,
@@ -330,7 +366,8 @@
     "Hint 3": "in the sky above the switch room",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area, under the highest platform (the lost chao platform); glide into the emerald from the wooden boxes of the platform below."
+    "Description": "Upper area, under the highest platform (the lost chao platform); glide into the emerald from the wooden boxes of the platform below.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 56,
@@ -339,7 +376,8 @@
     "Hint 3": "between \"b\" block and \"c\" block",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Yellow between B and C, in the upper corner under the blue area's floor."
+    "Description": "Yellow between B and C, in the upper corner under the blue area's floor.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 39,
@@ -348,7 +386,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 57,
@@ -357,7 +396,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Blue B, on the extreme right in the lone safe."
+    "Description": "Blue B, on the extreme right in the lone safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 58,
@@ -366,7 +406,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Red B, in a lone safe to the right of the weight."
+    "Description": "Red B, in a lone safe to the right of the weight.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 59,
@@ -375,7 +416,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 40,
@@ -384,7 +426,8 @@
     "Hint 3": "in the spiked car",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Red A, in the spiked car at the side of the room."
+    "Description": "Red A, in the spiked car at the side of the room.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "GAMECUBE",
@@ -393,7 +436,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Blue B, group of safes left of the cages, in the lower-right safe (right next to the letter B)."
+    "Description": "Blue B, group of safes left of the cages, in the lower-right safe (right next to the letter B).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 60,
@@ -402,7 +446,8 @@
     "Hint 3": "a safe in \"c\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Red C, middle group of safes, in the upper-right safe."
+    "Description": "Red C, middle group of safes, in the upper-right safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 86,
@@ -411,7 +456,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Yellow B, guarded by the right weight, in the lower-left safe that's guarded by the weight (there's an open safe on the left with a cardboard box in it)."
+    "Description": "Yellow B, guarded by the right weight, in the lower-left safe that's guarded by the weight (there's an open safe on the left with a cardboard box in it).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 61,
@@ -420,7 +466,8 @@
     "Hint 3": "a safe in \"a\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 41,
@@ -429,7 +476,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Upper area, blue (right), in the robot standing on the northwest block."
+    "Description": "Upper area, blue (right), in the robot standing on the northwest block.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 42,
@@ -438,7 +486,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Upper area, blue (right), in the robot standing on the southwest block."
+    "Description": "Upper area, blue (right), in the robot standing on the southwest block.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 87,
@@ -447,7 +496,8 @@
     "Hint 3": "in the sky above \"b\" block",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Near the ceiling of the lower area, in the center of the room; in the lower wooden box of two wooden boxes stacked on top of each other."
+    "Description": "Near the ceiling of the lower area, in the center of the room; in the lower wooden box of two wooden boxes stacked on top of each other.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 88,
@@ -456,7 +506,8 @@
     "Hint 3": "in the sky above the switch room",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area, on the high platform with two wooden boxes stacked on top of each other; it's in the lower wooden box."
+    "Description": "Upper area, on the high platform with two wooden boxes stacked on top of each other; it's in the lower wooden box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 62,
@@ -465,7 +516,8 @@
     "Hint 3": "between the boxes",
     "Piece #": 2,
     "Location type": "Exposed",
-    "Description": "Upper area, blue (right), behind the southwest big box and next to a black box."
+    "Description": "Upper area, blue (right), behind the southwest big box and next to a black box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 44,
@@ -474,7 +526,8 @@
     "Hint 3": "in the spiked car",
     "Piece #": "1,2",
     "Location type": "Enemy",
-    "Description": "Upper area, blue (right), in the spiked car enemy."
+    "Description": "Upper area, blue (right), in the spiked car enemy.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 43,
@@ -483,7 +536,8 @@
     "Hint 3": "in the gun's robot",
     "Piece #": "",
     "Location type": "Enemy",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 89,
@@ -492,7 +546,8 @@
     "Hint 3": "switch room",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 9,
@@ -501,7 +556,8 @@
     "Hint 3": "between \"a\" block and \"b\" block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Blue between A and B, at the ceiling corner of the main room."
+    "Description": "Blue between A and B, at the ceiling corner of the main room.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 10,
@@ -510,7 +566,8 @@
     "Hint 3": "b block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Yellow B, in plain sight above the right weight."
+    "Description": "Yellow B, in plain sight above the right weight.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 90,
@@ -519,7 +576,8 @@
     "Hint 3": "the box for the scrapped weapons in the switch room",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 91,
@@ -528,16 +586,18 @@
     "Hint 3": "yellow \"b\"",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Yellow B, in the rightmost group of six safe doors; the upper-middle safe (the upper-right one of the four guarded by the weight). The weight switch is above the left side of the weight (but you don't really need to use the switch)."
+    "Description": "Yellow B, in the rightmost group of six safe doors; the upper-middle safe (the upper-right one of the four guarded by the weight). The weight switch is above the left side of the weight (but you don't really need to use the switch).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 45,
-    "Hint 1": "taking a nap..",
+    "Hint 1": "taking a nap.",
     "Hint 2": "a dark room",
     "Hint 3": "in the gun's robot",
     "Piece #": 1,
     "Location type": "Enemy",
-    "Description": "Upper area, blue (right), robot on the northeast box (it won't \"wake up\" when you get near)."
+    "Description": "Upper area, blue (right), robot on the northeast box (it won't \"wake up\" when you get near).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 63,
@@ -546,7 +606,8 @@
     "Hint 3": "a safe in \"c\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Blue C, leftmost group of safes, in the upper-right safe. If you're in the upper area in the blue (right) part, at the right side of the room, then the radar will be green for this."
+    "Description": "Blue C, leftmost group of safes, in the upper-right safe. If you're in the upper area in the blue (right) part, at the right side of the room, then the radar will be green for this.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 93,
@@ -555,7 +616,8 @@
     "Hint 3": "in the sky above \"a\" block",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Near the ceiling in A block, in a wooden box on a platform with three boxes (two wooden, one iron)."
+    "Description": "Near the ceiling in A block, in a wooden box on a platform with three boxes (two wooden, one iron).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 64,
@@ -564,7 +626,8 @@
     "Hint 3": "a safe in \"a\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Red A, leftmost group of safes, in the upper-left safe."
+    "Description": "Red A, leftmost group of safes, in the upper-left safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 66,
@@ -573,7 +636,8 @@
     "Hint 3": "a safe in \"c\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Red C, leftmost group of safes, in the upper-left safe."
+    "Description": "Red C, leftmost group of safes, in the upper-left safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 11,
@@ -582,7 +646,8 @@
     "Hint 3": "in the container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 65,
@@ -591,7 +656,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 92,
@@ -600,7 +666,8 @@
     "Hint 3": "near the ceiling in \"a\" block and \"b\" block",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 96,
@@ -609,7 +676,8 @@
     "Hint 3": "blue \"c\"",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Blue C, middle group of safes, in the lower-left safe."
+    "Description": "Blue C, middle group of safes, in the lower-left safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 95,
@@ -618,7 +686,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 3,
     "Location type": "Difficult",
-    "Description": "Yellow B, guarded by the left weight, in the lower-right safe guarded by the weight."
+    "Description": "Yellow B, guarded by the left weight, in the lower-right safe guarded by the weight.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 94,
@@ -627,7 +696,8 @@
     "Hint 3": "yellow \"a\"",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 67,
@@ -636,7 +706,8 @@
     "Hint 3": "a safe in \"a\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": "NONE",
@@ -645,7 +716,8 @@
     "Hint 3": "a safe in \"c\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Blue C, group of safes right of the square air duct, in the upper-right safe."
+    "Description": "Blue C, group of safes right of the square air duct, in the upper-right safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 68,
@@ -654,7 +726,8 @@
     "Hint 3": "a safe in \"a\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 98,
@@ -663,7 +736,8 @@
     "Hint 3": "yellow \"a\"",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Yellow A, rightmost group of safes, in the lower-right safe (next to three small cylinders)."
+    "Description": "Yellow A, rightmost group of safes, in the lower-right safe (next to three small cylinders).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 12,
@@ -672,7 +746,8 @@
     "Hint 3": "c block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 97,
@@ -681,7 +756,8 @@
     "Hint 3": "blue \"c\"",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 99,
@@ -690,16 +766,18 @@
     "Hint 3": "blue \"c\"",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Yellow/Blue C, moving back and forth in the air, near a tilted laser that goes from the center of the stage to the safes area."
+    "Description": "Yellow/Blue C, moving back and forth in the air, near a tilted laser that goes from the center of the stage to the safes area.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 69,
-    "Hint 1": "two ____ looking down below..",
+    "Hint 1": "two ____ looking down below.",
     "Hint 2": "b block",
     "Hint 3": "in the tank",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Blue B, on the left, in the left cylinder tank."
+    "Description": "Blue B, on the left, in the left cylinder tank.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 24,
@@ -708,7 +786,8 @@
     "Hint 3": "on the square air duct",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Blue C, on the air duct, between four wooden boxes."
+    "Description": "Blue C, on the air duct, between four wooden boxes.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 21,
@@ -717,7 +796,8 @@
     "Hint 3": "on the fence",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red A, on the tall fence next to the fans, between the black boxes."
+    "Description": "Red A, on the tall fence next to the fans, between the black boxes.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 23,
@@ -726,7 +806,8 @@
     "Hint 3": "on the fence",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red C, on the far end of the fence, between two black boxes."
+    "Description": "Red C, on the far end of the fence, between two black boxes.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 20,
@@ -735,7 +816,8 @@
     "Hint 3": "in the container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Yellow A, in a wooden container of four wooden containers on a square air duct."
+    "Description": "Yellow A, in a wooden container of four wooden containers on a square air duct.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 22,
@@ -744,7 +826,8 @@
     "Hint 3": "on the square air duct",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 16,
@@ -753,7 +836,8 @@
     "Hint 3": "a small room with a rocket",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "B block, the small room with a rocket that's under the pulley leading to the upper area; between the wooden and black boxes on the left."
+    "Description": "B block, the small room with a rocket that's under the pulley leading to the upper area; between the wooden and black boxes on the left.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 13,
@@ -762,7 +846,8 @@
     "Hint 3": "in the container",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Red A, between the large boxes on the middle and right, in the left wooden box."
+    "Description": "Red A, between the large boxes on the middle and right, in the left wooden box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 14,
@@ -771,7 +856,8 @@
     "Hint 3": "on a large box",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red A, on a large box with black and gray boxes on it. (The emerald's between the black boxes.)"
+    "Description": "Red A, on a large box with black and gray boxes on it. (The emerald's between the black boxes.)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 19,
@@ -780,7 +866,8 @@
     "Hint 3": "on a large box",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red C, on a big box next to the fence, between the two black boxes (there's two black and two wooden boxes there)."
+    "Description": "Red C, on a big box next to the fence, between the two black boxes (there's two black and two wooden boxes there).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 71,
@@ -789,7 +876,8 @@
     "Hint 3": "switch room",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Upper area, yellow (center), on the right fence in the wooden box."
+    "Description": "Upper area, yellow (center), on the right fence in the wooden box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 70,
@@ -798,7 +886,8 @@
     "Hint 3": "in the container",
     "Piece #": 2,
     "Location type": "Concealed",
-    "Description": "Yellow A, in the wooden container next to the black container."
+    "Description": "Yellow A, in the wooden container next to the black container.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 15,
@@ -807,7 +896,8 @@
     "Hint 3": "entrance to the switch room",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 17,
@@ -816,7 +906,8 @@
     "Hint 3": "on the fence",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 18,
@@ -825,7 +916,8 @@
     "Hint 3": "on the square air duct",
     "Piece #": 1,
     "Location type": "Concealed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 73,
@@ -834,7 +926,8 @@
     "Hint 3": "a safe in \"c\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Yellow C, left group of safes, in the lower-left safe."
+    "Description": "Yellow C, left group of safes, in the lower-left safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 72,
@@ -843,7 +936,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 2,
     "Location type": "Diggable",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 25,
@@ -852,7 +946,8 @@
     "Hint 3": "under the square air duct",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Red B, under the air duct that has two wooden boxes and one black box, against the wall (so that the emerald's right under the black box)."
+    "Description": "Red B, under the air duct that has two wooden boxes and one black box, against the wall (so that the emerald's right under the black box).",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 100,
@@ -861,7 +956,8 @@
     "Hint 3": "the floor in the middle of the switch room",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Upper area, yellow (center), on the northeast robot-junk box."
+    "Description": "Upper area, yellow (center), on the northeast robot-junk box.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 26,
@@ -870,7 +966,8 @@
     "Hint 3": "a block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Blue A, middle group of safes, in the lower-left safe."
+    "Description": "Blue A, middle group of safes, in the lower-left safe.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 27,
@@ -879,7 +976,8 @@
     "Hint 3": "b block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 28,
@@ -888,7 +986,8 @@
     "Hint 3": "c block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 29,
@@ -897,7 +996,8 @@
     "Hint 3": "a block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 30,
@@ -906,7 +1006,8 @@
     "Hint 3": "b block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 31,
@@ -915,7 +1016,8 @@
     "Hint 3": "c block",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 101,
@@ -924,7 +1026,8 @@
     "Hint 3": "a safe in \"b\" block",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Red B, in the safe that's just above and left of the safes guarded by the weight. (Top row, 8th from left)"
+    "Description": "Red B, in the safe that's just above and left of the safes guarded by the weight. (Top row, 8th from left)",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 102,
@@ -933,7 +1036,8 @@
     "Hint 3": "a block",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Red A, floating in a circle above the far side of the fans."
+    "Description": "Red A, floating in a circle above the far side of the fans.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 103,
@@ -942,7 +1046,8 @@
     "Hint 3": "near the ceiling in \"b\" block",
     "Piece #": 3,
     "Location type": "Moving",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 32,
@@ -951,7 +1056,8 @@
     "Hint 3": "passageway to the upper room",
     "Piece #": 1,
     "Location type": "Exposed",
-    "Description": "Passage to the upper room; it's on the way up when you take the pulley."
+    "Description": "Passage to the upper room; it's on the way up when you take the pulley.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 105,
@@ -960,7 +1066,8 @@
     "Hint 3": "a safe in a cage",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Blue B, in the safe blocked by cages; use the missile in the laser-guarded area under the platform to the upper area."
+    "Description": "Blue B, in the safe blocked by cages; use the missile in the laser-guarded area under the platform to the upper area.",
+    "locationImage": ""
   },
   {
     "SM's piece ID": 104,
@@ -969,6 +1076,7 @@
     "Hint 3": "in the sky above \"c\" block",
     "Piece #": 3,
     "Location type": "Assorted",
-    "Description": "Not available yet"
+    "Description": "Not available yet",
+    "locationImage": ""
   }
 ]
