@@ -25,12 +25,12 @@ La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos d
 - permite al usuario seleccionar que canción reproducir.
 
 ## ScreenShots
-![image alt](./IMG-20251112-WA0032.jpg)
-![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0032.jpg))
-![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0034.jpg))
-![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0033.jpg))
-![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/Imagen%20de%20WhatsApp%202025-11-12%20a%20las%2021.56.36_62768aab.jpg))
-![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/Imagen%20de%20WhatsApp%202025-11-12%20a%20las%2022.09.24_6ecd3219.jpg))
+![image alt](./home)
+![image alt](./settings)
+![image alt](./about)
+![image alt](./hints)
+![image alt](./WildCanyon)
+![image alt](DryLagoon)
 
 ## Screen_Navegation
 
