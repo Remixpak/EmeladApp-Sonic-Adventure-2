@@ -28,7 +28,7 @@ La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos d
 ![image alt](./home)
 ![image alt](./settings)
 ![image alt](./about)
-![image alt](./hints)
+![image alt](./Hints)
 ![image alt](./WildCanyon)
 ![image alt](DryLagoon)
 
