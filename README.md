@@ -25,12 +25,12 @@ La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos d
 - permite al usuario seleccionar que canción reproducir.
 
 ## ScreenShots
-![image alt](./home)
-![image alt](./settings)
-![image alt](./about)
-![image alt](./Hints)
-![image alt](./WildCanyon)
-![image alt](DryLagoon)
+![image alt](./home.jpg)
+![image alt](./settings.jpg)
+![image alt](./about.jpg)
+![image alt](./Hints,jpg)
+![image alt](./WildCanyon.jpg)
+![image alt](DryLagoon.jpg)
 
 ## Screen_Navegation
 
