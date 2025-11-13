@@ -25,7 +25,7 @@ La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos d
 - permite al usuario seleccionar que canción reproducir.
 
 ## ScreenShots
-![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0035.jpg))
+![image alt](./IMG-20251112-WA0032.jpg)
 ![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0032.jpg))
 ![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0034.jpg))
 ![image alt]([inage_url](https://github.com/Remixpak/EmeladApp-Sonic-Adventure-2/blob/e4425123f2af4853cd769e331eea404ec89ec8dc/IMG-20251112-WA0033.jpg))
