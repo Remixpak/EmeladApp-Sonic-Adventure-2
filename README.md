@@ -11,13 +11,28 @@ La aplicación ofrece al usuario una forma rápida de encontrar los fragmentos d
 
 ## Features
 
-- La app debe permitir al usuario el personaje con el cual jugará.
-- La app debe permitir al usuario el nivel que jugará.
-- La app debe entregar una solución con al menos una pista (puede ser más de ua solución si no se especifican las otras pistas).
+- La app debe permitir al usuario seleccionar el personaje con el cual jugará.
+- La app debe permitir al usuario seleccionar el nivel que jugará.
 - La app debe permitir al usuario ingresar o tomar una foto del lugar en el que encontró el fragmento de esmeralda.
 - La app debe contar con una pantalla de información que detalle las versiones del juego que son compatibles.
-- La app debe reproducir sonidos característicos de los personajes al seleccionarlo
-- La app debe permitir al usuario poner canciones del juegos si es que lo prefiere
+- La app debe permitir al usuario poner canciones del juegos si es que lo prefiere.
+
+## User preferences & persistence
+
+- Las preferencias del usuario se almacenan localmente para mantener su configuración entre sesiones.
+- La app permite desactivar la música de fondo.
+- permite reproducir 1 canción o las 3 disponibles en bucle.
+- permite al usuario seleccionar que canción reproducir.
+## APK
+- https://drive.google.com/file/d/1aREBmSfVl1QsBWN4gYboV1jCRoEpU8FH/view?usp=drive_link
+
+## ScreenShots
+![image alt](./home.jpg)
+![image alt](./settings.jpg)
+![image alt](./about.jpg)
+![image alt](./Hints,jpg)
+![image alt](./WildCanyon.jpg)
+![image alt](DryLagoon.jpg)
 
 ## Screen_Navegation
 
